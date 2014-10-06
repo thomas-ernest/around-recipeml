@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Gołąbki Makłowicza</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>45</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>kg</unit>
+                </amt>
+                <item>mięsa mielonego</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1/2</qty>
+                </amt>
+                <item>główki kapusty pekińskiej</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                </amt>
+                <item>marchewki</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                </amt>
+                <item>pietruszki</item>
+            </ing>
+            <ing>
+                <amt>
+										<range>
+		                    <q1>2</q1>
+		                    <q2>3</q2>
+										</range>
+                </amt>
+                <item>jajka</item>
+            </ing>
+            <ing>
+                <amt>
+										<range>
+		                    <q1>3</q1>
+		                    <q2>4</q2>
+										</range>
+                    <unit>lyzki</unit>
+                </amt>
+                <item>bulka tartej</item>
+            </ing>
+            <ing>
+                <item>sól</item>
+            </ing>
+            <ing>
+                <item>pieprz</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Kapustę posiekać, marchew i pietruszkę zetrzeć na tarce. Dodać mięso jajka i bułkę tartą  i dokładnie wymieszać.</step>
+            <step>Wyrobić kotlety. Obtoczyć w mące i podsmażyć.</step>
+            <step>Po usmażeniu dusić w rosole (2 kostki rosołowe rozpuścić w wodzie). Odstawić. </step>
+            <step>Na patelni usmażyć 3 łyżki maki na maśle, dodać przecier pomidorowy, wodę, śmietanę i 2 ząbki czosnku.</step>
+            <step>Wlać do rosołu i dusić.</step>
+        </directions>
+    </recipe>
+</recipeml>

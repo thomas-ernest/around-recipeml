@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Spaghetti alla carbonara</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>25</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>250</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>sera Mascarpone</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>wędzonego boczku</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>400</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>makaronu Spaghetti</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                </amt>
+                <item>jajka</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>łyżki</unit>
+                </amt>
+                <item>tartego sera parmezan</item>
+            </ing>
+            <ing>
+                <item>masło</item>
+            </ing>
+            <ing>
+                <item>sól</item>
+            </ing>
+            <ing>
+                <item>pieprz</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Utrzeć 2 cale jajka i jedno żółtko z mascarpone na gładką masę. Dodać sól, pieprz i parmezan.</step>
+            <step>Boczek pokroić w małą kostkę. Smażyć na patelni z dodatkiem malej ilości masła, aż stanie sie chrupiący.</step>
+            <step>Ugotowane gorące spaghetti przełożyć na patelnie z boczkiem, następnie dodać utarta masę mascarpone.</step>
+            <step>Całość wymieszać delikatnie drewniana łyżka.</step>
+            <step>Podawać natychmiast po przygotowaniu.</step>
+        </directions>
+    </recipe>
+</recipeml>

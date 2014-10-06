@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Jaja na twardo z sosem wielkanocnym</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>10</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooling">
+							  <time>
+								    <qty>2</qty>
+								    <timeunit>godziny</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+						<ing-div>
+								<title>Jaja</title>
+		            <ing>
+		                <amt>
+		                    <qty>4</qty>
+		                </amt>
+		                <item>jaja ugotowane na twardo</item>
+		            </ing>
+						</ing-div>
+						<ing-div>
+								<title>Sos</title>
+		            <ing>
+		                <amt>
+		                    <qty>100</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>majonezu</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżeczka</unit>
+		                </amt>
+		                <item>musztardy</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>2</qty>
+		                    <unit>łyżki</unit>
+		                </amt>
+		                <item>grzybków marynowanych</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżka</unit>
+		                </amt>
+		                <item>szczypiorku</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                </amt>
+		                <item>ogórek kiszony lub konserwowy</item>
+		            </ing>
+		            <ing>
+		                <item>sól</item>
+		            </ing>
+		            <ing>
+		                <item>pieprz</item>
+		            </ing>
+						</ing-div>
+        </ingredients>
+        <directions>
+						<step>Jaja obieramy</step>
+						<step>Z wszystkich podanych składników przyrządzamy sos.</step>
+						<step>Grzybki oraz ogórka siekamy, dodajemy do sosu.</step>
+						<step>Jaja podajemy na zimno polane przygotowanym sosem.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

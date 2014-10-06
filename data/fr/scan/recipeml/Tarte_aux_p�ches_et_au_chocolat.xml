@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Tarte aux pêches et au chocolat</title>
+            <source/>
+            <categories/>
+            <yield>
+								<range><q1>6</q1><sep> to </sep><q2>8</q2></range>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>45</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>flaky pastry </item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>50</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>butter</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>50</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>sugar</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>egg</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>50</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>powdered almonds</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>teaspoon</unit>
+                </amt>
+                <item>flour</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>tablespoon</unit>
+                </amt>
+                <item>rum</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>4</qty>
+                    <unit/>
+                </amt>
+                <item>yellow peaches</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>40</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>chocolate chips</item>
+            </ing>
+        </ingredients>
+        <directions>
+						<step>Déroulez la pâte dans le plat à tarte.</step>
+						<step>Préchauffez le four à 180°C pendant 15 min.</step>
+						<step>Dans un saladier, mélangez à l’aide d’un fouet, le beurre ramolli, le sucre et l’oeuf. Ajoutez la poudre d’amandes, la farine et le rhum.</step>
+						<step>Mélangez le tout pour obtenir une créme d’amande bien homogéne.</step>
+						<step>Versez er répartissez la préparation sur le fond de pâte sablée.</step>
+						<step>Disposez sur la créme les pêches préalablement épluchées et découpées en ﬁnes tranches.</step>
+						<step>Incorporez les pépites de chocolat. Parsemez de pépites de chocolat et enfournez pendant 40 à 45 min.</step>
+						<step>Vous pouvez la servir légérement tiéde, elle sera encore meilleure.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

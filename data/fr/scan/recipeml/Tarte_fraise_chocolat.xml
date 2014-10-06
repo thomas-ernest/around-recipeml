@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Tarte fraise chocolat</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>6</qty>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>25</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>strawberries</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>170</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>milk chocolate</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>flaky pastry ,  (pâte feuilletée)</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>milliliters</unit>
+                </amt>
+                <item>liquid cream</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>4</qty>
+                    <unit/>
+                </amt>
+                <item>eggs</item>
+            </ing>
+        </ingredients>
+        <equipment>
+						<tool>
+								<qty>1</qty>
+								<brandname>
+										<product>moule à tarte</product>
+								</brandname>
+						</tool>
+				</equipment>
+				<directions>
+						<step>Préchauffez votre four Th.7/8 (220°C)</step>
+						<step>Faites fondre le chocolat au bain marie ou au four à micro-ondes. Ajoutez la crème liquide et les oeufs. Mélangez.</step>
+						<step>Déroulez votre pâte à tarte en conservant la feuille de cuisson. Versez dessus l'appareil au chocolat. Faites cuire 25 minutes dans votre four. Si nécessaire au bout de 20 minutes, recouvrez votre tarte d'une feuille d'aluminium.</step>
+						<step>Laissez refroidir et ajoutez les fraises lavées et coupées en deux.</step>
+						<step>Suggestion: ajoutez de la poudre d'amandes (environ 50 g) dans l'appareil au chocolat.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

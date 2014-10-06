@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Bigos</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>6</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>50</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>4</qty>
+								    <timeunit>godziny</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>1200</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>kiszonej kapusty</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>300</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>wołowiny</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>300</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>wieprzowiny</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>kiełbasy</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                </amt>
+                <item>cebula</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                    <unit>łyżki</unit>
+                </amt>
+                <item>powidel śliwkowych lub 10 śliwek suszonych</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>łyżka</unit>
+                </amt>
+                <item>przyprawy do bigosu i potraw z kapusty</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                </amt>
+                <item>liście laurowe</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>5</qty>
+                    <unit>ziaren</unit>
+                </amt>
+                <item>ziela angielskiego</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>5</qty>
+                    <unit>ziaren</unit>
+                </amt>
+                <item>pieprzu czarnego ziarnistego</item>
+            </ing>
+            <ing>
+                <item>sól</item>
+            </ing>
+        </ingredients>
+        <directions>
+						<step>Kapustę odoisnąć, pokroić i zalać wodą. Po zagotowaniu, gdyby była za kwaśna, odlać sok (nie wylewać) i dolać wody. Gotować około 1,5 godziny.</step>
+						<step>Mięso obsmażyć na patelni, przełożyć do brytfanki, dodać cebulę, liście laurowe, ziele i pieprz. Delikatnie posolić. Piec w piekarniku około 1,5 godziny.</step>
+						<step>Kiełbasę pokroić w kostkę i obsmażyć na patelni. Dodać, razem z pokrojonym w kostkę mięsem i cebulą, do kapusty.</step>
+            <step>Wsypać Przyprawę do bigosu i potraw z kapusty, dodać powidła lub śliwki, dokładnie wymieszać i całość gotować około 1 godziny.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

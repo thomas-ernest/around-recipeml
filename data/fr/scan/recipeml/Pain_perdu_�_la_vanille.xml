@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Pain perdu à la vanille</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>5</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit/>
+                </amt>
+                <item>eggs</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>milliliters</unit>
+                </amt>
+                <item>milk</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>milliliters</unit>
+                </amt>
+                <item>liquid crème fraîche</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>bags</unit>
+                </amt>
+                <item>vanilla sugar</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>stale bread</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Fouettez 2 oeufs avec 10 cl de lait, 20 cl de créme fraiche liquide et 2 sachets de sucre vanillé.</step>
+						<step>Trempez 4 tranches de pain rassis dans le mélange.</step>
+						<step>Egouttez-les légèrement et faites cuire chaque face dans une poêle bien chaude, préalablement beurrée.</step>
+						<step>Lorsqu'elles sont bien dorées, les retirer et dégustez immédiatement.</step>
+						<step>Astuce : Pour les plus gourmands, remplacez le pain par de la brioche.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

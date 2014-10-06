@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Kluski leniwe</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>1</qty>
+								    <timeunit>godzina</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+						<ing-div>
+								<title>Kluski</title>
+		            <ing>
+		                <amt>
+		                    <qty>500</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>twarogu</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>500</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>ziemniaków</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>szklanka</unit>
+		                </amt>
+		                <item>mąki</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                </amt>
+		                <item>jajko</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>2</qty>
+		                </amt>
+		                <item>żółtka</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>szczypta</unit>
+		                </amt>
+		                <item>soli</item>
+		            </ing>
+						</ing-div>
+						<ing-div>
+								<title>Do polania</title>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżka</unit>
+		                </amt>
+		                <item>masła</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżka</unit>
+		                </amt>
+		                <item>bułki tartej lub śmietana</item>
+		            </ing>
+		            <ing>
+		                <item>sezonowe owoce</item>
+		            </ing>
+						</ing-div>
+        </ingredients>
+        <directions>
+            <step>Ziemniaki obrać, ugotować w lekko osolonej wodzie, odcedzić, utłuc i przestudzić.</step>
+            <step>Twaróg zemleć, dodać do ziemniaków, wbić całe jajko i żółtka, dodać mąkę, szczyptę soli, a następnie zagnieść ciasto.</step>
+            <step>Z ciasta uformować wałeczki, lekko spłaszczyć i kroić ukośne kluski (długość około 3cm).</step>
+            <step>Ugotować w lekko osolonej wodzie.</step>
+            <step>Odcedzić, polać tłuszczem z bułką tartą lub śmietaną i udekorować sezonowymi owocami.</step>
+        </directions>
+    </recipe>
+</recipeml>

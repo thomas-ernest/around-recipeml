@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Sałatka nicejska</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>10</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                </amt>
+                <item>główka sałaty kruchej lub zwykłej, np. lodowej</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>tuńczyka z puszki</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                </amt>
+                <item>pomidory</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>20</qty>
+                </amt>
+                <item>oliwek</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                </amt>
+                <item>ugotowane na twardo jaja</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                </amt>
+                <item>cebula biała</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>ząbki</unit>
+                </amt>
+                <item>czosnku</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>łyżki</unit>
+                </amt>
+                <item>oliwy</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>łyżka</unit>
+                </amt>
+                <item>soku z cytryny lub octu winnego</item>
+            </ing>
+            <ing>
+                <item>sól</item>
+            </ing>
+            <ing>
+                <item>pieprz</item>
+            </ing>
+            <ing>
+                <item>cukier</item>
+            </ing>
+        </ingredients>
+        <directions>
+					<dir-div>
+							<title>Sałatka</title>
+	            <step>Sałatę myjemy, osuszamy i palcami rwiemy na kawałki, pomidory kroimy w cząstki, cebulę w talarki, jaja na ćwiartki.</step>
+	            <step>Dodajemy tuńczyka i oliwki.</step>
+						</dir-div>
+						<dir-div>
+							<title>Sos</title>
+	            <step>Czosnek siekamy, ucieramy z cukrem, solą i pieprzem, dodajemy sok z cytryny lub ocet winny, stopniowo dolewamy oliwę i dokładnie ucieramy.</step>
+	            <step>Sosem zalewamy składniki sałatki i dokładnie mieszamy.</step>
+						</dir-div>
+        </directions>
+    </recipe>
+</recipeml>

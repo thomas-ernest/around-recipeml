@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Sałatka na winobranie</title>
+            <source/>
+            <categories/>
+            <yield>
+								<range>
+										<q1>7</q1>
+										<sep>-</sep>
+										<q2>8</q2>
+								</range>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>50</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>5</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooling">
+							  <time>
+								    <qty>2</qty>
+								    <timeunit>godziny</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+						<ing-div>
+								<title>Sałatka</title>
+		            <ing>
+		                <amt>
+		                    <qty>250</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>pieczonego mięsa z kurczaka</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                </amt>
+		                <item>cebula</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                </amt>
+		                <item>pęcżek rzodkiewek</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>100</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>sera żółtego</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>100</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>czarnych</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>100</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>białych winogron</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>100</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>fasolki szparagowej (może być z puszki)</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>2</qty>
+		                </amt>
+		                <item>pomidory</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>100</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>połówek orzecha włoskiego</item>
+		            </ing>
+						</ing-div>
+						<ing-div>
+								<title>Sos</title>
+		            <ing>
+		                <amt>
+		                    <qty>100</qty>
+		                    <unit>ml</unit>
+		                </amt>
+		                <item>oleju</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>100</qty>
+		                    <unit>ml</unit>
+		                </amt>
+		                <item>octu</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1/2</qty>
+		                    <unit>szklanki</unit>
+		                </amt>
+		                <item>różowego wina</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>4</qty>
+		                    <unit>łyżki</unit>
+		                </amt>
+		                <item>soku z winogron</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżka</unit>
+		                </amt>
+		                <item>rozmarynu</item>
+		            </ing>
+		            <ing>
+		                <item>sól</item>
+		            </ing>
+		            <ing>
+		                <item>pieprz czarny mielony</item>
+		            </ing>
+		            <ing>
+		                <item>cukier</item>
+		            </ing>
+		            <ing>
+		                <item>sos Worcester</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item></item>
+		            </ing>
+						</ing-div>
+        </ingredients>
+				<directions>
+						<dir-div>
+								<title>Sałatka</title>
+								<step>Mięso i ser pokroić w kostkę, a cebulę i rzodkiewki w cienkie plasterki. Winogrona przekroić na pół i usunąć z nich pestki.</step>
+								<step>Fasolkę oczyścić i gotować przez 5 min w osolonej wodzie.</step>
+								<step>Pomidory sparzyć, zdjąć skórkę, usunąć pestki i pokroić na cząstki. Orzechy razem ze wszystkimi innymi skladnikami włożyć do sałaterki i wymieszać.</step>
+						</dir-div>
+						<dir-div>
+								<title>Sos</title>
+								<step>Olej wymieszać z octem, winem, rozmarynem sokiem z winogron. Doprawić solą, cukrem, pieprzem i sosem Worcester.</step>
+								<step>Tak przygotowanym sosem polać sałatkę i odstawić w chłodne miejsce na ok. 2 godz.</step>
+						</dir-div>
+				</directions>
+    </recipe>
+</recipeml>

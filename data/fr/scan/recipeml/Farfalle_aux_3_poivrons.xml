@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Farfalle aux 3 poivrons</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>40</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>400</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>Farfalle</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                    <unit/>
+                </amt>
+                <item>tomatoes</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>little onion</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>red pepper</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>green pepper</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>yellow pepper</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>pod garlic</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>tablespoon</unit>
+                </amt>
+                <item>Herbes de Provence</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>basil</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                    <unit>tablespoons</unit>
+                </amt>
+                <item>olive oil</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>60</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>feta cheese</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>salt</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>pepper</item>
+            </ing>
+        </ingredients>
+        <directions>
+					<step>Pelez, épépinez et concassez les tomates. Pelez et émincer l'ognion. Lavez les poivrons et évidez les. Emincez-les en lamelles.</step>
+					<step>Dans une casserole, faites chauffer l'huile. Ajoutez l'oignon et les poivrons. Faites revenir le tout 20 minutes. Ajoutez l'ail, les tomates, les herbes de Provence. Prolongez la cuisson de 10 minutes. Salez et poivrez.</step>
+					<step>Parallèlement, faites cuire les pâtes selon le temps indiqué sur le paquet dans une grandes quantité d'eau salée. Egouttez-les.</step>
+					<step>Lavez et ciselez le basilic.</step>
+					<step>Servez les pâtes nappées des légumes. Ajoutez la feta émiettée et décorez de basilic.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

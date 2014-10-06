@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Crumble Mangue</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>10</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooling">
+							  <time>
+								    <qty>35</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>box</unit>
+                </amt>
+                <item>Mont Blanc Crème brûlée</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>mango</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>12</qty>
+                    <unit/>
+                </amt>
+                <item>biscuits Spéculos</item>
+            </ing>
+        </ingredients>
+        <directions>
+					<step>Répartissez la créme Mont Blanc dans 4 verres ou 4 coupelles. Placez-les au congélateur 30 à 35 mins.</step>
+					<step>Pendant ce temps, épluchez |a mangue, ôtez le noyau et découpez Ia chair en petits cubes.</step>
+					<step>Broyez grossiérement les biscuits de type spéculos pour les réduire en grosses miettes.</step>
+					<step>Au moment de servir, répartissez Ies cubes de mangue et parsemez Ie tout de brisures de biscuits.</step>
+					<step>Astuces: Vous pouvez remplacer la mangue par 2 pêches jaunes. Les biscuits de type spéculos parfumés à la cannelle sont une spécialité belge. Vous pouvez les trouver en grandes surfaces.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

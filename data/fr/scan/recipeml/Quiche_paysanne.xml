@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Quiche paysanne</title>
+            <source/>
+            <categories/>
+            <yield>
+								<range><q1>4</q1><sep> to </sep><q2>6</q2></range>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>230</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>flaky pastry </item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>500</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>tomatoes</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>150</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>ham</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                    <unit/>
+                </amt>
+                <item>eggs</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>150</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>cream</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>comté</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>25</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>butter</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>tablespoon</unit>
+                </amt>
+                <item>mustard</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>salt</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>pepper</item>
+            </ing>
+        </ingredients>
+        <directions>
+						<step>Sortez la pâte du réfrigérateur 5 minutes avant utilisation.</step>
+						<step>Préchauffez votre four à 210 °C (th. 7).</step>
+						<step>Déroulez la pâte, mettez-la dans 4 moules à tartelettes beurrés.</step>
+						<step>Entre-temps, incisez les tomates en croix, ébouillantez-les, pelez-les, épépinez-les et hachez-les, égouttez.</step>
+						<step>Coupez le jambon en dés.</step>
+						<step>Dans une terrine, fouettez les oeufs avec la crème, le comté râpé et le beurre ramolli, incorporez le jambon et les tomates, salez, poivrez.</step>
+						<step>Étalez une fine couche de moutarde au fond de chaque moule garni de pâte, et remptissez-les de votre préparation.</step>
+						<step>Faites cuire 20 minutes au four à 210 °C (th. 7).</step>
+        </directions>
+    </recipe>
+</recipeml>
+

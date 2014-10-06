@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Kurczak w glazurze</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>45</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooling">
+							  <time>
+								    <qty>2</qty>
+								    <timeunit>godziny</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+						<ing>
+								<amt>
+										<qty>4</qty>
+										<unit>duże udka</unit>
+								</amt>
+								<item>kurczaka (około 1 kg)</item>
+						</ing>
+						<ing-div>
+								<title>Zaprawa</title>
+		            <ing>
+		                <amt>
+		                    <qty>1/4</qty>
+		                    <unit>szklanki</unit>
+		                </amt>
+		                <item>oliwy</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżce</unit>
+		                </amt>
+		                <item>przyprawy do kurczaka</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżce</unit>
+		                </amt>
+		                <item>przyprawy do grilla</item>
+		            </ing>
+		            <ing>
+		                <item>białego octu winnego</item>
+		            </ing>
+		            <ing>
+		                <item>sosu sojowego</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżeczka</unit>
+		                </amt>
+		                <item>czosnku granułowanego</item>
+		            </ing>
+						</ing-div>
+						<ing-div>
+								<title>Glazurza</title>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżka</unit>
+		                </amt>
+		                <item>płynnego miodu</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżka</unit>
+		                </amt>
+		                <item>ostrej musztardy</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżka</unit>
+		                </amt>
+		                <item>utłuczonego</item>
+		            </ing>
+		            <ing>
+		                <item>łuskanego słonecznika prażonego</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyzeczka</unit>
+		                </amt>
+		                <item>sosu sojowego</item>
+		            </ing>
+						</ing-div>
+        </ingredients>
+				<directions>
+						<dir-div>
+								<title>Zaprawa</title>
+								<step>Oliwę wymieszać z pozostałymi składnikami na jednolitą pastę.</step>
+						</dir-div>
+						<dir-div>
+								<title>Glazurza</title>
+								<step>Miód rozetrzeć z musztardą i sosem sojowym, wymieszać z nasionami słonecznika.</step>
+								<step>Udka kurczaka umyć, osuszyć, dokładnie posmarować zaprawą i odłożyć do lodówki co najmniej na 2 godz.</step>
+								<step>Następnie piec na grillu z obu stron. Na 10 min. przed koncem pieczenia udka kilka razy posmarować glazurą.</step>
+						</dir-div>
+				</directions>
+    </recipe>
+</recipeml>

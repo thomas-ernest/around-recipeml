@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipeml version="0.5" xml:lang="fr">
+   <head>
+      <title>Pommes dauphines</title>
+      <source>http://www.marmiton.org/</source>
+      <yield>
+         <qty>4</qty>
+         <unit>personnes</unit>
+      </yield>
+      <preptime type="preparation">
+         <time>
+            <qty>30</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+      <preptime type="cooking">
+         <time>
+            <qty>40</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+   </head>
+   <ingredients>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>500 g de</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>125 g de farine</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>75 g de  beurre</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>100 g ou 10 cl d'eau</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>4  oeufs</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>sel</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>huile de friture</item>
+      </ing>
+   </ingredients>
+   <directions>
+      <step> Faites cuire les  pommes  de terre à l'eau bouilante salée environ 30 minutes (selon la taille).</step>
+      <step>Pendant ce temps, préparez la  pâte à choux  : portez à ébullition 10 cl d'eau avec le beurre.</step>
+      <step>Salez et versez d'un coup la farine, remuez énergiquement à la cuillère en
+                      bois jusqu'à ce que la pâte se détache des birds de la casserole.</step>
+      <step>Laissez tiédir puis ajoutez les oeufs un à un, en mélangeant bien à chaque fois.</step>
+      <step>Egouttez et pelez les pommes de terre, écrasez-les en  purée  fine et ajoutez-les à la pâte à  choux . Salez
+                      et poivrez, puis laissez refroidir.</step>
+      <step>Formez ensuite des petites boules de la taille d'une noix avec vos mains farinées, ou utilisez une poche à douille.</step>
+      <step>Jetez-les dans l'huile de friture bien chaude par petites quantités et laissez dorer 1 min environ.</step>
+   </directions>
+</recipeml>

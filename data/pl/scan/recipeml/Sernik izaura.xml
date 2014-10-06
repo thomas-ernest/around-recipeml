@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Sernik izaura</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>90</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>90</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+		            <ing-div>
+										<title>Ciasto</title>
+				            <ing>
+				                <amt>
+				                    <qty>250</qty>
+				                    <unit>g</unit>
+				                </amt>
+				                <item>margaryna</item>
+				            </ing>
+				            <ing>
+				                <amt>
+				                    <qty>1</qty>
+														<unit>opakowanie</unit>
+				                </amt>
+				                <item>cukru waniliowego</item>
+				            </ing>
+				            <ing>
+				                <amt>
+				                    <qty>1 i 1/2</qty>
+				                    <unit>szklanki</unit>
+				                </amt>
+				                <item>cukru</item>
+				            </ing>
+				            <ing>
+				                <amt>
+				                    <qty>3</qty>
+				                    <unit>łyżki</unit>
+				                </amt>
+				                <item>kakao</item>
+				            </ing>
+				            <ing>
+				                <amt>
+				                    <qty>5</qty>
+				                    <unit>łyżek</unit>
+				                </amt>
+				                <item>wody</item>
+				            </ing>
+				            <ing>
+				                <amt>
+				                    <qty>4</qty>
+				                    <unit></unit>
+				                </amt>
+				                <item>jajka</item>
+				            </ing>
+				            <ing>
+				                <amt>
+				                    <qty>1 i 1/2</qty>
+				                    <unit>szklanki</unit>
+				                </amt>
+				                <item>mąki</item>
+				            </ing>
+				            <ing>
+				                <amt>
+				                    <qty>3</qty>
+				                    <unit>łyżeczki</unit>
+				                </amt>
+				                <item>proszku do pieczenia</item>
+				            </ing>
+								</ing-div>
+		            <ing-div>
+										<title>Masa serowa</title>
+				            <ing>
+				                <amt>
+				                    <qty>750</qty>
+				                    <unit>g</unit>
+				                </amt>
+				                <item>sera - przemielić</item>
+				            </ing>
+				            <ing>
+				                <amt>
+				                    <qty>1</qty>
+				                    <unit>szklanka</unit>
+				                </amt>
+				                <item>cukru</item>
+				            </ing>
+				            <ing>
+				                <amt>
+				                    <qty>125</qty>
+				                    <unit>g</unit>
+				                </amt>
+				                <item>margaryny</item>
+				            </ing>
+				            <ing>
+				                <amt>
+				                    <qty>4</qty>
+				                </amt>
+				                <item>jajka</item>
+				            </ing>
+				            <ing>
+				                <amt>
+				                    <qty>2</qty>
+				                    <unit>garści</unit>
+				                </amt>
+				                <item>wiórek kokosowych</item>
+				            </ing>
+								</ing-div>
+        </ingredients>
+				<directions>
+						<dir-div>
+								<title>Ciasto</title>
+								<step>Margaryna, cukru, cukru waniliowy, kakao i wody wymieszać, gotować 5 min, następnie ostudzić.</step>
+								<step>Nastepnie do ostudzonej masy dodać miksowy żółtka, mąki i proszku do pieczenia.</step>
+								<step>Na koniec białka z 4 jaj ubić na pianę i dodać do reszty.</step>
+						</dir-div>
+						<dir-div>
+								<title>Masa serowa</title>
+								<step>Margarynę z żółtkami i cukrem utrzeć.</step>
+								<step>Potem dodać ser i 2 garści wiórek kokosowych.</step>
+								<step>Na końcu  dodać ubitą pianę z jajek.</step>
+								<step>Wyłożyć na blachę na spód masę kakaową a na górę serową.</step>
+								<step>Piec w piekarniku w 200° C przez 1 godzinę.</step>
+						</dir-div>
+				</directions>
+    </recipe>
+</recipeml>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Tarte au Fromage de Chévre</title>
+            <source/>
+            <categories/>
+            <yield>
+								<range><q1>4</q1><sep> to </sep><q2>6</q2></range>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>230</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>flaky pastry </item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>30</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>butter</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>30</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>flour</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>250</qty>
+                    <unit>milliliters</unit>
+                </amt>
+                <item>milk</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                    <unit/>
+                </amt>
+                <item>chevre cheese</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>ham</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>80</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>parmesan cheese</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit/>
+                </amt>
+                <item>yellow eggs</item>
+            </ing>
+        </ingredients>
+        <directions>
+						<step>Sortez la pâte du réfrigérateur 5 minutes avant utilisation.</step>
+						<step>Préchauffez votre four à 210°C (th. 7).</step>
+						<step>Déroulez la pâte dans votre moule avec le papier cuisson.</step>
+						<step>Faites un roux avec le beurre et la farine, mouillez avec le tait, incorporez le parmesan.</step>
+						<step>Hors du feu, ajoutez le jambon coupé en petits morceaux, les jaunes d'oeufs, les fromages de chèvre en petits morceaux.</step>
+						<step>Garnissez le fond de tarte de cette préparation.</step>
+						<step>Laisser cuire 30 minutes environ a 210°C (th. 7).</step>
+        </directions>
+    </recipe>
+</recipeml>
+

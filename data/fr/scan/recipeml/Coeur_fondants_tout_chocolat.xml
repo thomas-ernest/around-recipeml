@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Coeur fondants tout chocolat</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>10</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>10</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>chocolate</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>8</qty>
+                    <unit>pieces</unit>
+                </amt>
+                <item>chocolate</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                    <unit/>
+                </amt>
+                <item>eggs</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>80</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>powdered sugar</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>50</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>butter</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>tablespoon</unit>
+                </amt>
+                <item>flour</item>
+            </ing>
+        </ingredients>
+        <equipment>
+						<tool>
+								<qty>4</qty>
+								<brandname>
+										<product>ramequins</product>
+								</brandname>
+						</tool>
+				</equipment>
+				<directions>
+            <step>Préchauffez votre four 260 °C (th. 9)</step>
+            <step>Faites fondre les 100 g de chocolat au bain-marie. Ajoutez le beurre.</step>
+            <step>Dans un saladier, mélangez les oeufs entiers et le sucre. Ajoutez petit à petit la farine.</step>
+            <step>Incorporez le chocolat et mélangez bien.</step>
+            <step>Beurrez et farinez vos ramequins</step>
+            <step>Versez un tiers de la préparation dans le fond des ramequins. Déposez 2 carrés de chocolat puis recouvrez-les avec le reste de la préparation.</step>
+            <step>Placez vos ramequins au four environ 10 minutes.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

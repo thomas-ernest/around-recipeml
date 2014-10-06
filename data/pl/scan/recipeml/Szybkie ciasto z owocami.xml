@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Szybkie ciasto z owocami</title>
+            <source/>
+            <categories/>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>50</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>5</qty>
+                </amt>
+                <item>jajek</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>szklanka</unit>
+                </amt>
+                <item>cukru</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>szklanki</unit>
+                </amt>
+                <item>maki tortowej</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>łyżeczki</unit>
+                </amt>
+                <item>proszku do pieczenia</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>opakowanie</unit>
+                </amt>
+                <item>cukru wanilinowego</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>kostka</unit>
+                </amt>
+                <item>margaryny</item>
+            </ing>
+            <ing>
+                <item>owoce sezonowe</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Ubić białka z cukrem i cukrem wanilinowym, stopniowo dodawać żółtka.</step>
+            <step>Następnie dodać mąkę wymieszaną z proszkiem do pieczenia, rozpuszczaną, ostudzoną margarynę i całość delikatnie wymieszać.</step>
+            <step>Ciasto wylać na blachę i ułożyć owoce. Piec ok. 50 min w temperaturze 180°C.</step>
+        </directions>
+    </recipe>
+</recipeml>

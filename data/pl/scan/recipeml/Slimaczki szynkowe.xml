@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Ślimaczki szynkowe</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>25</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>opakowanie</unit>
+                </amt>
+                <item>ciasta francuskiego</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>150</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>gotowanej szynki</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                </amt>
+                <item>cebula</item>
+            </ing>
+            <ing>
+                <item>zielona pietruszka lub szczypiorek</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>łyżki</unit>
+                </amt>
+                <item>kwaśnej</item>
+            </ing>
+            <ing>
+                <item>gęstej śmietany</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                </amt>
+                <item>białko</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                </amt>
+                <item>żółtko</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>150</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>żółtego sera</item>
+            </ing>
+            <ing>
+                <item>sól</item>
+            </ing>
+            <ing>
+                <item>pierpz</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Szynkę, cebulę, ser pokroić w kostkę. Zieleninę poszatkować. Wszystko wymieszać ze śmietaną, białkiem i przyprawami.</step>
+            <step>Ciasto francuskie rozwinąć na papierze do pieczenia, posmarować je nadzieniem, pozostawić brzegi do sklejenia. Zawijać jak strudel, kroić w plastry o grubości 2-3 cm i układać je na blaszce.</step>
+            <step>Posmarować żółtkiem i piec przez 15-18 minut w temperaturze 200-220C.</step>
+            <step>Serwować na gorąco z zieloną sałatą lub na zimno do piwa.</step>
+        </directions>
+    </recipe>
+</recipeml>

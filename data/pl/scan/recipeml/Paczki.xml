@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Pączki</title>
+            <source/>
+            <categories/>
+            <yield>
+								<range>
+										<q1>20</q1>
+										<q2>40</q2>
+								</range>
+								<unit>sztuk</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>90</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+						<ing-div>
+								<title>Rozczyn</title>
+		            <ing>
+		                <amt>
+		                    <qty>50</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>drożdży</item>
+		            </ing>
+		            <ing>
+		                <item>cukier</item>
+		            </ing>
+		            <ing>
+		                <item>mąki</item>
+		            </ing>
+		            <ing>
+		                <item>mleko</item>
+		            </ing>
+						</ing-div>
+						<ing-div>
+								<title>Pączki</title>
+		            <ing>
+		                <amt>
+		                    <qty>4</qty>
+		                    <unit>szklanki</unit>
+		                </amt>
+		                <item>mąki</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>6</qty>
+		                </amt>
+		                <item>żółtek</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>szklanki</unit>
+		                </amt>
+		                <item>mleka</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>3</qty>
+		                    <unit>płaskie łyżki</unit>
+		                </amt>
+		                <item>cukru</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>125</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>tłuszczu (np. margaryna)</item>
+		            </ing>
+						</ing-div>
+        </ingredients>
+				<directions>
+						<dir-div>
+								<title>Rozczyn</title>
+								<step>Drożdży wymieszać z cukrem i mąką zostawić aż urośnie, potem dodać trochę ciepłego mleka.</step>
+						</dir-div>
+						<dir-div>
+								<title>Pączki</title>
+								<step>Żółtka ubić z cukrem. Zrobić dołek w mące, dodać rozczyn, jajka z cukrem i ciepłe mleko.</step>
+								<step>Wyrobić ciasto, potem dodać rozpuszczoną margarynę. Olejek rumowy i kieliszek wódki.</step>
+								<step>Wyrabiać aż odejdzie od ręki. Odstawić aż urośnie (ma być 2x większe).</step>
+								<step>Jak urośnie wyrobić pączki, zostawić trochę aż urosną.</step>
+								<step>Smażyć na oleju.</step>
+						</dir-div>
+				</directions>
+    </recipe>
+</recipeml>

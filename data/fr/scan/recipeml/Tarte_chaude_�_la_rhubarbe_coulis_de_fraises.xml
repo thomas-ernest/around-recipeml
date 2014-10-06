@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Tarte chaude à la rhubarbe, coulis de fraises</title>
+            <source/>
+            <categories/>
+            <yield>
+								<range><q1>6</q1><sep>to</sep><q2>8</q2></range>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>230</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>flaky pastry </item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>800</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>rhubarb</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>sugar</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>400</qty>
+                    <unit>milliliters</unit>
+                </amt>
+                <item>strawberries coulis</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>250</qty>
+                    <unit>milliliters</unit>
+                </amt>
+                <item>citron ice cream</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>mint leaves</item>
+            </ing>
+        </ingredients>
+        <directions>
+						<step>Sortez la pâte du réfrigérateur 5 minutes avant utilisation.</step>
+						<step>Préchauffez votre four A 210°C (th. 7).</step>
+						<step>Epluchez la rhubarbe et coupez la en bâtonnets de 2cm. Faites-la cuire dans une casserole avec 100g de sucre et un verre d'eau. Dès que l'eau commence à bouillir, couvrez et terminez la cuisson a feu doux une dizaine de minutes. Egouttez.</step>
+						<step>Déroulez la pâte avec sa feuille de cuisson dans un moule à tarte. Piquez la pâte et déposez dessus la rhubarbe refroidie.</step>
+						<step>Faites cuire au four à 210 °C (th. 7) pendant 30 minutes environ.</step>
+						<step>Répartissez le coulis de fraises sur des assiettes.</step>
+						<step>Déposez les parts de tarte et saupoudrez (facultatif) avec le restant de sucre.</step>
+						<step>Accompagnez d'une boule de sorbet au citron et décorez de feuilles de menthe. Servez aussitôt.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

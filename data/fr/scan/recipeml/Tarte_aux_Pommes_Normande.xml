@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Tarte aux Pommes Normande</title>
+            <source/>
+            <categories/>
+            <yield>
+								<range><q1>4</q1><sep> to </sep><q2>6</q2></range>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>40</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>230</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>flaky pastry </item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>750</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>apples Reinette</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>125</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>sugar</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>50</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>butter</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1/2</qty>
+                    <unit>teaspoon</unit>
+                </amt>
+                <item>cinnamon</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit/>
+                </amt>
+                <item>milliliters crème fraîche</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>30</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>sugar</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>tablespoon</unit>
+                </amt>
+                <item>Calvados</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>grated almonds</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>glass</unit>
+                </amt>
+                <item>Calvados</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>tablespoon</unit>
+                </amt>
+                <item>sugar</item>
+            </ing>
+        </ingredients>
+        <directions>
+						<step>Sortez la pâte du réfrigérateur 5 minutes avant utilisation.</step>
+						<step>Préchauffez votre four à 210 °C (th.7).</step>
+						<step>Pelez les pommes et les couper en morceaux. Faites les saisir à la poêle contenant le beurre.</step>
+						<step>Ajoutez le sucre et la cannelle. Les tranches de pommes doivent rester entières.</step>
+						<step>Déroulez la pâte dans votre moule avec le papier cuisson et disposez dessus les tranches de pommes.</step>
+						<step>Laissez cuire 30 minutes à 210 °C (th.7).</step>
+						<step>Fouettez la crème et les oeufs. Ajoutez le sucre et le calvados.</step>
+						<step>Versez sur la tarte, parsemez d'amandes.</step>
+						<step>Achevez la cuisson pendant 10 minutes.</step>
+						<step>À la sortie du four, saupoudrez de sucre, arrosez calvados et flambez.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

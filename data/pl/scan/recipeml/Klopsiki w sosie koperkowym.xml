@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Klopsiki w sosie koperkowym</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>500</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>mięsa</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>szklanki</unit>
+                </amt>
+                <item>bulionu</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                </amt>
+                <item>żółtka</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                </amt>
+                <item>jajko</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>łyżka</unit>
+                </amt>
+                <item>mleka</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>4</qty>
+                    <unit>łyżki</unit>
+                </amt>
+                <item>bułki tartej</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1/2</qty>
+                    <unit>szklanki</unit>
+                </amt>
+                <item>śmietany</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>łyżka</unit>
+                </amt>
+                <item>mąki ziemniaczanej</item>
+            </ing>
+            <ing>
+                <item>sól</item>
+            </ing>
+            <ing>
+                <item>pieprz</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Mięso, jajko, mleko i bułkę wymieszać, dodać sól pieprz. Wyrobić na klopsiki.</step>
+            <step>Bulion zagotować, klopsiki gotować w bulionie aż do wypłynięcia (15-20 min).</step>
+            <step>Wyjąć klopsiki, bulion przecedzić.</step>
+            <step>Wymieszać żółtko, śmietanę, mąkę, odrobinę wody, czosnek i koperek. Doprawić solą i pieprzem. Wlać do bulionu. Gotować aż zgęstnieje.</step>
+            <step>Na koniec dodać klopsiki.</step>
+        </directions>
+    </recipe>
+</recipeml>

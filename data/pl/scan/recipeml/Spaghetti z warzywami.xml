@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Spaghetti z warzywami</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>250</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>spaghetti</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                </amt>
+                <item>papryki (czerwona, zielona i żółta)</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                </amt>
+                <item>por</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1/2</qty>
+                </amt>
+                <item>selera</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                    <unit>żabki</unit>
+                </amt>
+                <item>czosnku</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3/4</qty>
+                    <unit>szklanki</unit>
+                </amt>
+                <item>bulionu warzywnego</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>łyżki</unit>
+                </amt>
+                <item>oliwy z oliwek</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>pęczek</unit>
+                </amt>
+                <item>natki pietruszki</item>
+            </ing>
+            <ing>
+                <item>sól</item>
+            </ing>
+            <ing>
+                <item>pierpz</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Makaron ugotować w dużej ilości osolonej wody. Wszystkie warzywa umyć, oczyścić i pokroić w drobną kostkę. Natkę pietruszki posiekać.</step>
+            <step>Na patelni podsmażyć czosnek z warzywami i dodać bulion. Dusić chwilę.</step>
+            <step>Doprawić do smaku solą i pieprzem. Dodać makaron i posiekaną natkę pietruszki.</step>
+        </directions>
+    </recipe>
+</recipeml>

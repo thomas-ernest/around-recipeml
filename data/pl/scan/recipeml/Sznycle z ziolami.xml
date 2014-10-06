@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Sznycle z ziołami</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>45</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>750</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>sznycli z fileta z indyka</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>ząbki</unit>
+                </amt>
+                <item>czosnku</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>łyżki</unit>
+                </amt>
+                <item>soku z cytryny</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>łyżeczce</unit>
+                </amt>
+                <item>majeranku</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>łyżeczce</unit>
+                </amt>
+                <item>tymianku</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                </amt>
+                <item>jaja</item>
+            </ing>
+            <ing>
+                <item>mąka</item>
+            </ing>
+            <ing>
+                <item>tarta bułka</item>
+            </ing>
+            <ing>
+                <item>olej</item>
+            </ing>
+            <ing>
+                <item>sól</item>
+            </ing>
+            <ing>
+                <item>pieprz</item>
+            </ing>
+            <ing>
+                <item>cytryna do przybrania</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Sznycle z indyka lekko zbijamy wilgotnym tłuczkiem. Z 3 łyżek oleju, soku z cytryny, posiekanego czosnku i przypraw robimy marynatę, którą smarujemy sznycle z obu stron i odstawiamy na godzinę do lodówki.</step>
+            <step>Następnie panierujemy je w mące, rozbełtanych jajach i tartej bułce, którą możemy wymieszać pól na pól z tartym serem.</step>
+            <step>Smażymy na rozgrzanym oleju z obu stron aż do zarumienienia.</step>
+            <step>Podajemy przybrane cząstkami cytryny.</step>
+        </directions>
+    </recipe>
+</recipeml>

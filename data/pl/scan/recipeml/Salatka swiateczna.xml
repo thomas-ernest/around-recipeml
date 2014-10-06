@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Sałatka swiateczna</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>6</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>35</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>40</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooling">
+							  <time>
+								    <qty>3</qty>
+								    <timeunit>godziny</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>kg</unit>
+                </amt>
+                <item>ugotowanych w mundurkach ziemniaków</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                </amt>
+                <item>ugotowane na twardo jaja</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                </amt>
+                <item>kwaśne jabłka</item>
+            </ing>
+            <ing>
+                <amt>
+										<range>
+												<q1>5</q1>
+												<sep>-</sep>
+												<q2>6</q2>
+										</range>
+                </amt>
+                <item>ogórków konserwowych</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>150</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>kiełbasy gospodarza</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>250</qty>
+                    <unit>ml</unit>
+                </amt>
+                <item>jogurtu naturalnego</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>majonezu</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                </amt>
+                <item>mała cebula</item>
+            </ing>
+            <ing>
+                <item>sól</item>
+            </ing>
+            <ing>
+                <item>pieprz</item>
+            </ing>
+            <ing>
+                <item>papryka ostra w proszku</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>lyzka</unit>
+                </amt>
+                <item>soku z cytryny</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Ziemniaki, gdy ostygną obieramy z łupin i kroimy w plastry.</step>
+            <step>Jaja siekamy.</step>
+            <step>Jabłka, cebula i kiełbasę kroimy w kostkę.</step>
+            <step>Łączymy ze sobą jogurt z majonezem, przyprawiamy sokiem z cytryny, solą, pieprzem i papryką.</step>
+            <step>Powstałym sosem zalewamy wszystkie składniki, delikatnie mieszamy i ewentualnie przyprawiamy do smaku.</step>
+            <step>Przed podaniem schładzamy w lodowce.</step>
+        </directions>
+    </recipe>
+</recipeml>

@@ -1,0 +1,370 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:annotation>
+		<xsd:documentation xml:lang="en">
+	The REML schema for the food recipe exchange markup language.
+	Version 0.5, copyright 2005, Gary Gocek, all rights reserved.
+	Full permission granted to freely use, redistribute and promote
+	this schema.  Please retain the copyright notice.
+	When updating, add the new version number to the VersionType
+	enumeration. This supports backward compatibilty.
+	Home: http://www.sourceforge.net/projects/reml/
+		</xsd:documentation>
+	</xsd:annotation>
+	<xsd:element name="reml" type="remlType" />
+	<xsd:complexType name="remlType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+	The type definition of the root reml element.
+	The root element has the attributes version, language and country.
+	The root element contains the elements vendor, vendorData and menu.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="vendor" type="VendorType" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="menu" type="MenuType" minOccurs="1" maxOccurs="unbounded" />
+		</xsd:sequence>
+		<xsd:attribute name="version" type="VersionType" use="required" />
+		<xsd:attribute name="language" type="xsd:string" use="optional" default="eng" />
+		<xsd:attribute name="country" type="xsd:string" use="optional" default="us" />
+	</xsd:complexType>
+	<xsd:simpleType name="VersionType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="0.1" />
+			<xsd:enumeration value="0.2" />
+			<xsd:enumeration value="0.3" />
+			<xsd:enumeration value="0.4" />
+			<xsd:enumeration value="0.5" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="VendorType">
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+		<xsd:attribute name="name" type="xsd:string" use="required" />
+		<xsd:attribute name="emailAddress" type="xsd:string" use="optional" />
+		<xsd:attribute name="postalAddress" type="xsd:string" use="optional" />
+		<xsd:attribute name="phoneNumber" type="xsd:string" use="optional" />
+		<xsd:attribute name="URL" type="xsd:string" use="optional" />
+	</xsd:complexType>
+	<xsd:complexType name="MenuType">
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="userData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="location" type="LocationType" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="meal" type="MealType" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+		<xsd:attribute name="name" type="xsd:string" use="required" />
+	</xsd:complexType>
+	<xsd:complexType name="LocationType">
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+		<xsd:attribute name="country" type="xsd:string" use="optional" />
+		<xsd:attribute name="region" type="xsd:string" use="optional" />
+		<xsd:attribute name="locality" type="xsd:string" use="optional" />
+		<xsd:attribute name="useWhenCurrent" type="xsd:boolean" use="optional" default="true" />
+	</xsd:complexType>
+	<xsd:complexType name="ScheduleType">
+		<xsd:annotation>
+			<xsd:documentation xml:lang="en">
+				A dateTime looks like   1999-05-31T13:20:00.000-05:00
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="nextPrepDate" type="xsd:dateTime" minOccurs="0" maxOccurs="1" />
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="MealType">
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="userData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="location" type="LocationType" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="cost" type="CostType" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="mealItem" type="MealItemType" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="schedule" type="ScheduleType" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+		<xsd:attribute name="name" type="xsd:string" use="optional" />
+		<xsd:attribute name="servings" type="xsd:long" use="optional" />
+	</xsd:complexType>
+	<xsd:complexType name="CostType">
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+		<xsd:attribute name="unitAmount" type="xsd:decimal" use="optional" />
+		<xsd:attribute name="totalAmount" type="xsd:decimal" use="optional" />
+		<xsd:attribute name="currency" type="xsd:string" use="optional" />
+	</xsd:complexType>
+	<xsd:complexType name="MealItemType">
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="userData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="createDate" type="xsd:date" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="updateDate" type="xsd:date" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="location" type="LocationType" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="cost" type="CostType" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="difficulty" type="DifficultyType" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="procedure" type="ProcedureType" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="author" type="AuthorType" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="nutrition" type="NutritionType" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="ingredient" type="IngredientType" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="category" type="CategoryType" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="schedule" type="ScheduleType" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+		<xsd:attribute name="name" type="xsd:string" use="required" />
+		<xsd:attribute name="servings" type="xsd:long" use="optional" />
+		<xsd:attribute name="pictureFile" type="xsd:string" use="optional" />
+		<xsd:attribute name="prepTime" type="xsd:string" use="optional" />
+		<xsd:attribute name="procedureTime" type="xsd:string" use="optional" />
+	</xsd:complexType>
+	<xsd:simpleType name="DifficultyType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="Beginner" />
+			<xsd:enumeration value="Normal" />
+			<xsd:enumeration value="Expert" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="ProcedureType">
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="prepText" type="xsd:string" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="procedureText" type="xsd:string" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="location" type="LocationType" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="AuthorType">
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+		<xsd:attribute name="name" type="xsd:string" use="required" />
+		<xsd:attribute name="emailAddress" type="xsd:string" use="optional" />
+		<xsd:attribute name="postalAddress" type="xsd:string" use="optional" />
+		<xsd:attribute name="phoneNumber" type="xsd:string" use="optional" />
+		<xsd:attribute name="URL" type="xsd:string" use="optional" />
+	</xsd:complexType>
+	<xsd:complexType name="IngredientType">
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="userData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="location" type="LocationType" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="cost" type="CostType" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="nutrition" type="NutritionType" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="substitute" type="SubstituteType" minOccurs="0" maxOccurs="1" />
+			<xsd:element name="IUnit" type="IUnitType" minOccurs="0" maxOccurs="1" />
+		</xsd:sequence>
+		<xsd:attribute name="name" type="xsd:string" use="required" />
+		<xsd:attribute name="quantity-integer" type="xsd:long" use="optional" />
+		<xsd:attribute name="quantity-numerator" type="xsd:long" use="optional" />
+		<xsd:attribute name="quantity-denominator" type="xsd:long" use="optional" />
+	</xsd:complexType>
+	<xsd:complexType name="SubstituteType">
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="userData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="IUnit" type="IUnitType" minOccurs="0" maxOccurs="1" />
+		</xsd:sequence>
+		<xsd:attribute name="name" type="xsd:string" use="required" />
+		<xsd:attribute name="quantity-integer" type="xsd:long" use="optional" />
+		<xsd:attribute name="quantity-numerator" type="xsd:long" use="optional" />
+		<xsd:attribute name="quantity-denominator" type="xsd:long" use="optional" />
+	</xsd:complexType>
+	<xsd:complexType name="NutritionType">
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="nutritionItem" type="NutritionItemType" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+		<xsd:attribute name="calories" type="xsd:decimal" use="optional" />
+		<xsd:attribute name="pctCalFromFat" type="xsd:decimal" use="optional" />
+		<xsd:attribute name="pctCalFromProtein" type="xsd:decimal" use="optional" />
+		<xsd:attribute name="pctCalFromCarbs" type="xsd:decimal" use="optional" />
+	</xsd:complexType>
+	<xsd:complexType name="NutritionItemType">
+		<xsd:sequence>
+			<xsd:element name="vendorData" type="xsd:string" minOccurs="0" maxOccurs="unbounded" />
+			<xsd:element name="NUnit" type="NUnitType" minOccurs="0" maxOccurs="1" />
+		</xsd:sequence>
+		<xsd:attribute name="name" type="xsd:string" use="optional" />
+		<xsd:attribute name="pctDailyReq" type="xsd:decimal" use="optional" />
+		<xsd:attribute name="amount" type="xsd:decimal" use="optional" />
+	</xsd:complexType>
+	<xsd:complexType name="NUnitType">
+		<xsd:choice>
+			<xsd:element name="NUnitArbitrary" type="xsd:string" />
+			<xsd:element name="NUnitEnum" type="NUnitEnumType" />
+		</xsd:choice>
+	</xsd:complexType>
+	<xsd:simpleType name="NUnitEnumType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="gram" />
+			<xsd:enumeration value="g" />
+			<xsd:enumeration value="microgram" />
+			<xsd:enumeration value="mcg" />
+			<xsd:enumeration value="milligram" />
+			<xsd:enumeration value="mg" />
+			<xsd:enumeration value="kilogram" />
+			<xsd:enumeration value="kg" />
+			<xsd:enumeration value="joule" />
+			<xsd:enumeration value="kilojoule" />
+			<xsd:enumeration value="calorie" />
+			<xsd:enumeration value="InternationalUnit" />
+			<xsd:enumeration value="IU" />
+			<xsd:enumeration value="" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="IUnitType">
+		<xsd:choice>
+			<xsd:element name="IUnitArbitrary" type="xsd:string" />
+			<xsd:element name="IUnitEnum" type="IUnitEnumType" />
+		</xsd:choice>
+	</xsd:complexType>
+	<xsd:simpleType name="IUnitEnumType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="bag" />
+			<xsd:enumeration value="barrel" />
+			<xsd:enumeration value="bottle" />
+			<xsd:enumeration value="box" />
+			<xsd:enumeration value="bunch" />
+			<xsd:enumeration value="bushel" />
+			<xsd:enumeration value="can" />
+			<xsd:enumeration value="case" />
+			<xsd:enumeration value="centimeter" />
+			<xsd:enumeration value="cm" />
+			<xsd:enumeration value="clove" />
+			<xsd:enumeration value="cup" />
+			<xsd:enumeration value="C" />
+			<xsd:enumeration value="dash" />
+			<xsd:enumeration value="drum" />
+			<xsd:enumeration value="ear" />
+			<xsd:enumeration value="gallon" />
+			<xsd:enumeration value="gal" />
+			<xsd:enumeration value="gram" />
+			<xsd:enumeration value="g" />
+			<xsd:enumeration value="handful" />
+			<xsd:enumeration value="inch" />
+			<xsd:enumeration value="in" />
+			<xsd:enumeration value="jar" />
+			<xsd:enumeration value="kilogram" />
+			<xsd:enumeration value="kg" />
+			<xsd:enumeration value="kilometer" />
+			<xsd:enumeration value="k" />
+			<xsd:enumeration value="lb" />
+			<xsd:enumeration value="liter" />
+			<xsd:enumeration value="li" />
+			<xsd:enumeration value="meter" />
+			<xsd:enumeration value="m" />
+			<xsd:enumeration value="mile" />
+			<xsd:enumeration value="mi" />
+			<xsd:enumeration value="milliliter" />
+			<xsd:enumeration value="ml" />
+			<xsd:enumeration value="millimeter" />
+			<xsd:enumeration value="mm" />
+			<xsd:enumeration value="ounce" />
+			<xsd:enumeration value="oz" />
+			<xsd:enumeration value="package" />
+			<xsd:enumeration value="pkg" />
+			<xsd:enumeration value="part" />
+			<xsd:enumeration value="peck" />
+			<xsd:enumeration value="piece" />
+			<xsd:enumeration value="pinch" />
+			<xsd:enumeration value="pint" />
+			<xsd:enumeration value="pt" />
+			<xsd:enumeration value="pound" />
+			<xsd:enumeration value="quart" />
+			<xsd:enumeration value="qt" />
+			<xsd:enumeration value="shot" />
+			<xsd:enumeration value="slice" />
+			<xsd:enumeration value="sprig" />
+			<xsd:enumeration value="stick" />
+			<xsd:enumeration value="splash" />
+			<xsd:enumeration value="tablespoon" />
+			<xsd:enumeration value="tbsp" />
+			<xsd:enumeration value="T" />
+			<xsd:enumeration value="teaspoon" />
+			<xsd:enumeration value="tsp" />
+			<xsd:enumeration value="t" />
+			<xsd:enumeration value="yard" />
+			<xsd:enumeration value="yd" />
+			<xsd:enumeration value="" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="CategoryType">
+		<xsd:choice>
+			<xsd:element name="CategoryArbitrary" type="xsd:string" />
+			<xsd:element name="CategoryEnum" type="CategoryEnumType" />
+		</xsd:choice>
+	</xsd:complexType>
+	<xsd:simpleType name="CategoryEnumType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="appetizer" />
+			<xsd:enumeration value="beef" />
+			<xsd:enumeration value="beverage" />
+			<xsd:enumeration value="bread" />
+			<xsd:enumeration value="cocktail" />
+			<xsd:enumeration value="dairy" />
+			<xsd:enumeration value="dessert" />
+			<xsd:enumeration value="meat" />
+			<xsd:enumeration value="pork" />
+			<xsd:enumeration value="poultry" />
+			<xsd:enumeration value="sauce" />
+			<xsd:enumeration value="seafood" />
+			<xsd:enumeration value="shellfish" />
+			<xsd:enumeration value="soup" />
+			<xsd:enumeration value="steak" />
+			<xsd:enumeration value="tofu or soy" />
+			<xsd:enumeration value="veal" />
+			<xsd:enumeration value="vegetarian" />
+			<xsd:enumeration value="quick and easy" />
+			<xsd:enumeration value="just for fun" />
+			<xsd:enumeration value="picnic" />
+			<xsd:enumeration value="winter favorite" />
+			<xsd:enumeration value="spring favorite" />
+			<xsd:enumeration value="summer favorite" />
+			<xsd:enumeration value="autumn favorite" />
+			<xsd:enumeration value="sports themed" />
+			<xsd:enumeration value="super bowl" />
+			<xsd:enumeration value="holiday" />
+			<xsd:enumeration value="christmas" />
+			<xsd:enumeration value="halloween" />
+			<xsd:enumeration value="thanksgiving" />
+			<xsd:enumeration value="july 4" />
+			<xsd:enumeration value="new year" />
+			<xsd:enumeration value="easter" />
+			<xsd:enumeration value="hannukah" />
+			<xsd:enumeration value="yom kippur" />
+			<xsd:enumeration value="rosh hashanah" />
+			<xsd:enumeration value="kwanzaa" />
+			<xsd:enumeration value="breakfast" />
+			<xsd:enumeration value="lunch" />
+			<xsd:enumeration value="brunch" />
+			<xsd:enumeration value="dinner" />
+			<xsd:enumeration value="weekend" />
+			<xsd:enumeration value="college student" />
+			<xsd:enumeration value="ethnic" />
+			<xsd:enumeration value="african" />
+			<xsd:enumeration value="american" />
+			<xsd:enumeration value="asian" />
+			<xsd:enumeration value="cajun" />
+			<xsd:enumeration value="canadian" />
+			<xsd:enumeration value="chinese" />
+			<xsd:enumeration value="creole" />
+			<xsd:enumeration value="european" />
+			<xsd:enumeration value="french" />
+			<xsd:enumeration value="german" />
+			<xsd:enumeration value="greek" />
+			<xsd:enumeration value="hawaiian" />
+			<xsd:enumeration value="italian" />
+			<xsd:enumeration value="japanese" />
+			<xsd:enumeration value="kosher" />
+			<xsd:enumeration value="mediterranean" />
+			<xsd:enumeration value="mexican" />
+			<xsd:enumeration value="middle eastern" />
+			<xsd:enumeration value="polish" />
+			<xsd:enumeration value="russian" />
+			<xsd:enumeration value="south american" />
+			<xsd:enumeration value="spanish" />
+			<xsd:enumeration value="thai" />
+			<xsd:enumeration value="ukranian" />
+		</xsd:restriction>
+	</xsd:simpleType>
+</xsd:schema>

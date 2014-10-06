@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipeml version="0.5" xml:lang="fr">
+   <head>
+      <title>Tarte aux pommes à l'Alsacienne</title>
+      <source>http://www.marmiton.org/</source>
+      <yield>
+         <qty>6</qty>
+         <unit>personnes</unit>
+      </yield>
+      <preptime type="preparation">
+         <time>
+            <qty>25</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+      <preptime type="cooking">
+         <time>
+            <qty>30</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+   </head>
+   <ingredients>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>3 ou 4 (selon la grosseur)</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>1  pâte brisée</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>2  oeufs</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>25 cl de crème fraîche</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>100 g
+                      de  sucre  en poudre</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>1 sachet de  sucre  vanillé</item>
+      </ing>
+   </ingredients>
+   <directions>
+      <step> Posez sur un fond de moule à tarte une  pâte brisée  que vous trouez avec une fourchette.</step>
+      <step>Pelez et coupez les  pommes  en fines tranches que vous disposer sur le fond de tarte.</step>
+      <step>Dans un saladier, mélangez le  sucre , la crème fraîche, les  oeufs , le  sucre  vanillé; versez le tout sur les  pommes .</step>
+      <step>Enfournez
+                      au four préchauffé à 200°C (th 6-7), jusqu'à ce que la tarte prenne une belle couleur dorée.</step>
+   </directions>
+</recipeml>

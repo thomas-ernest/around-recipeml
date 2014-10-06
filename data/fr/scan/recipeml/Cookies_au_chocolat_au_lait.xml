@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Cookies au chocolat au lait</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>12</qty>
+								<unit>cookies</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+				</head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>150</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>chocolate</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit/>
+                </amt>
+                <item>eggs</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>125</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>butter</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>flour</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>5</qty>
+                    <unit>tablespoons</unit>
+                </amt>
+                <item>condensed milk</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>teaspoon</unit>
+                </amt>
+                <item>yeast</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>teaspoon</unit>
+                </amt>
+                <item>vanilla sugar</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>salt</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Préchauffez le four à 180 °C (th. 6)</step>
+            <step>A l'aide d'un grand couteau, concassez en pépites la tablette de chocolat.</step>
+            <step>Dans un saladier, mélangez la farine, la levure, la vanille et une pincée de sel.</step>
+            <step>Travaillez à la fourchette le beurre ramolli et le lait concentré sucré. Ajoutez les oeufs battus.</step>
+            <step>Ajoutez la farine et les pépites de chocolat.</step>
+            <step>Disposez des petits tas de pâte de 5 cm de damiètre sur la plaque de votre four recouverte de papier sulfurisé et faites cuire environ 15 minutes.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

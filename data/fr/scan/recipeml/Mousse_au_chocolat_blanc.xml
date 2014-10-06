@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Mousse au chocolat blanc</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>portions</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooling">
+							  <time>
+								    <qty>8</qty>
+								    <timeunit>hours</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>180</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>white chocolate</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>milliliters</unit>
+                </amt>
+                <item>crème fraîche</item>
+            </ing>
+        </ingredients>
+        <directions>
+						<step>Placez la crème, dans un saladier, au moins une heure au réfrigérateur.</step>
+						<step>Faites fondre le chocolat cassé en morceaux au bain-marie. Versez le chocolat dans un saladier, laissez-le tiédir 1 à 2 min.</step>
+						<step>Battez la crème fleurette en chantilly ferme.</step>
+						<step>Ajoutez la moitié de la crème fouettée au chocolat. Mélangez jusqu'à l'obtention d'un mélange homogène. Ajoutez délicatement le reste de la crème.</step>
+						<step>Placez une nuit au réfrigérateur.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

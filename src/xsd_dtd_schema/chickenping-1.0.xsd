@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="chickenping">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="meta"/>
+        <xs:element ref="recipes"/>
+        <xs:element ref="substitutions"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="meta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="generator"/>
+        <xs:element ref="date"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="generator" type="xs:string"/>
+  <xs:element name="date" type="xs:NMTOKEN"/>
+  <xs:element name="recipes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="recipe"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="recipe">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="id"/>
+        <xs:element ref="name"/>
+        <xs:element ref="description"/>
+        <xs:element ref="note"/>
+        <xs:element ref="categories"/>
+        <xs:element ref="directions"/>
+        <xs:element ref="servings"/>
+        <xs:element ref="rating"/>
+        <xs:element ref="preheat"/>
+        <xs:element ref="icon"/>
+        <xs:element ref="lastmod"/>
+        <xs:element ref="user"/>
+        <xs:element ref="ingredients"/>
+        <xs:element ref="snapshots"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="description" type="xs:string"/>
+  <xs:element name="note">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="categories" type="xs:string"/>
+  <xs:element name="directions" type="xs:string"/>
+  <xs:element name="servings" type="xs:integer"/>
+  <xs:element name="rating" type="xs:integer"/>
+  <xs:element name="preheat" type="xs:integer"/>
+  <xs:element name="icon" type="xs:NCName"/>
+  <xs:element name="lastmod" type="xs:string"/>
+  <xs:element name="user">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="ingredients">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ingredient"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="snapshots">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="snapshot"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="snapshot">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="id"/>
+        <xs:element ref="caption"/>
+        <xs:element ref="flickrid"/>
+        <xs:element ref="picasauri"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="caption" type="xs:string"/>
+  <xs:element name="flickrid">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="picasauri">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="substitutions">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="substitution"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="substitution">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ingredient"/>
+        <xs:element ref="quantity"/>
+        <xs:element ref="measurement"/>
+        <xs:element ref="substitutes"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="substitutes" type="xs:string"/>
+  <xs:element name="id" type="xs:NCName"/>
+  <xs:element name="name" type="xs:string"/>
+  <xs:element name="ingredient">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="measurement"/>
+        <xs:element ref="name"/>
+        <xs:element ref="quantity"/>
+        <xs:element ref="comment"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="comment" type="xs:string"/>
+  <xs:element name="quantity" type="xs:decimal"/>
+  <xs:element name="measurement" type="xs:string"/>
+</xs:schema>

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Zapiekanka makaronowa</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>1</qty>
+								    <timeunit>godzina</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>150</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>makaronu</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>250</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>mięsa mielonego</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                </amt>
+                <item>cebule</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                </amt>
+                <item>papryka</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                </amt>
+                <item>pomidory</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                </amt>
+                <item>ząbki czosnku</item>
+            </ing>
+            <ing>
+                <item>żółty ser</item>
+            </ing>
+            <ing>
+                <item>sól</item>
+            </ing>
+            <ing>
+                <item>pieprz</item>
+            </ing>
+            <ing>
+                <item>ostro papryka</item>
+            </ing>
+            <ing>
+                <item>olej</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Makaron ugotować na pól twardo.</step>
+            <step>Cebule pokroić w talarki, paprykę w kostkę.</step>
+            <step>Czosnek rozgnieść wrzucić na patelnię. Dodać olej i rozgrzać.</step>
+            <step>Wrócić mięso, doprawić pieprzem i solą.</step>
+            <step>Potem dodać cebulę i paprykę - poddusić.</step>
+            <step>Pomidory kroimy w kostkę (bez skórki). Wymieszać z makaronem.</step>
+            <step>Na koniec dodać ser i wstawić do piekarnika na 20min nagrzanego do 200°C.</step>
+        </directions>
+    </recipe>
+</recipeml>

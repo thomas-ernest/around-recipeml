@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipeml version="0.5" xml:lang="fr">
+   <head>
+      <title>Carottes r�p�es au s�same</title>
+      <source>http://www.marmiton.org/</source>
+      <yield>
+         <qty>6</qty>
+         <unit>personnes</unit>
+      </yield>
+      <preptime type="preparation">
+         <time>
+            <qty>10</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+      <preptime type="cooking">
+         <time>
+            <qty>0</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+   </head>
+   <ingredients>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>1 kg de</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>2 cuill�res � soupe de graines de  s�same</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>2 cuill�res � soupe d'huile d'olive</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>2 cuill�res � soupe de vinaigre balsamique</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>sel 
+                      et  poivre</item>
+      </ing>
+   </ingredients>
+   <directions>
+      <step> R�per les carottes.</step>
+      <step>Faire griller dans une po�le les graines de s�same jusqu'� ce qu'elles soient color�es, mais non br�l�es (bien surveiller!).</step>
+      <step>Faire la sauce en m�langeant vinaigre, huile, sel et poivre. Assaisonner les carottes avec la  vinaigrette , puis les saupoudrer des graines de s�same.</step>
+      <step>
+                          Remarques :
+                        
+                          Une recette toute b�te, mais le go�t du s�same grill� change tout. C�est beaucoup plus original et raffin� que de simples carottes r�p�es.
+                        </step>
+   </directions>
+</recipeml>

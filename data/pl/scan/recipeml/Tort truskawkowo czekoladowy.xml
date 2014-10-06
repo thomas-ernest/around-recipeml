@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Tort truskawkowo czekoladowy</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>90</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>45</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooling">
+							  <time>
+								    <qty>12</qty>
+								    <timeunit>godzin</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+						<ing-div>
+								<title>Biszkopt</title>
+		            <ing>
+		                <amt>
+		                    <qty>400</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>cukru</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>140</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>mąki pszennej</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>140</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>mąki ziemniaczanej</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>8</qty>
+		                </amt>
+		                <item>jajek</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>4</qty>
+		                    <unit>łyżki</unit>
+		                </amt>
+		                <item>kakao</item>
+		            </ing>
+						</ing-div>
+						<ing-div>
+								<title>Mus czekoladowy</title>
+		            <ing>
+		                <amt>
+		                    <qty>500</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>mascarpone</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>700</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>śmietany 36%</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>200</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>gorzkiej czekolady</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>szklanka</unit>
+		                </amt>
+		                <item>cukru pudru</item>
+		            </ing>
+						</ing-div>
+						<ing-div>
+								<title>Dodatkowo</title>
+		            <ing>
+		                <amt>
+		                    <qty>700</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>truskawek</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>4</qty>
+		                    <unit>łyżki</unit>
+		                </amt>
+		                <item>cukru pudru</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>około 100</qty>
+		                    <unit>ml</unit>
+		                </amt>
+		                <item>zaparzonej czarnej herbaty</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>3</qty>
+		                    <unit>łyżeczki</unit>
+		                </amt>
+		                <item>ekstraktu z wanilii</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>około 10</qty>
+		                </amt>
+		                <item>ciasteczek owsianych z czekolada</item>
+		            </ing>
+						</ing-div>
+        </ingredients>
+				<directions>
+						<dir-div>
+								<title>Biszkopt</title>
+								<step>Białka ubić z połową cukru pudru, żółtka z drugą połową. Suche składniki przesiać i wymieszać razem. Połączyć ostrożnie białka z żółtkami.</step>
+								<step>Następnie w kilku turach wsypywać suche składniki i bardzo delikatnie mięsząc aż powstanie gładka masa. Przełożyć ją do tortownicy 27 cm i piec przez około 45 minut w 180°C.</step>
+						</dir-div>
+						<dir-div>
+								<title>Mus czekoladowy</title>
+								<step>Czekoladę rozpuścić w kąpieli wodnej i odstawić na chwilę, aby przestygła.</step>
+								<step>Ubić na sztywno śmietanę z cukrem pudrem. Połączyć czekoladę z mascarpone i ubitą śmietaną.</step>
+						</dir-div>
+						<dir-div>
+								<title>Dodatkowo</title>
+								<step>Szklankę truskawek zmiksować z 4 łyżkami cukru pudru. Resztę truskawek poprzekrawać na pół.</step>
+								<step>Do herbaty dodać ekstrakt waniliowy. Ciasteczka pokruszyć (ja wkładam je do torebki strunowej i uderzam w nie walkiem).</step>
+						</dir-div>
+						<dir-div>
+								<title>Razem</title>
+								<step>Biszkopt pokroić na trzy blaty, każdy nasączyć herbatą.</step>
+								<step>Umieścić pierwszy blat na podstawce. (Aby jej nie pobrudzić warto wsunąć pod blat paski z papieru do pieczenia, które ja zasłonią, a po skończeniu je wyciągnąć). Posmarować go musem truskawkowym, ułożyć na nim część truskawek i posmarować około 1/3 musu czekoladowego, truskawek, musu czekoladowego.</step>
+								<step>Przykryć kolejnym blatem i znów nałożyć warstwy musu truskawkowego, truskawek, musu czekoladowego. Ułożyć ostatni blat i posmarować jego wierzch oraz boki tortu musem czekoladowym.</step>
+								<step>Boki tortu obłożyć rozdrobnionymi ciasteczkami, a wierzch ozdobić truskawkami. Wstawić do lodówki, co najmniej na kilka godzin.</step>
+						</dir-div>
+				</directions>
+    </recipe>
+</recipeml>

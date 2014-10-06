@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Fondant chocolat caramel</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>portions</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>10</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>170</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>carmel chocolate</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>butter</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit/>
+                </amt>
+                <item>eggs</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>70</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>flour</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>60</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>powdered sugar</item>
+            </ing>
+        </ingredients>
+        <directions>
+						<step>Préchauffez votre four à 180 °C (th. 6).</step>
+						<step>Dans un saladier, faites fondre 130g de chocolat et de beurre 2 minutes au four à micro-ondes à 500 W.</step>
+						<step>Ajoutez le sucre, les oeufs, la farine. Mélangez bien. Ajoutez le reste du chocolat haché en grosses pépites.</step>
+						<step>Beurrez et farinez votre moule et versez la pâte à gâteau.</step>
+						<step>Faites cuire au four environ 15 minutes. A la sortie du four le gâteau ne parâit pas assez cuit, c'est normal, laissez le refroidir puis démoulez-le.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

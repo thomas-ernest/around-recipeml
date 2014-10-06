@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Quiche au thon et à la tomate</title>
+            <source/>
+            <categories/>
+            <yield>
+								<range>
+										<q1>4</q1>
+										<sep>à</sep>
+										<q2>6</q2>
+								</range>
+								<unit>personnes</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>35</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+						<ing-div>
+								<title>Pâte brisée salée</title>
+		            <ing>
+		                <amt>
+		                    <qty>210</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>de farine</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>100</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>de beurre ramolli</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>5</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>de sel</item>
+		            </ing>
+						</ing-div>
+						<ing-div>
+								<title>Garniture</title>
+		            <ing>
+		                <amt>
+		                    <qty>400</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>de thon naturel</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>200</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>de tomates pelées en boîte</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>3</qty>
+		                </amt>
+		                <item>oeufs</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>20</qty>
+		                    <unit>cl</unit>
+		                </amt>
+		                <item>de lait</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>gousse</unit>
+		                </amt>
+		                <item>d'ail</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>cuillère à soupe</unit>
+		                </amt>
+		                <item>de câpres</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>2</qty>
+		                    <unit>cuillères à soupe</unit>
+		                </amt>
+		                <item>d'huile</item>
+		            </ing>
+		            <ing>
+		                <item>Tabasco</item>
+		            </ing>
+		            <ing>
+		                <item>Sel</item>
+		            </ing>
+		            <ing>
+		                <item>Poivre</item>
+		            </ing>
+						</ing-div>
+        </ingredients>
+				<directions>
+						<dir-div>
+								<title>Pâte brisée salée</title>
+		            <step>Malaxer le beurre en morceaux avec la farine et le sel.</step>
+		            <step>Faire un puits et verser peu à peu 7 cl d'eau. Pétrir rapidement du bout des doigts pour obtenir une boule ferme.</step>
+		            <step>Aplatir la pâte sur le plan de travail fariné, la remettre en boule. L'envelopper dans un film alimentaire et la réserver 30 min. au frais.</step>
+		            <step>La sortir 15 min. avant de l'utiliser.</step>
+		            <step>L'étaler au rouleau et en garnir le moule.</step>
+		            <step>Enfourner et cuire la pâte à blanc 10 min. dans le four préchauffé à 180°C (th. 6).</step>
+						</dir-div>
+						<dir-div>
+								<title>Garniture</title>
+		            <step>Egoutter les tomates. Les faire revenir dans de l'huile chaude avec l'ail écrasée, quelques gouttes de Tabasco, sel et poivre. Laisser compoter sur feu doux.</step>
+		            <step>Egoutter le thon, en emietter la moitié et garder le reste en gros morceaux. Ajouter les miettes aux tomates et mélanger.</step>
+		            <step>Dans un saladier, fouetter les oeufs avec le lait, du sel et du poivre. Incorporer la préparation aux tomates.</step>
+		            <step>Verser la garniture sur le fond de tarte. Répartir les morceaux de thon et les câpres. Enfourner et cuire 25 min.</step>
+		            <step>Servir chaud ou tiède.</step>
+						</dir-div>
+				</directions>
+    </recipe>
+</recipeml>

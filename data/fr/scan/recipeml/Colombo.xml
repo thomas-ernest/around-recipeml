@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Colombo</title>
+            <source/>
+            <categories/>
+        </head>
+        <ingredients>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>kg</unit>
+		                </amt>
+		                <item>de viande (poulet, cabri, lapin, porc...)</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>3</qty>
+		                    <unit>pieds</unit>
+		                </amt>
+		                <item>de cive (ciboulette, ognions-pays)</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>10</qty>
+		                    <unit>cl</unit>
+		                </amt>
+		                <item>d'huile</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>cuillère</unit>
+		                </amt>
+		                <item>de graines à roussir</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>3</qty>
+		                    <unit>gousses</unit>
+		                </amt>
+		                <item>d'ail</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>2</qty>
+		                </amt>
+		                <item>ognions</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>3</qty>
+		                    <unit>cuillère à soupe</unit>
+		                </amt>
+		                <item>de poudre de colombo</item>
+		            </ing>
+		            <ing>
+		                <item>persil</item>
+		            </ing>
+		            <ing>
+		                <item>thym</item>
+		            </ing>
+		            <ing>
+		                <item>clous de girofle</item>
+		            </ing>
+		            <ing>
+		                <item>piment</item>
+		            </ing>
+		            <ing>
+		                <item>sel</item>
+		            </ing>
+		            <ing>
+		                <item>poivre</item>
+		            </ing>
+        </ingredients>
+				<directions>
+            <step>Nettoyez la viande et découpez-la en morceaux.</step>
+            <step>Ajoutez sel, ail, ognion, citron, poivre et 2 cuillères de poudre de colombo. Laissez macérer 1 heure.</step>
+            <step>Faites chauffer la marmite avec les graines à roussir (brunir) versez l'huile, incorporez les épices hachées et laissez revenir quelques secondes.</step>
+            <step>Ajoutez la poudre de colombo, les clous de girofle et versez un peu d'eau et ajoutez les morceaux de viande, remuez avec une spatule pour bien faire revenir, vous pouvez mettre des légumes coupés en morceaux (aubergines, pommes de terre, concombre...) et laissez cuire 30min.</step>
+            <step>Rectifiez l'assaisonement et servez avec un peu de riz.</step>
+				</directions>
+    </recipe>
+</recipeml>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipeml version="0.5" xml:lang="fr">
+   <head>
+      <title>Cake à la banane / banana bread (USA)</title>
+      <source>http://www.marmiton.org/</source>
+      <yield>
+         <qty>6</qty>
+         <unit>personnes</unit>
+      </yield>
+      <preptime type="preparation">
+         <time>
+            <qty>30</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+      <preptime type="cooking">
+         <time>
+            <qty>60</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+   </head>
+   <ingredients>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>250 g de farine</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>160 g de  sucre</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>2 cuillères à café de levure chimique</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>1/2 cuillère à café de bicarbonate de soude</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>une bonne pincée de  sel</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>2 à 3 bananes moyennes mûres (plus ils sont mûres, mieux c'est)</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>85 g de
+                       beurre</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>2 cuillères à soupe de lait</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>2  oeufs</item>
+      </ing>
+   </ingredients>
+   <directions>
+      <step> Préchauffer le four à 165° C (thermostat 5-6). </step>
+      <step>Mélanger 150 g de la farine avec le sucre, la levure chimique, le bicarbonate et  le sel . </step>
+      <step>Ajouter les bananes écrasées, ainsi que le beurre et le lait. </step>
+      <step>Battre (de préférence avec un mixeur) doucement, jusqu'à l'obtention d'une pâte homogène, puis vigoureusement 2 min.</step>
+      <step>Ajouter les oeufs et le reste de
+                      la farine, et bien mélanger.</step>
+      <step>Graisser le fond d'une moule à cake, et y verser la pâte. Faire cuire au four à 165°C pendent 55 à 60 min (vérifier la cuisson).</step>
+      <step>Peut être glacé avec un glaçage à base de  fromage  blanc ou de crème fraîche.</step>
+      <step>
+                          Remarques :
+                        
+                          Pour ceux qui savent cuisiner à l'américaine, les mesures plus précises sont: 1 3/4 tasses de farine, 2/3 tasse de sucre, 1 tasse de purée de bananes, et 1/3 tasse de beurre. (Une tasse vaut à peu près un verre de 250 ml).
+                        </step>
+   </directions>
+</recipeml>

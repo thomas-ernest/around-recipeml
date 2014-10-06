@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Placki z selera</title>
+            <source/>
+            <categories/>
+						<yield>
+								<qty>2</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                </amt>
+                <item>seler (35 dag)</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>4</qty>
+                    <unit>lyzki</unit>
+                </amt>
+                <item>maki pszennej</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>4</qty>
+                </amt>
+                <item>jajka</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1/2</qty>
+                    <unit>szklanki</unit>
+                </amt>
+                <item>zsiadlego mleka</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                </amt>
+                <item>cebule (15 dag)</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>lyzka</unit>
+                </amt>
+                <item>suszonej natki pietruszki</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>lyzeczka</unit>
+                </amt>
+                <item>papryki slodkiej</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>4</qty>
+                    <unit>lyzki</unit>
+                </amt>
+                <item>olejug</item>
+            </ing>
+            <ing>
+                <item>sól</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Seler obrać, opłukać i zetrzeć na tarce o grubych oczkach.</step>
+            <step>Dodać zsiadłe mleko, mąkę, jajka, drobno posiekaną cebulę, natkę pietruszki i paprykę. Przyprawić solą i starannie wymieszać.</step>
+            <step>Kłaść łyżką na rozgrzany tłuszcz małe placki i smażyć z obu stron na rumiano.</step>
+            <step>Podawać polane kwaśną śmietaną lub stopionym masłem.</step>
+        </directions>
+    </recipe>
+</recipeml>

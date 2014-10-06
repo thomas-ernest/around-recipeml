@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Krem kawowy w czekoladowych kubeczkach</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>sztuk</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooling">
+							  <time>
+								    <range>
+											<q1>2</q1>
+											<q2>3</q2>
+										</range>
+								    <timeunit>godziny</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>deserowej czekolady</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>4</qty>
+                </amt>
+                <item>żółtka</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>5</qty>
+                    <unit>łyżek</unit>
+                </amt>
+                <item>cukru</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>5</qty>
+                    <unit>łyżek</unit>
+                </amt>
+                <item>mocnego naparu kawy</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>łyżki</unit>
+                </amt>
+                <item>rumu</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>szklanka</unit>
+                </amt>
+                <item>bitej śmietany</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>8</qty>
+                </amt>
+                <item>czekoladowych ziarenek kawy</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>łyżeczka</unit>
+                </amt>
+                <item>żelatyny instant</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Czekoladę połamać na drobne kawałki, włożyć do miski. Postawić ją na rondlu z gorącą wodą. Podgrzewać na parze aż czekolada się stopi (nie trzymać na ogniu zbyt długo, bo zmatowieje).</step>
+            <step>Do 8 plastikowych kubków (jednorazowych) nałożyć po porcji płynnej czekolady. Obracając kubeczkami, pokryć czekoladą całe ścianki i dno naczyń. Kubki wstawić do lodówki, by czekolada stężała.</step>
+            <step>Żółtka utrzeć na parze z cukrem. Ciągle ucierając, wlewać powoli kawę i rum. Ucierać, aż krem zgęstnieje. Żelatynę rozpuścić w łyżce gorącej wody i wymieszać z kremem. Zdjąć z ognia, wystudzić.</step>
+            <step>8 łyżeczek bitej śmietany odłożyć, resztę zmieszać z kremem. Z czekoladowych kubków usunąć plastik, nałożyć krem, chłodzić 2-3 godziny. Udekorować bita śmietana i czekoladowymi ziarenkami kawy.</step>
+        </directions>
+    </recipe>
+</recipeml>

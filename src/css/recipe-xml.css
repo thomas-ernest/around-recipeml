@@ -1,0 +1,44 @@
+recipeml {
+  display : block;
+	margin : 1em;
+}
+
+head {
+  display : block;
+  margin : 0.5em;
+}
+
+title {
+  display : block;
+	border-bottom : 0.1em solid #ffaa00;
+  size : 3em;
+	font-weight : bold;
+}
+
+preptime[] {
+  visibility : visible;
+  display : block;
+}
+
+directions {
+  display : block;
+  margin : 0.5em;
+}
+
+step {
+  display : list-item;
+  margin-left : 1em;
+  padding : 0.25em;
+  list-style-type : decimal;
+}
+
+ingredients {
+  display : block;
+  margin : 0.5em;
+}
+
+ing {
+  display : list-item;
+  margin-left : 1em;
+  list-style-type : square;
+}

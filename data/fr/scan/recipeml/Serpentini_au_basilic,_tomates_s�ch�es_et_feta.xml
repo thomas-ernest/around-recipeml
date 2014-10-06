@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Serpentini au Basilic, Tomates séchées et Feta</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>personnes</unit>
+						</yield>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>400</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>de Serpentini</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+										<unit>g</unit>
+                </amt>
+                <item>de tomates séchées</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>20</qty>
+                    <unit>cl</unit>
+                </amt>
+                <item>de crème fraîche liquide</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>bouquet</unit>
+                </amt>
+                <item>de basilic frais</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>de Feta émiettée</item>
+            </ing>
+        </ingredients>
+				<directions>
+            <step>Hachez le basilic et mélangez-le avec la crème fraîche. Salez, poivrez et laissez macérer 30 minutes.</step>
+            <step>Passez la préparation au mixeur jusqu'à ce que la crème soit bien aérée. Ajoutez les tomates séchées et laissez-les macérer quelques minutes.</step>
+            <step>Mettez le mélange dans une casserole et portez-le à ébulition.</step>
+            <step>Parallèlement, faites cuire les pâtes selon le temps indiqué sur le paquet dans une grande quantité d'eau salée. Egoutez-les.</step>
+            <step>Mélangez les Serpentini à la préparation et soupoudrez avec la feta émiettée.</step>
+				</directions>
+    </recipe>
+</recipeml>

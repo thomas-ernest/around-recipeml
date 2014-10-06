@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Salade de farfalle aux légumes du soleil</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>10</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>400g de Farfalle vegetables</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>courgette</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>aubergine</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>red pepper</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>10</qty>
+                    <unit/>
+                </amt>
+                <item>dried tomatoes</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>70</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>olives,  à la grecque</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>70</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>parmesan cheese</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>6</qty>
+                    <unit>tablespoons</unit>
+                </amt>
+                <item>olive oil</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                    <unit>tablespoons</unit>
+                </amt>
+                <item>balsamic vinegar</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>basil</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Lavez, essuyez et coupez les légumes en petits dés. Faîtes les revenir séparérnent dans de l'huile d’olive. Les légumes doivent rester croquants. </step>
+						<step>Parallélement, faites cuire les pâtes selon le temps indiqué sur le paquet dans une grande quantité d’eau salée. Egouttez-les. </step>
+						<step>Coupez les tomates séchées en petits morceaux. Mélangez le tout, et mettre au frais.</step>
+						<step>Avant de servir : mélangez l'huile d’olive, le vinaigre balsamique, le parmesan et le basilic haché. Versez sur la préparation, salez, poivrez et mélangez bien le tout.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Ciasto biało-czarne z serem</title>
+            <source/>
+            <categories/>
+						<preptime type="preparation">
+							  <time>
+								    <qty>45</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+										<range>
+										    <q1>50</q1>
+												<sep>-</sep>
+										    <q2>60</q2>
+										</range>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+						<ing-div>
+								<title>Ciasto</title>
+		            <ing>
+		                <amt>
+		                    <qty>1 1/2</qty>
+		                    <unit>szklanki</unit>
+		                </amt>
+		                <item>maki tortowej</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>szklanka</unit>
+		                </amt>
+		                <item>cukru</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>kostka</unit>
+		                </amt>
+		                <item>margaryny</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>3</qty>
+		                    <unit>łyżki</unit>
+		                </amt>
+		                <item>kakao</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>5</qty>
+		                    <unit>łyżek</unit>
+		                </amt>
+		                <item>wody</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>opakowanie</unit>
+		                </amt>
+		                <item>cukru wanilinowego</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>4</qty>
+		                </amt>
+		                <item>jajka</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>3</qty>
+		                    <unit>łyżeczki</unit>
+		                </amt>
+		                <item>proszku do pieczenia</item>
+		            </ing>
+						</ing-div>
+						<ing-div>
+								<title>Masa serowa</title>
+		            <ing>
+		                <amt>
+		                    <range>
+				                    <q1>60</q1>
+				                    <q2>70</q2>
+												</range>
+		                    <unit>dag</unit>
+		                </amt>
+		                <item>zmielonego sera</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>4</qty>
+		                </amt>
+		                <item>jajka</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>szklanka</unit>
+		                </amt>
+		                <item>cukru</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1/2</qty>
+		                    <unit>kostki</unit>
+		                </amt>
+		                <item>margaryny</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                </amt>
+		                <item>budyń waniliowy lub śmietankowy</item>
+		            </ing>
+						</ing-div>
+        </ingredients>
+				<directions>
+						<dir-div>
+								<title>Ciasto</title>
+								<step>Margarynę, cukier, cukier wanilinowy, wodę i kakao włożyć do garnka i gotować przez 5 min.</step>
+								<step>Po ostudzeniu dodać żółtka i wymieszać. Następnie dodać mąkę z proszkiem do pieczenia oraz ubitą pianę z białek i delikatnie wymieszać.</step>
+								<step>Ciasto wylać na blachę.</step>
+						</dir-div>
+						<dir-div>
+								<title>Masa serowa</title>
+								<step>Do zmielonego sera dodać żółtka, cukier, roztopioną margarynę, budyń w proszku oraz ubite białka i dokładnie wymieszać.</step>
+								<step>Na ciasto nakładać łyżka kupki masy serowej. Piec ok. 50-60 min w temperaturze l60°C.</step>
+						</dir-div>
+				</directions>
+    </recipe>
+</recipeml>

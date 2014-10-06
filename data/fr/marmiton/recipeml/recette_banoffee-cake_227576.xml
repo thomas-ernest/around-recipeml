@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipeml version="0.5" xml:lang="fr">
+   <head>
+      <title>Banoffee Cake</title>
+      <source>http://www.marmiton.org/</source>
+      <yield>
+         <qty>8</qty>
+         <unit>personnes</unit>
+      </yield>
+      <preptime type="preparation">
+         <time>
+            <qty>120</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+      <preptime type="cooking">
+         <time>
+            <qty>0</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+   </head>
+   <ingredients>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>1 boite de sucré</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>150 g de biscuits  sablés  anglais</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>75 g de  beurre</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>3
+                      bananes</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>25 cl de crème entière liquide</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>1 cuillère à soupe de  sucre  glace</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>Cacao  Amer</item>
+      </ing>
+   </ingredients>
+   <directions>
+      <step> Pour préparer le "Toffee" ( confiture de lait ) :</step>
+      <step>Il est possible de le préparer jusqu'à une semaine avant. Dans une cocotte minute, immerger la boite de lait concentré sucrée dont vous aurez préalablement enlevé l'étiquette. Fermer, mettre sur le feu et à partir de la mise sous pression (1er sifflement) compter 45 minutes. Puis retirer du
+                      feu, laisser la pression s'échapper puis ouvrir mais ne pas vider l'eau ni retirer la boite, laisser refroidir tel quel, boite dans l'eau. Une fois bien refroidi, vous pouvez ouvrir la boite et transférer le toffee dans un pot de confiture par exemple.</step>
+      <step>Pour la préparation du Banoffee :</step>
+      <step>Placer la crème, un saladier et le un fouet au réfrigérateur en prévision du montage de la  chantilly .</step>
+      <step>Mixer les biscuits jusqu'à l'obtention d'une fine chapelure.</step>
+      <step>Faire fondre le beurre (au micro-ondes) et le mélanger à la poudre de biscuits.</step>
+      <step>Dans le fond d'un cercle à pâtisserie ou d'un moule à charnière de 22cm environ, étaler et tasser la préparation obtenue.</step>
+      <step>Placer au réfrigérateur 30 minutes minimum.</step>
+      <step>Etaler le toffee sur la couche
+                      de biscuits durcie. Personnellement, je ne mets que les 2/3, un peu plus, de la boite mais cela dépend des gourmands !</step>
+      <step>Couper les bananes en rondelles généreuses. Les placer en couche uniforme, sans les superposer, sur la confiture de lait.</step>
+      <step>Monter la chantilly, à mi-parcours, ajouter le sucre glace.</step>
+      <step>Étaler uniformément la chantilly sur les bananes.</step>
+      <step>Placer le tout au minimum une heure au réfrigérateur.</step>
+      <step>Au moment de servir, saupoudrer de cacao
+                      amer.</step>
+      <step>Et régalez vous ! (Après un repas léger, bien sur...)</step>
+   </directions>
+</recipeml>

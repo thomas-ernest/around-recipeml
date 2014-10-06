@@ -1,0 +1,33 @@
+* {
+  font-family : Arial;
+}
+
+div.recipe div {
+  margin-left : 1em;
+}
+
+div.recipe h1 {
+  margin-bottom : 0.1em;
+  border-bottom : 0.1em solid #ffaa00;
+}
+
+div.recipe div.preptime , div.recipe div.equipment{
+  display : inline-block;
+	vertical-align : top;
+	margin-right : 1em;
+  padding-left : 1em;
+	padding-right : 1em;
+}
+
+div.recipe div.preptime ul, div.recipe div.equipment ul {
+  margin : 0em;
+}
+
+div.recipe div h4 {
+  margin-top : 0;
+  margin-bottom : 0em;
+}
+
+div.recipe div.equipment h4 {
+	border-bottom: 0.2em solid #cc0000;
+}

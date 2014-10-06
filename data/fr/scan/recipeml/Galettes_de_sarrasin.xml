@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Galettes de sarrasin</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>10</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="standing">
+							  <time>
+								    <qty>2</qty>
+								    <timeunit>hours</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>250</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>sarrasin flour</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit/>
+                </amt>
+                <item>eggs</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>tablespoon</unit>
+                </amt>
+                <item>oil</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1/2</qty>
+                    <unit>teaspoon</unit>
+                </amt>
+                <item>salt</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>500</qty>
+                    <unit>milliliters</unit>
+                </amt>
+                <item>water</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>40</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>half-salt butter</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Mettez la farine dans une terrine. Faites un puit au centre, ajoutez l'huile, les oeufs battus et le sel.</step>
+						<step>Mélangez à la spatule en partant du centre. Délayez progressivement avec l 'eau. Battez vivement au fouet peandant 3 minutes pour obtenir une pâte lisse et sans grumeau.</step>
+						<step>Laissez reposer la pâte pendant 2 heures avant la cuisson.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

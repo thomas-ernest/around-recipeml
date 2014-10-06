@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Biscuits à la cannelle</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>6</qty>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>25</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>12</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooling">
+							  <time>
+								    <qty>2</qty>
+								    <timeunit>hours</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>500</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>farine</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>4</qty>
+                </amt>
+                <item>oeufs</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>250</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>de sucre en poudre</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>300</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>de beurre</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>pincée</unit>
+                </amt>
+                <item>de sel</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>sachet</unit>
+                </amt>
+                <item>de levure chimique</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>cuillère à soupe</unit>
+                </amt>
+                <item>de cannelle en poudre</item>
+            </ing>
+        </ingredients>
+        <equipment>
+						<tool>
+								<brandname>
+										<product>film alimentaire</product>
+								</brandname>
+						</tool>
+				</equipment>
+				<directions>
+            <step>Laissez ramollir le beurre en morceaux.</step>
+            <step>Versez la farine, le sucre et la cannelle dans un autre saladier. Mélangez, creusez une fontaine. Mettez-y la levure, le sel et le beurre ramolli. Travaillez avec le bout des doigts pour obtenir un mélange sableux.</step>
+            <step>Versez-le sur le plan de travail. Incoporez alors 3 jaunes d'oeufs et 1 oeuf entier. Travaillez la pâte avec la paume de la main jusqu'à obtention d'une pâte homogène.</step>
+            <step>Formez une boule, emballez-la dans du film alimentaire et placez au frais pendant 2 heures.</step>
+            <step>Préchauffez le four th.7 (210°C).</step>
+            <step>Etalez la pâte sur le plan de travail fariné sur 4 mm. d'épaisseur environ et découpez-y des petits biscuits à l'aide d'emporte-pièces de différentes formes.</step>
+            <step>Posez les biscuits sur la plaque du four recouverte de papier sulfurisé, en les espaçant bien. Enfournez et faites cuire 12 min. environ.</step>
+            <step>Sortez les biscuits du four et posez-les sur une grille pour les laisser refroidir.</step>
+            <step>Servez les biscuits en accompagnement d'une crème, d'une glace ou d'une mousse.</step>
+				</directions>
+    </recipe>
+</recipeml>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipeml version="0.5" xml:lang="fr">
+   <head>
+      <title>Quiche poireaux, chèvre lardons</title>
+      <source>http://www.marmiton.org/</source>
+      <yield>
+         <qty>4</qty>
+         <unit>personnes</unit>
+      </yield>
+      <preptime type="preparation">
+         <time>
+            <qty>20</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+      <preptime type="cooking">
+         <time>
+            <qty>35</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+   </head>
+   <ingredients>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>250 g de (ou une pâte toute prête)</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>3  poireaux</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>100 g de lardons fumés</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>1  fromage  de chèvre
+                      (cottin, bûche...selon les goûts) </item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>3  oeufs</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>20 cl de crème fraîche</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>10 cl de lait</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>sel ,  poivre</item>
+      </ing>
+   </ingredients>
+   <directions>
+      <step> Etalez la pâte dans le moule beurré et fariné. </step>
+      <step>Nettoyez puis émincez les blancs des 3 poireaux. </step>
+      <step>Faites dorer les lardons dont vous utiliserez la graisse pour faire revenir les poireaux ensuite. </step>
+      <step>Répartissez lardons et poireaux sur le fond de tarte. </step>
+      <step>Préchauffez le four à 180°C ( Th 6). </step>
+      <step>Dans un bol battez les oeufs, la crème et le lait. Assaisonnez à votre goût puis versez le mélange dans la tarte. </step>
+      <step>Découper le fromage de
+                      chèvre en rondelles que vous déposerez sur la  quiche . </step>
+      <step>Cuisez au four de 25 à 30 mn.</step>
+      <step>
+                          Remarques :
+                        
+                          Idéal un soir accompagné d'une salade (mâche)
+                        </step>
+   </directions>
+</recipeml>

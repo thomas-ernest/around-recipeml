@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Pierogi z jagodami</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>45</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>4</qty>
+                    <unit>szklanki</unit>
+                </amt>
+                <item>mąki</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                </amt>
+                <item>żółtko</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>łyżka</unit>
+                </amt>
+                <item>roztopionego, ostudzonego masła</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1/2</qty>
+                    <unit>szklanki</unit>
+                </amt>
+                <item>gorącej wody</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>szczypta</unit>
+                </amt>
+                <item>soli</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>700</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>jagód</item>
+            </ing>
+            <ing>
+                <amt>
+										<range>
+		                    <q1>3</q1>
+		                    <q2>4</q2>
+										</range>
+                    <unit>łyżki</unit>
+                </amt>
+                <item>cukru pudru</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1/2</qty>
+                    <unit>szklanki</unit>
+                </amt>
+                <item>kwaśnej śmietany</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Owoce opłukać i odsączyć na sitku.</step>
+            <step>Z mąki, żółtka, masła, wody oraz soli zagnieść ciasto. Rozwałkować je na cienki placek i szklanką wykrawać kółka.</step>
+            <step>Następnie nakładać na nie owoce (wcześniej wymieszane z 2 łyżkami cukru pudru) i dokładnie sklejać brzegi.</step>
+            <step>Gotować w wodzie z dodatkiem oleju, na średnim ogniu.</step>
+            <step>Odsączyć, podawać na ciepło polane śmietaną lub jogurtem.</step>
+        </directions>
+    </recipe>
+</recipeml>

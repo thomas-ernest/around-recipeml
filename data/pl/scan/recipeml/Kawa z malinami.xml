@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Kawa z malinami</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>mrożonych malin</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1/3</qty>
+                    <unit>szklanki</unit>
+                </amt>
+                <item>cukru</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>ml</unit>
+                </amt>
+                <item>wody</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>l</unit>
+                </amt>
+                <item>naparu kawowego (7-8 łyżeczek kawy mielonej)</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>500</qty>
+                    <unit>ml</unit>
+                </amt>
+                <item>śmietanki łaciata 12%</item>
+            </ing>
+            <ing>
+                <item>bita śmietanka</item>
+            </ing>
+            <ing>
+                <item>świeże maliny do przybrania</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Zmiksować mrożone maliny, cukier i wodę.</step>
+            <step>Następnie odcedzić, oddzielając pestki, dodać schłodzony napar kawowy i śmietankę łaciata 12%. Całość zmiksować.</step>
+            <step>Wlać do wysokich szklanek wypełnionych do 1/3 kostkami lodu. Przybrać bitą śmietanką i świeżymi malinami.</step>
+        </directions>
+    </recipe>
+</recipeml>

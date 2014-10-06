@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Sernik wiedeński w czekoladzie</title>
+            <source/>
+            <categories/>
+						<preptime type="preparation">
+							  <time>
+								    <qty>55</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>90</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+		            <ing>
+		                <amt>
+		                    <qty>500</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>białego sera lub twarogu sernikowego</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>8</qty>
+		                </amt>
+		                <item>jaj</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżka</unit>
+		                </amt>
+		                <item>kopiasta cukru pudru</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>80</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>masła</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                </amt>
+		                <item>budyń waniliowy</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>100</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>bakalii: smażonej skorki pomarańczowej i rodzynek sułtańskich</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>200</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>gorzkiej czekolady</item>
+		            </ing>
+		            <ing>
+		                <item>konfitura wiśniowa</item>
+		            </ing>
+        </ingredients>
+				<directions>
+						<dir-div>
+								<title>Ser mielimy dwu</title>
+								<step>Trzykrotnie (jeśli korzystamy z gotowego twarogu sernikowego nie ma takiej konieczności), ucieramy go z żółtkami, dodajemy budyń i bakalie (rodzynki opłukane i osuszone).</step>
+								<step>Białka ubijamy z cukrem pudrem na pianę i łączymy z utartą masą serową. Dokładnie i delikatnie mieszamy.</step>
+						</dir-div>
+						<dir-div>
+								<title>Formę</title>
+								<step>Tortownicę smarujemy masłem i posypujemy tartą bułką.</step>
+								<step>Wkładamy masę i pieczemy w temperaturze 170°C przez 1 godzinę i l5 minut.</step>
+								<step>Rondelek z pokruszonymi kawałkami czekolady umieszczamy w garnku z gorącą wodą i czekamy, aż czekolada się rozpuści.</step>
+								<step>Po upieczeniu polewamy sernik polewą czekoladową otrzymaną z gorzkiej czekolady.</step>
+								<step>Sernik podajemy z dodatkiem łyżeczki wiśniowej konfitury.</step>
+						</dir-div>
+				</directions>
+    </recipe>
+</recipeml>

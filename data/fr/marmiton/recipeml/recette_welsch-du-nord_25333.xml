@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipeml version="0.5" xml:lang="fr">
+   <head>
+      <title>Welsch du Nord</title>
+      <source>http://www.marmiton.org/</source>
+      <yield>
+         <qty>4</qty>
+         <unit>personnes</unit>
+      </yield>
+      <preptime type="preparation">
+         <time>
+            <qty>5</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+      <preptime type="cooking">
+         <time>
+            <qty>15</qty>
+            <timeunit>minutes</timeunit>
+         </time>
+      </preptime>
+   </head>
+   <ingredients>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>10 g de</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>25 cl de bière blonde ou ambrée</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>800 g de cheddar</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>50 g de  gruyère  râpé</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>2 tranches de jambon blanc</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>2 pincée de noix de  muscade</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>4 œufs</item>
+      </ing>
+      <ing>
+         <amt>
+            <qty>0</qty>
+            <unit>g</unit>
+         </amt>
+         <item>4 tranches de  pain  de campagne</item>
+      </ing>
+   </ingredients>
+   <directions>
+      <step>Faire dorer le pain dans une poêle avec un peu de beurre. </step>
+      <step>Mettre le cheddar en petits cubes dans une sauteuse, ajoutez la bière et la muscade et laissez fondre, puis, ajouter les  oeufs  battus hors du feu.</step>
+      <step>Dans un plat à gratin, déposez le jambon sur le pain, et versez la préparation sur l'ensemble. </step>
+      <step>Mettre du gruyère râpé pour gratiner le plat.
+                      </step>
+      <step>Mettre au four 3 min environ en position gril.</step>
+      <step>
+                          Remarques :
+                        
+                          Possibilité de rajouter un oeuf dessus. A servir avec des frites et de la salade.
+                        
+                          Conseil vin :
+                        
+                          bière blonde ou ambrée
+                        </step>
+   </directions>
+</recipeml>

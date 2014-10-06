@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Gratin de Macaroni au Thon</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>10</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>40</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>400</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>macaroni</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>400</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>tuna fish</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>30</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>butter</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>30</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>flour</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>400</qty>
+                    <unit>milliliters</unit>
+                </amt>
+                <item>milk</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1 1/2</qty>
+                    <unit>teaspoons</unit>
+                </amt>
+                <item>mustard</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>grater cheese</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>salt</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>pepper</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Dans une casserole, faites fondre le beurre à feu doux sans qu’il se colore puis ajouter la farine. Remuez bien le tout à feu doux avec une cuillère en bois.</step>
+						<step>Ajoutez un peu de lait tout en continuant à mélanger jusqu'a ce que la sauce béchamel épaississe et devienne homogene. Eteignez le feu, salez, poivrez et ajouteez la moutarde selon votre gout.</step>
+						<step>Parallèlement, faites cuire les pâtes selon le temps de cuisson indiqué sur le paquet dans une grande quantité d'eau salée. Egouttez les.</step>
+						<step>Emiettez le thon égoutté et mélanger le aux pâtes dans un plat à gratin.</step>
+						<step>Recouvrez le tout de la sauce Béchamel et ajoutez l'emmental râpé.</step>
+						<step>Enfournez le tout à four chaud (Th.7) et retirez du four quand le plat est gratiné.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

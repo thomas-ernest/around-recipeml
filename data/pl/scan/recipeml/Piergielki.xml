@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Piergielki</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>6</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>60</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+						<ing-div>
+								<title>Rozczyn</title>
+		            <ing>
+		                <amt>
+		                    <qty>50</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>drożdży</item>
+		            </ing>
+		            <ing>
+		                <item>cukier</item>
+		            </ing>
+		            <ing>
+		                <item>mąki</item>
+		            </ing>
+		            <ing>
+		                <item>mleko</item>
+		            </ing>
+						</ing-div>
+						<ing-div>
+								<title>Piergielki</title>
+		            <ing>
+		                <amt>
+		                    <qty>3</qty>
+		                    <unit>szklanki</unit>
+		                </amt>
+		                <item>mąki</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>4</qty>
+		                </amt>
+		                <item>żółtka</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>łyżko</unit>
+		                </amt>
+		                <item>cukru</item>
+		            </ing>
+						</ing-div>
+        </ingredients>
+				<directions>
+						<dir-div>
+								<title>Rozczyn</title>
+								<step>Drożdży wymieszać z cukrem i mąką zostawić aż urośnie, potem dodać trochę ciepłego mleka.</step>
+						</dir-div>
+						<dir-div>
+								<title>Piergielki</title>
+								<step>Żółtka ubić z cukrem. Zrobić dołek w mące, dodać rozczyn i jajka z cukrem. W razie zbyt gęstego ciasta dolać ciepłego mleka.</step>
+								<step>Ciasto wyrabiać jak na pierogi.</step>
+								<step>Smażyć na rozgrzanym oleju.</step>
+								<step>Posypać cukrem pudrem.</step>
+						</dir-div>
+				</directions>
+    </recipe>
+</recipeml>

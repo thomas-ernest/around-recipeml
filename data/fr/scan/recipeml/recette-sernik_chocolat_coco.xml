@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Sernik chocolat coco</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>servings</unit>
+						</yield>
+        </head>
+        <ingredients>
+						<ing-div>
+								<title>Couche gateau au chocolat</title>
+		            <ing>
+		                <amt>
+		                    <qty>250</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>margarine</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>5</qty>
+		                    <unit>cuillères à soupe</unit>
+		                </amt>
+		                <item>eau</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <range>
+														<q1>1,25</q1>
+														<sep>à</sep>
+														<q2>1,5</q2>
+												</range>
+		                    <unit>tasses</unit>
+		                </amt>
+		                <item>de sucre</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>3</qty>
+		                    <unit>cuillères à soupe</unit>
+		                </amt>
+		                <item>de cacao</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>sachet</unit>
+		                </amt>
+		                <item>de sucre vanillé</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>4</qty>
+		                </amt>
+		                <item>oeufs</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1,5</qty>
+		                    <unit>tasses</unit>
+		                </amt>
+		                <item>de farine</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>3</qty>
+		                    <unit>cuillères à soupe</unit>
+		                </amt>
+		                <item>de levure</item>
+		            </ing>
+						</ing-div>
+						<ing-div>
+								<title>Couche sernik au coco</title>
+		            <ing>
+		                <amt>
+		                    <range>
+				                    <q1>500</q1>
+														<sep>à</sep>
+				                    <q2>700</q2>
+												</range>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>twarog mielony</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>tasse</unit>
+		                </amt>
+		                <item>sucre</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>125</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>margarine</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>4</qty>
+		                </amt>
+		                <item>oeufs</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>2</qty>
+		                    <unit>poignées</unit>
+		                </amt>
+		                <item>de noix de coco rapée</item>
+		            </ing>
+						</ing-div>
+        </ingredients>
+				<directions>
+						<dir-div>
+								<title>Couche gateau au chocolat</title>
+								<step>Mélanger et chauffer la margarine, le cacao, le sucre, le sucre vanillé et l'eau jusqu'à obtenir une préparation liquide.</step>
+								<step>Laisser la préparation refroidir.</step>
+								<step>Ensuite ajouter les jaunes d'oeuf, la farine et la levure.</step>
+								<step>Faire monter en neige les blancs d'oeuf.</step>
+								<step>Mélanger délicatement les oeufs en neige avec la préparation.</step>
+						</dir-div>
+						<dir-div>
+								<title>Couche sernik au coco</title>
+								<step>Mélanger la margarine, les jaunes d'oeuf et le sucre.</step>
+								<step>Ajouter la crème et la noix de coco rapée à la préparation.</step>
+								<step>Faire monter en neige les blancs d'oeuf.</step>
+								<step>Mélanger délicatement les oeufs en neige avec la préparation.</step>
+						</dir-div>
+						<dir-div>
+								<title>Mélange des couches</title>
+								<step>Verser la préparation au chocolat au fond d'un plat.</step>
+								<step>Verser délicatement la préparation à la noix de coco par dessus.</step>
+								<step>Faire cuire au four environ 1 heure à 200°C. Si la préparation cuit trop vite diminuer la température à 180°C. La cuisson est achevée lorsque les deux couches sont solides (et moelleuse, pas solide comme un roc). Pour vérifier la cuisson, on peut piquer le gateau avec un pique à brochette ou une fourchette.</step>
+						</dir-div>
+				</directions>
+    </recipe>
+</recipeml>

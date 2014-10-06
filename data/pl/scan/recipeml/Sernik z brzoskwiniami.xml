@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Sernik z brzoskwiniami</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>45</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>75</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+						<ing-div>
+								<title>Ciasto</title>
+		            <ing>
+		                <amt>
+		                    <qty>3</qty>
+		                    <unit>szklanki</unit>
+		                </amt>
+		                <item>mąki</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>niepalna szklanka</unit>
+		                </amt>
+		                <item>cukru</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>opakowanie</unit>
+		                </amt>
+		                <item>cukru waniliowego</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>2</qty>
+		                </amt>
+		                <item>jajka</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>250</qty>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>margaryna</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>2</qty>
+		                    <unit>łyżeczki</unit>
+		                </amt>
+		                <item>proszku do pieczenia</item>
+		            </ing>
+						</ing-div>
+						<ing-div>
+								<title>Masa serowa</title>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>kg</unit>
+		                </amt>
+		                <item>twarogu</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>5</qty>
+		                </amt>
+		                <item>żółtek</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>szklanka</unit>
+		                </amt>
+		                <item>cukru pudru</item>
+		            </ing>
+		            <ing>
+		                <amt>
+												<range>
+				                    <q1>125</q1>
+				                    <q2>175</q2>
+												</range>
+		                    <unit>g</unit>
+		                </amt>
+		                <item>margaryny</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>opakowanie</unit>
+		                </amt>
+		                <item>budyniu śmietankowego</item>
+		            </ing>
+		            <ing>
+		                <amt>
+		                    <qty>1</qty>
+		                    <unit>puszka</unit>
+		                </amt>
+		                <item>brzoskwin</item>
+		            </ing>
+						</ing-div>
+        </ingredients>
+				<directions>
+						<dir-div>
+								<title>Ciasto</title>
+								<step>Make wymieszac z proszkiem do pieczenia, polaczyc z utartymi jajkami z cukrem, cukrem waniliowym i margaryna. Wyrobic ciasto.</step>
+								<step>2/3 wyrobionego ciasta zostawić na spód i 1/3 na górę.</step>
+						</dir-div>
+						<dir-div>
+								<title>Masa serowa</title>
+								<step>Żółtka z cukrem ubić na gładką masę, dodawać powoli margarynę. Następnie dodać ser i budyń śmietankowy.</step>
+								<step>Na koniec dodać ubitą pianę z jajek i brzoskwinie.</step>
+								<step>Piec w 200°C - 180°C na pergaminie około 1 godziny.</step>
+						</dir-div>
+				</directions>
+    </recipe>
+</recipeml>

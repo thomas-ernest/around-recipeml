@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Włoski Deser Tiramisu</title>
+            <source/>
+            <categories/>
+            <yield>
+								<range>
+									<q1>4</q1>
+									<q2>6</q2>
+								</range>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooling">
+							  <time>
+								    <qty>3</qty>
+								    <timeunit>godziny</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>4</qty>
+                </amt>
+                <item>żółtka</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1/4</qty>
+                    <unit>szklanki</unit>
+                </amt>
+                <item>cukru</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>250</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>sera Mascarpone</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>szklanka</unit>
+                </amt>
+                <item>mocnej posłodzonej kawy ekspresowej</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>185</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>biszkoptów</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>50</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>koniaku lub grappy</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>łyżki</unit>
+                </amt>
+                <item>kakao</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Utrzeć mikserem żółtka z cukrem na kogiel mogiel. Gdy żółtka beda utarte na gładką masę dodać stopniowo mascarpone i dalej ubijać na gładką, puszystą masę.</step>
+            <step>Do kawy dodać koniak. W głębokim naczyniu układać warstwami nasączone kawa biszkopty i krem (ok 4 warstw).</step>
+            <step>Wstawić do lodówki na 3 godziny, przed podaniem posypać kakao.</step>
+        </directions>
+    </recipe>
+</recipeml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Rochers Vanille-Coco</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>20</qty>
+								<unit>bits</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>12</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit/>
+                </amt>
+                <item>eggs</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>80</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>sugar</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>bags</unit>
+                </amt>
+                <item>vanilla sugar</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>12</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>grater coconut</item>
+            </ing>
+        </ingredients>
+        <directions>
+						<step>Cassez 2 oeufs dans un saladier, ajouter 80g de sucre, 2 sachets de sucre vanillé et 125g de noix de coco râpé.</step>
+						<step>Mélangez le tout jusqu'à obtenir une pâte homogène.</step>
+						<step>A l aide d'une petite cuillère formez des petits tas et disposez les sur la plaque du four recouverte de papier sulfurisé.</step>
+						<step>Mettez à cuire au four 12 minutes à 200°C.</step>
+						<step>Astuce : Pour les plus gourmands. Trempez les rochers dans le chocolat, aprés cuisson.
+						</step>
+        </directions>
+    </recipe>
+</recipeml>
+

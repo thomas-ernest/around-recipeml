@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Brochettes de boeuf, chips de patates douces et sauce au yaourt</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>500</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>beef</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>sweet potatoes</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit/>
+                </amt>
+                <item>natural yogurt</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>15</qty>
+                    <unit/>
+                </amt>
+                <item>bits chives</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>milliliters</unit>
+                </amt>
+                <item>coco milk</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>frying oil</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>salt</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>pepper</item>
+            </ing>
+        </ingredients>
+        <directions>
+					<step>Préparez la sauce ciboulette. Mélangez les yaourts avec la ciboulette ciselée, salez, poivrez et placez au réfrigérateur.</step>
+					<step>Rincez les patates douces et essuyez-les. Coupez-les en fines rondelles sans les peler. Faites chauffer l'huile à 180°C. Dès qu'elle frémit, plongez les rondelles de patates douces dans l'huile et laissez cuire pendant 5 minutes environ.</step>
+					<step>Egouttez-les et disposez-les sur une feuille de papier absorbant, puis dans un récipient. Salez à votre goût. Renouvelez l'opération jusqu'à ce que vous n'ayez plus de rondelles.</step>
+					<step>Coupez la viande de boeuf en gros morceaux. Placez-les dans un récipient et arrosez-les de lait de coco. Salez et poivrez.</step>
+					<step>Mélangez et laissez mariner 30 minutes. Confectionnez les brochettes de viande : égouttez les morceaux de boeuf et piquez-les sur 4 piques.</step>
+					<step>Faites-les cuire dans une poêle à feu fort 3 minnutes de chaque côté (pour une cuisson saignante).</step>
+					<step>Dégustez les brochettes avec les chips de patates froides et la sauce au yaourt.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

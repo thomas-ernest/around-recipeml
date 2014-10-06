@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Noix de Saint-Jacques panées</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>4</qty>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>10</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>2</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>12</qty>
+                    <unit/>
+                </amt>
+                <item>noix de Saint-Jacques</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>tablespoons</unit>
+                </amt>
+                <item>olive oil</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>salt</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>pepper</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>30</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>powdered almonds</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>30</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>powdered nuts</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>tablespoon</unit>
+                </amt>
+                <item>powdered almonds</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>tablespoon</unit>
+                </amt>
+                <item>powdered nuts</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>50</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>breadcrumbs</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>half-salt butter</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>juice of a half citron</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>4</qty>
+                    <unit/>
+                </amt>
+                <item>bits coriander</item>
+            </ing>
+        </ingredients>
+        <directions>
+						<step>Badigeonnez les noix de Saint-Jacques d'1 c. à soupe d‘huile d’olive. Salez, poivrez.</step>
+						<step>Mélangez la Fine Chapelure de Pain, les amandes et les noisettes en poudre. Roulez les noix dans ce mélange.</step>
+						<step>Dans une poéle sans matiére grasse, faites griller les amandes effilées et les noisettes concassées. Réservez. </step>
+						<step>Faites revenir les noix avec la reste d’huile et 65 g de beurre dans une poéle, 30 s. à 1 min. par face. Conservez-les au chaud.</step>
+						<step>Faites fondre le reste du beurre avec le jus de citron, des amandes effilées et les noisettes concassées. </step>
+						<step>Servez les noix de Saint-Jacques avec la sauce et parsemez de feuilles de coriandre.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

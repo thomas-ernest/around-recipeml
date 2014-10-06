@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Tarte aux framboises et ganache au chocolat blanc</title>
+            <source/>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>15</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooling">
+							  <time>
+								    <qty>1</qty>
+								    <timeunit>hour</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>flaky pastry ,  (pâte brisée)</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>180</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>white chocolate</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>150</qty>
+                    <unit>milliliters</unit>
+                </amt>
+                <item>liquid cream</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit/>
+                </amt>
+                <item>gelatin leaf</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>400</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>raspberries</item>
+            </ing>
+        </ingredients>
+        <equipment>
+						<tool>
+								<qty>1</qty>
+								<brandname>
+										<product>moule à tarte</product>
+								</brandname>
+						</tool>
+				</equipment>
+				<directions>
+						<step>Préchauffez votre four Th.7/8 (220°C)</step>
+						<step>Faites cuire la pâte à blanc selon le mode d'emploi. Faites ramollir la feuille de gélatine dans un bol d'eau froide.</step>
+						<step>Dans une petite casserole, faites chauffer la crème liquide avec la gélatine égouttée et versez-la bien chaude dans un saladier contenant le chocolat cassé en morceaux. Couvrez patientez 5 minutes puis mélangez pour obtenir un chocolat lisse.</step>
+						<step>Coulez le chocolat sur le fond de tarte. Placez la tarte au réfrigérateur au minimum 1 heure. Disposez les framboises dessus.</step>
+        </directions>
+    </recipe>
+</recipeml>
+

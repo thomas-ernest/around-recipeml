@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Sałatka ziemniaczana</title>
+            <source/>
+            <categories/>
+            <yield>
+								<range>
+										<q1>4</q1>
+										<sep>-</sep>
+										<q2>6</q2>
+								</range>
+								<unit>osób</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>45</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>35</qty>
+								    <timeunit>minut</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooling">
+							  <time>
+								    <qty>2</qty>
+								    <timeunit>godziny</timeunit>
+							  </time>
+								<sep>-</sep>
+							  <time>
+								    <qty>26</qty>
+								    <timeunit>godzin</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>800</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>ziemniaków salatkowych</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                </amt>
+                <item>łodygi selera naciowego</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                </amt>
+                <item>średnie cebule</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                </amt>
+                <item>ogórki konserwowe</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>10</qty>
+                </amt>
+                <item>czarnych oliwek</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1/2</qty>
+                    <unit>szklanki</unit>
+                </amt>
+                <item>rosołu</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>2</qty>
+                    <unit>łyżki</unit>
+                </amt>
+                <item>oliwy z oliwek</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>łyżeczka</unit>
+                </amt>
+                <item>bazylii</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>łyżeczka</unit>
+                </amt>
+                <item>czosnku granulowanego</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                    <unit>łyżki</unit>
+                </amt>
+                <item>octu winnego z białego wina</item>
+            </ing>
+            <ing>
+                <item>sól</item>
+            </ing>
+            <ing>
+                <item>pieprzu białego</item>
+            </ing>
+        </ingredients>
+        <directions>
+            <step>Ziemniaki ugotować w mundurkach. Ostudzić, obrać i pokroić w plastry.</step>
+            <step>Rosół wymieszać z oliwą z oliwek, octem, przyprawami i tak przygotowanym sosem zalać ziemniaki. Odstawić na 2 godz. w chłodne miejsce.</step>
+            <step>Łodygi selera pokroić w plasterki i wrzucić na 5 min do wrzącej wody. Odcedzić i ostudzić. Cebuleri ogórki pokroić w plastry.</step>
+            <step>Przygotowane warzywa dodać do ziemniaków i wymieszać. Wierzch przybrać oliwkami.</step>
+            <step>Najlepiej przygotować 24 godz. przed podaniem.</step>
+        </directions>
+    </recipe>
+</recipeml>

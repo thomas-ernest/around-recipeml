@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Tarte au Saumon Fumé</title>
+            <source/>
+            <categories/>
+            <yield>
+								<range><q1>6</q1><sep> to </sep><q2>8</q2></range>
+								<unit>servings</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>10</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>30</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>230</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>flaky pastry </item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>6</qty>
+                    <unit>slices</unit>
+                </amt>
+                <item>smoked salmon</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>grams</unit>
+                </amt>
+                <item>grated cheese</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>250</qty>
+                    <unit/>
+                </amt>
+                <item>milliliters cream</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                    <unit/>
+                </amt>
+                <item>eggs</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>salt</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty/>
+                    <unit/>
+                </amt>
+                <item>nutmeg</item>
+            </ing>
+        </ingredients>
+        <directions>
+						<step>Sortez la pâte du réfrigérateur 5 minutes avant utilisation.</step>
+						<step>Préchauffez votre four à 210 °C (th. 7).</step>
+						<step>Déroulez la pâte dans votre moule avec le papier cuisson.</step>
+						<step>Déposez en étoile les tranches de saumon.</step>
+						<step>Saupoudrez de gruyère.</step>
+						<step>Battez les oeufs avec la crème et assaisonnez.</step>
+						<step>Versez sur la pâte.</step>
+						<step>Laissez cuire 30 minutes environ à 210 °C (th.7).</step>
+        </directions>
+    </recipe>
+</recipeml>
+

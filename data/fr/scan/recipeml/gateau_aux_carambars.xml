@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="fr,en">
+    <recipe>
+        <head>
+            <title>Gateau aux carambars</title>
+            <source/>
+            <categories/>
+        </head>
+        <ingredients>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>paquet</unit>
+                </amt>
+                <item>de carambars</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>200</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>de chamallow (blanc de préférence)</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>180</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>de beurre</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>185</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>de riz soufflé nature (rice krispies de Kellogs)</item>
+            </ing>
+        </ingredients>
+				<directions>
+            <step>Faire fondre les carambars, le beurre et les chamallow dans un grand saladier au micro-onde 5 min. environ.</step>
+            <step>Mélanger jusqu'à obtenir un mélange homogène avec un fouet.</step>
+            <step>Ajouter le riz soufflé et mélanger rapidement avec une cuillère en bois. Attention la préparation durcie très vite.</step>
+            <step>Verser la préparation dans un plat. Aplanir le dessus avec une spatule.</step>
+            <step>Manger une fois le gateau refroidi.</step>
+				</directions>
+    </recipe>
+</recipeml>
