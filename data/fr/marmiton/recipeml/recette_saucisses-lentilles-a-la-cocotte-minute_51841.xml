@@ -23,96 +23,76 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>4</qty>
          </amt>
-         <item>4 saucisses de Montbéliard</item>
+         <item>saucisses de Montbéliard</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>250</qty>
             <unit>g</unit>
          </amt>
-         <item>250 g de lentilles</item>
+         <item>de lentilles</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>125</qty>
             <unit>g</unit>
          </amt>
-         <item>125 g de lardons</item>
+         <item>de lardons</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2  carottes</item>
+         <item>carottes</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1  oignon</item>
+         <item>oignon</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+						<range>
+								<q1>1</q1>
+								<q2>2</q2>
+						</range>
+            <unit>gousses</unit>
          </amt>
-         <item>1 à 2 gousses d' ail 
-                      (selon le goût)</item>
+         <item>d'ail (selon le goût)</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1  bouquet garni</item>
+         <item>bouquet garni</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>sel ,  poivre</item>
+         <item>sel, poivre</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>huile</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1,5</qty>
+            <unit>l</unit>
          </amt>
-         <item>1,5 litre d'eau</item>
+         <item>d'eau</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>moutarde (au moment de servir)</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Piquer les saucisses au couteau.</step>
+      <step>Piquer les saucisses au couteau.</step>
       <step>Les faire revenir dans la cocotte avec un peu d'huile.</step>
       <step>Ajouter les  oignons  émincés, l'ail, les carottes en rondelles et les lardons.</step>
       <step>Faire légèrement colorer 5 minutes.</step>
-      <step>Ajouter les lentilles, l'eau, le bouquet garni,  le
-                      sel (pas trop les saucisses et les lardons salent déjà) et le poivre.</step>
+      <step>Ajouter les lentilles, l'eau, le bouquet garni, le sel (pas trop les saucisses et les lardons salent déjà) et le poivre.</step>
       <step>Fermer la cocotte minute et laisser cuire 20 min dès la mise ne rotation de la soupape.</step>
       <step>Au moment de servir, on peut relever le plat avec un peu de moutarde.</step>
-      <step>
-                          Remarques :
-                        
-                          Pour une préparation plus rapide (pour jeune maman bien occupée) j'utilise des carottes et oignons surgelés : 1 bol de chaque.
-                        </step>
    </directions>
 </recipeml>

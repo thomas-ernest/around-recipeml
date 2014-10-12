@@ -23,107 +23,75 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>2</item>
+            <qty>2</qty>
+				 </amt>
+         <item>oignons</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>4</qty>
          </amt>
-         <item>4  carottes</item>
+         <item>carottes</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>3</qty>
          </amt>
-         <item>3  navets</item>
+         <item>navets</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>4</qty>
          </amt>
-         <item>4  courgettes</item>
+         <item>courgettes</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>6</qty>
          </amt>
-         <item>6  tomates</item>
+         <item>tomates</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>8</qty>
          </amt>
-         <item>8 merguez</item>
+         <item>merguez</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>8</qty>
          </amt>
-         <item>8 côte d'agneau</item>
+         <item>côte d'agneau</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>600</qty>
             <unit>g</unit>
          </amt>
-         <item>600 g boeuf à bouillir</item>
+         <item>boeuf à bouillir</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>4</qty>
          </amt>
-         <item>4 cuisses de poulet</item>
+         <item>cuisses de poulet</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>cumin</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>paprika</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>cannelle</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>coriandre</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>sel</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>huile d'olive vierge</item>
       </ing>
    </ingredients>
@@ -132,22 +100,19 @@
       <step>Éplucher et émincer les oignons. </step>
       <step>Couper le boeuf en morceaux de 5 à 6 cm. </step>
       <step>Dans un fait-tout, faite chauffer 3 cuillères à soupe d'huile d'olive. </step>
-      <step>Quand l'huile est chaude faite revenir la viande et l' oignon  en remuant de façon à ce que la viande soit saisie sur toutes ses
-                      faces. </step>
+      <step>Quand l'huile est chaude faite revenir la viande et l' oignon  en remuant de façon à ce que la viande soit saisie sur toutes sesfaces. </step>
       <step>Quand la viande est revenue ajouter 1 cuillère à soupe de coriandre, 1 cuillère à soupe de cumin, 1 cuillère à soupe de cannelle et 1 cuillère à soupe de paprika. </step>
       <step>Enrober bien la viande de ces épices. </step>
       <step>Quand les épices sont bien réparties sur la viande réserver les cuisses de poulet et couvrir le reste de la viande avec de l'eau. </step>
       <step>Ajouter alors vos navets et carottes et laisser cuire 45 min environ. </step>
-      <step>Ajouter alors vos tomates, vos
-                      courgettes et les pattes de poulet. </step>
+      <step>Ajouter alors vos tomates, vos courgettes et les pattes de poulet. </step>
       <step>Finir la cuisson ainsi. </step>
       <step>Faire griller les merguez.</step>
       <step>Pour la semoule : </step>
       <step>Dans un plat à four, étaler 1 kg de semoule arroser avec 2 cuillères à soupe d'huile d'olive. </step>
       <step>Malaxer le tout pour que l'huile soit répartie de façon homogène.</step>
       <step>Dans une casserole, mettre 1 l d'eau avec 1 cuillère à café de sel. Faire frémir. </step>
-      <step>Quand l'eau frémi la verser sur la semoule et laisser
-                      gonfler 5 mn. </step>
+      <step>Quand l'eau frémi la verser sur la semoule et laisser gonfler 5 mn. </step>
       <step>Quand la semoule est gonflée remuez-la avec une fourchette afin de la decoller. </step>
       <step>Mettre le plat au four Th 3 pendant 15 min.</step>
    </directions>

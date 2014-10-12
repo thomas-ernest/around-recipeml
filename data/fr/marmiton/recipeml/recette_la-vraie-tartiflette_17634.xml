@@ -23,63 +23,50 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>kg</unit>
          </amt>
-         <item>1 kg de</item>
+         <item>de pommes de terre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>200</qty>
             <unit>g</unit>
          </amt>
-         <item>200 g de lardons fumés</item>
+         <item>de lardons fumés</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>200</qty>
             <unit>g</unit>
          </amt>
-         <item>200 g d' oignons  émincés</item>
+         <item>d'oignons émincés</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1  reblochon  bien fait (lorsqu'on appuie
-                      sur le côté du reblochon, le doigt doit s'enfoncer un peu) </item>
+         <item>reblochon bien fait (lorsqu'on appuie sur le côté du reblochon, le doigt doit s'enfoncer un peu) </item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>cuillères à soupe</unit>
          </amt>
-         <item>huile (2 cuillères à soupe) </item>
+         <item>huile</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>ail ,  sel ,  poivre</item>
+         <item>ail, sel, poivre</item>
       </ing>
    </ingredients>
    <directions>
-      <step>Eplucher les  pommes  de terre, les couper en dés, bien les rincer, et les essuyer dans un torchon propre. </step>
+      <step>Eplucher les pommes de terre, les couper en dés, bien les rincer, et les essuyer dans un torchon propre. </step>
       <step>Faire chauffer l'huile dans une poêle, pour y faire fondre les oignons; rajouter ensuite les pommes de terre. </step>
       <step>Faire dorer tous les côtés des dés de pommes de terre, rajouter les lardons, et finir de cuire. </step>
-      <step>D'autre part, gratter la croûte du
-                      reblochon et le couper en deux (ou en quatre). Préparer un plat à gratin en frottant le fond et les bords avec de l'ail. </step>
+      <step>D'autre part, gratter la croûte du reblochon et le couper en deux (ou en quatre). Préparer un plat à gratin en frottant le fond et les bords avec de l'ail. </step>
       <step>Préchauffer le four à 200°C (thermostat 6-7). </step>
       <step>Dans le plat à gratin, verser une couche de pommes de terre aux lardons, disposer dessus la moitié du reblochon, puis de nouveau des pommes de terre. </step>
       <step>Terminer avec le reste du reblochon (croûte vers les pommes de terre), et enfourner pendant environ 20 min. </step>
-      <step>Bien surveiller, pour
-                      éviter que le  fromage  ne rende trop de gras.</step>
-      <step>
-                          Conseil vin :
-                        
-                          Vin de Savoie type Apremont ou Vin de Seyssel
-                        </step>
+      <step>Bien surveiller, pour éviter que le  fromage  ne rende trop de gras.</step>
    </directions>
 </recipeml>

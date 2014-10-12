@@ -23,88 +23,78 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>environ 300</qty>
             <unit>g</unit>
          </amt>
-         <item>environ 300 g de pointe de rumsteak de veau</item>
+         <item>de pointe de rumsteak de veau</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>escalopes</unit>
          </amt>
-         <item>2 escalopes de poulet</item>
+         <item>de poulet</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>200</qty>
             <unit>g</unit>
          </amt>
-         <item>200 g de champignons (boîte) </item>
+         <item>de champignons (boîte) </item>
+      </ing>
+      <ing>
+         <item>petites quenelles de veau</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>45</qty>
             <unit>g</unit>
          </amt>
-         <item>petites  quenelles  de veau</item>
+         <item>de beurre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>3</qty>
+            <unit>cuillères à soupe rases </unit>
          </amt>
-         <item>45 g de  beurre</item>
+         <item>de farine</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>75</qty>
+            <unit>cl</unit>
          </amt>
-         <item>3 cuillères à soupe rases de farine</item>
+         <item>de bouillon de volaille</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>3</qty>
          </amt>
-         <item>75 cl de bouillon de
-                      volaille</item>
+         <item>jaunes d'oeufs</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>10</qty>
+            <unit>cl</unit>
          </amt>
-         <item>3 jaunes d' oeufs</item>
+         <item>de crème fraîche épaisse</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>verre</unit>
          </amt>
-         <item>10 cl de crème fraîche épaisse</item>
+         <item>de vin blanc</item>
+      </ing>
+      <ing>
+         <item>poivre, noix de muscade</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>6</qty>
+            <unit>croûtes</unit>
          </amt>
-         <item>1 verre de vin blanc</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>poivre , noix de  muscade</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>6 croûtes en  pâte feuilletée</item>
+         <item>en pâte feuilletée</item>
       </ing>
    </ingredients>
    <directions>
@@ -112,12 +102,10 @@
       <step>Coupez la viande en petits dés et cuisez la rapidement (rose). Réservez. </step>
       <step>Faites fondre le beurre dans un faitout, ajoutez la farine et faites cuire en remuant pendant 3 mn. </step>
       <step>Mouillez ensuite ce roux blond avec le bouillon de volaille et portez à ébullition. </step>
-      <step>Ajoutez la viande, les champignons, le vin blanc, poivre et noix de muscade. Continuez de faire
-                      chauffer en remuant sans arrêt. </step>
+      <step>Ajoutez la viande, les champignons, le vin blanc, poivre et noix de muscade. Continuez de faire chauffer en remuant sans arrêt. </step>
       <step>Incorporez les quenelles et remuez délicatement. </step>
       <step>Délayez à part les jaunes d'oeufs avec la crème fraîche dans un bol, puis versez cette liaison dans le faitout en remuant. Faites chauffer sans bouillir pendant 5 mn. </step>
       <step>Faites chauffer les croûtes précuites dans le four à 180°C. Lorsqu'elles sont bien chaudes et très sèches, les sortir et enlever les chapeaux. </step>
-      <step>Disposez les croûtes sur assiettes individuelles
-                      (accompagnées de riz ou pâtes). Les remplir de la garniture en sauce et posez les chapeaux dessus. Servez Aussitôt.</step>
+      <step>Disposez les croûtes sur assiettes individuelles(accompagnées de riz ou pâtes). Les remplir de la garniture en sauce et posez les chapeaux dessus. Servez Aussitôt.</step>
    </directions>
 </recipeml>

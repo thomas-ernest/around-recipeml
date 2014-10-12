@@ -23,86 +23,75 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>50</qty>
             <unit>g</unit>
          </amt>
-         <item>50 g de</item>
+         <item>de beurre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2 gros  oignons</item>
+         <item>gros oignons</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>gousses</unit>
          </amt>
-         <item>2 gousses d' ail  écrasées</item>
+         <item>d'ail écrasées</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>500</qty>
             <unit>g</unit>
          </amt>
-         <item>500 g de bœuf haché</item>
+         <item>de bœuf haché</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>cuillère à café</unit>
          </amt>
-         <item>1 cuillère à
-                      café de  Chili  en poudre</item>
+         <item>de Chili en poudre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>cuillères à café</unit>
          </amt>
-         <item>2 cuillères à café de  cumin  en poudre</item>
+         <item>de cumin en poudre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>65</qty>
             <unit>g</unit>
          </amt>
-         <item>65 g de concentré de  tomate</item>
+         <item>de concentré de tomate</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>grosse boîte</unit>
          </amt>
-         <item>1 grosse boîte de haricots rouge égouttés</item>
+         <item>de haricots rouge égouttés</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>30</qty>
+            <unit>cl</unit>
          </amt>
-         <item>30 cl de bouillon de bœuf</item>
+         <item>de bouillon de bœuf</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>sel ,  poivre ,  persil  pour décorer</item>
+         <item>sel, poivre, persil pour décorer</item>
       </ing>
    </ingredients>
    <directions>
       <step> Dans une cocotte en fonte, faire fondre le beurre, et ensuite dorer doucement l' oignon  et l’ail.</step>
       <step>Incorporer le bœuf haché et laisser cuire doucement 10 min.</step>
-      <step>Mélanger le chili, le cumin, le concentré de  tomates , et incorporer le tout au bœuf. Ajouter
-                      les haricots, le bouillon; saler et poivrer.</step>
+      <step>Mélanger le chili, le cumin, le concentré de  tomates , et incorporer le tout au bœuf. Ajouter les haricots, le bouillon; saler et poivrer.</step>
       <step>Couvrir, et laisser cuire 25 min au four (thermostat 6/180°C).</step>
-      <step>
-                          Remarques :
-                        
-                          Si vous ne trouvez pas de Chili, vous pouvez utiliser une petite cuillère à café de poivre de Cayenne. Au moment de mettre au four, vérifiez que le bouillon arrive au raz de la préparation, au besoin, rajoutez un peu d’eau.
-                        </step>
+      <step>Remarques :Si vous ne trouvez pas de Chili, vous pouvez utiliser une petite cuillère à café de poivre de Cayenne. Au moment de mettre au four, vérifiez que le bouillon arrive au raz de la préparation, au besoin, rajoutez un peu d’eau.</step>
    </directions>
 </recipeml>

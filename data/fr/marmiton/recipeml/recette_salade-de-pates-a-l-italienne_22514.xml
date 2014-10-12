@@ -23,88 +23,71 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>250</qty>
             <unit>g</unit>
          </amt>
-         <item>250 g de pâtes papillons</item>
+         <item>de pâtes papillons</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1  melon</item>
+         <item>melon</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>6</qty>
          </amt>
-         <item>6  tomates cerises</item>
+         <item>tomates cerises</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>12</qty>
+            <unit>feuilles</unit>
          </amt>
-         <item>12 feuilles de  basilic</item>
+         <item>de  basilic</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>150</qty>
             <unit>g</unit>
          </amt>
-         <item>150 g de  mozzarella  ou de feta</item>
+         <item>de  mozzarella  ou de feta</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>4</qty>
+            <unit>fines tranches</unit>
          </amt>
-         <item>4 fines tranches de jambon de Parme</item>
+         <item>de jambon de Parme</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>12</qty>
          </amt>
-         <item>12 olives noires</item>
+         <item>olives noires</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>le jus d'un citron</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>6</qty>
+            <unit>cuillères à soupe</unit>
          </amt>
-         <item>6 cuillères à soupe d'huile d'olive</item>
+         <item>d'huile d'olive</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>sel ,  poivre</item>
+         <item>sel, poivre</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Faire cuire les pâtes 8 à 10 min. </step>
-      <step>Couper le melon en deux et détailler la chair en billes à l'aide d'une cuillère parisienne. </step>
-      <step>Couper les  tomates  cerises en deux, la mozzarella en dés et le jambon en lanières. </step>
+      <step>Faire cuire les pâtes 'al dente'. L'assaisonnement finira de les cuire.</step>
+      <step>Couper le melon en deux et détailler la chair en billes à l'aide d'une cuillère parisienne.</step>
+      <step>Couper les  tomates  cerises en deux, la mozzarella en dés et le jambon en lanières.</step>
       <step>Dans un saladier, mélanger le jus du citron et l'huile d'olive. Saler et poivrer. Ajouter 6 feuilles de basilic ciselées. </step>
-      <step>Égoutter
-                      les pâtes. Les passer rapidement sous l'eau froide puis les verser dans le saladier. Mélanger. Ajouter les billes de melon, les tomates cerises, la mozzarella, le jambon et les olives. </step>
+      <step>Égoutter les pâtes. Les passer rapidement sous l'eau froide puis les verser dans le saladier. Mélanger. Ajouter les billes de melon, les tomates cerises, la mozzarella, le jambon et les olives. </step>
       <step>Parsemer du reste de basilic. </step>
       <step>Servir froid, mais surtout pas trop!</step>
-      <step>
-                          Remarques :
-                        
-                          Misez toujours sur une cuisson 'al dente' pour les pâtes servies en salade. L'assaisonnement finira de les cuire. TOP ! ma salade préférée !!
-                        </step>
    </directions>
 </recipeml>

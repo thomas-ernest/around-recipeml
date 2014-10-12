@@ -23,81 +23,58 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>500</qty>
             <unit>g</unit>
          </amt>
-         <item>500 g de petits pois</item>
+         <item>de petits pois</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1 grosse  pomme de terre</item>
+         <item>grosse pomme de terre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1 petite laitue</item>
+         <item>petite laitue</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2  oignons</item>
+         <item>oignons</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>30</qty>
             <unit>g</unit>
          </amt>
-         <item>30 g de  beurre</item>
+         <item>de  beurre</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>crème fraîche</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>croûtons</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>lardons (facultatif)</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>sel ,  poivre</item>
+         <item>sel,  poivre</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Pelez et émincez les oignons.</step>
+      <step>Pelez et émincez les oignons.</step>
       <step>Epluchez et coupez la  pomme  de terre en dés, ciselez la laitue.</step>
       <step>Faites suer les oignons dans le beurre dans une cocotte.</step>
       <step>Ajoutez les petits pois, la laitue, couvrez et laissez cuire 5 minutes.</step>
       <step>Versez 1,5 l d'eau, salez, poivrez et rajoutez la pomme de terre.</step>
       <step>Couvrez et laissez cuire 30 min à feu moyen.</step>
-      <step>Mixez
-                      la soupe avec un peu de crème fraîche, servez-la garnie de lardons rissolés et de croûtons grillés.</step>
-      <step>
-                          Remarques :
-                        
-                          Pour faire les croûtons vous-même : faites dorer dans 2 cuillères à soupe d'huile 5 tranches de pain de mie découpées en dés, à feu vif. Avec un peu de fromage râpé en plus votre plat est complet.
-                        </step>
+      <step>Mixez la soupe avec un peu de crème fraîche, servez-la garnie de lardons rissolés et de croûtons grillés.</step>
+			
+      <step>Remarques : Pour faire les croûtons vous-même : faites dorer dans 2 cuillères à soupe d'huile 5 tranches de pain de mie découpées en dés, à feu vif. Avec un peu de fromage râpé en plus votre plat est complet.</step>
    </directions>
 </recipeml>

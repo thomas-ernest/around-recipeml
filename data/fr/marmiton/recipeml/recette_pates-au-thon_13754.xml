@@ -23,64 +23,48 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
+						<range>
+								<q1>400</q1>
+								<q2>600</q2>
+						</range>
             <unit>g</unit>
          </amt>
-         <item>400 à 600 g de pâtes (suivant l'appétit).</item>
+         <item>de pâtes (suivant l'appétit).</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>thon en boîte émietté</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1  oignon  en lamelles</item>
+         <item>oignon en lamelles</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>petite boîte</unit>
          </amt>
-         <item>1 petite boîte de concentré de  tomates</item>
+         <item>de concentré de tomates</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>verre</unit>
          </amt>
-         <item>1 verre de crème fraîche légère liquide</item>
+         <item>de crème fraîche légère liquide</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>gruyère  râpé</item>
+         <item>gruyère râpé</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>sel  et  poivre</item>
+         <item>sel et poivre</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Faire cuire les pâtes selon votre goût et le type de pâtes.</step>
+      <step>Faire cuire les pâtes selon votre goût et le type de pâtes.</step>
       <step>Dans une casserole, faire revenir les  oignons  avec un peu d'huile, ajouter le thon, le concentré de tomates, la crème,  le sel  et le poivre.</step>
       <step>Egoutter les pâtes, et les mélanger avec la préparation.</step>
-      <step>Ajouter
-                      le gruyère râpé.</step>
-      <step>
-                          Remarques :
-                        
-                          Idéal pour étudiant fauché et pressé...
-                        </step>
+      <step>Ajouter le gruyère râpé.</step>
    </directions>
 </recipeml>

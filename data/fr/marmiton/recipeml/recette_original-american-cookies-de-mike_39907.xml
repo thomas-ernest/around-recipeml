@@ -23,80 +23,70 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>250</qty>
             <unit>g</unit>
          </amt>
-         <item>250 g de farine</item>
+         <item>de farine</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>125</qty>
             <unit>g</unit>
          </amt>
-         <item>125 g de  sucre  de canne roux (ou cassonade)</item>
+         <item>de sucre de canne roux (ou cassonade)</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>sachet</unit>
          </amt>
-         <item>1 sachet de sucre vanillé</item>
+         <item>de sucre vanillé</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>pincée</unit>
          </amt>
-         <item>1 pincée de  sel</item>
+         <item>de sel</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1 1/2</qty>
+            <unit>sachet</unit>
          </amt>
-         <item>1/2 sachet de levure</item>
+         <item>de levure</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1 œuf</item>
+         <item>œuf</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>125</qty>
             <unit>g</unit>
          </amt>
-         <item>125 g de  beurre</item>
+         <item>de beurre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>cuillères</unit>
          </amt>
-         <item>2 cuillères à café de miel</item>
+         <item>à café de miel</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>pépites de chocolat (à volonté)</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Mélangez la farine, les sucres,  le sel , et la levure dans un grand saladier.</step>
-      <step>Faites fondre le beurre, et ajoutez-y, l'œuf battu et les 2 cuillères de miel, et incorporez le tout à la préparation.</step>
-      <step>Ajouter les pépites de chocolat (de préférence au lait, mais j'ai déjà goûté des  cookies  aux 3 chocolats, et c'est exquis), et mélanger avec une cuillère en bois.</step>
-      <step>Préchauffez votre four à 220°C (thermostat 7-8), avec la grille au plus bas.</step>
-      <step>Façonnez des cookies d’environ 10 cm de diamètre, et disposez-les sur une plaque. Ils doivent être assez espacés.</step>
-      <step>Enfournez-les 9 à 11 min, suivant si vous les souhaitez respectivement « extra-moelleux,
-                      moelleux ou crousti-moelleux »... Vous m’en direz des nouvelles!</step>
-      <step>
-                          Remarques :
-                        
-                          Ce sont les cookies typiques américains. [NDMike : Après réflexion, je les préfère avec seulement 100 g de sucre]
-                        </step>
+      <step>Mélangez la farine, les sucres, le sel et la levure dans un grand saladier.</step>
+      <step>Faites fondre le beurre, et ajoutez-y, l'œuf battu et les 2 cuillères de miel et incorporez le tout à la préparation.</step>
+      <step>Ajouter les pépites de chocolat (de préférence au lait, mais j'ai déjà goûté des cookies aux 3 chocolats et c'est exquis) et mélanger avec une cuillère en bois.</step>
+      <step>Préchauffez votre four à 220°C (thermostat 7-8) avec la grille au plus bas.</step>
+      <step>Façonnez des cookies d’environ 10 cm de diamètre et disposez-les sur une plaque. Ils doivent être assez espacés.</step>
+      <step>Enfournez-les 9 à 11 min, suivant si vous les souhaitez respectivement « extra-moelleux, moelleux ou crousti-moelleux »... Vous m’en direz des nouvelles!</step>
+      <step>Remarques :Ce sont les cookies typiques américains. [NDMike : Après réflexion, je les préfère avec seulement 100 g de sucre]</step>
    </directions>
 </recipeml>

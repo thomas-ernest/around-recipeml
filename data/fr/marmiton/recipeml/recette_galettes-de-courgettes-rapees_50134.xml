@@ -23,60 +23,52 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2 grosses</item>
+         <item>grosses courgettes</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>gousse</unit>
          </amt>
-         <item>1 gousse d' ail</item>
+         <item>d'ail</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2  oeufs</item>
+         <item>oeufs</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>tasse</unit>
          </amt>
-         <item>1 tasse de farine</item>
+         <item>de farine</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>cuillères à soupe</qty>
+            <unit>3</unit>
          </amt>
-         <item>3 cuillères à soupe de fines herbes</item>
+         <item>de fines herbes</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>sel ,  poivre</item>
+         <item>sel, poivre</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Peler et râper les courgettes.</step>
+      <step>Peler et râper les courgettes.</step>
       <step>Les mettre dans une passoire, saupoudrer de sel et laisser dégorger pendant 1 h.</step>
       <step>Puis, bien les rincer et les sécher dans un torchon en serrant très fort.</step>
       <step>Ajouter la farine, les oeufs, les fines herbes, l'ail haché, le poivre et  le sel .</step>
       <step>Bien mélanger.</step>
-      <step>Si la consistance est très liquide, ajouter un peu de
-                      farine.</step>
+      <step>Si la consistance est très liquide, ajouter un peu de farine.</step>
       <step>Faire chauffer 4 cuillères à soupe d'huile d'olive dans une poêle.</step>
       <step>Quand la poêle est bien chaude, y disposer des petits paquets (une cuillère à soupe) de la préparation.</step>
-      <step>Laisser dorer 3 minutes puis les retourner ensuite régulièrement jusqu'à ce que les  galettes  soient dorées.</step>
-      <step>Ajouter quelques cuillères d'eau
-                      dans la poêle si besoin.</step>
+      <step>Laisser dorer 3 minutes puis les retourner ensuite régulièrement jusqu'à ce que les galettes soient dorées.</step>
+      <step>Ajouter quelques cuillères d'eau dans la poêle si besoin.</step>
       <step>Servir chaud.</step>
    </directions>
 </recipeml>

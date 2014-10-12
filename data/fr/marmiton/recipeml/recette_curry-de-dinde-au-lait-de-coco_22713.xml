@@ -23,76 +23,59 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2 escalopes de dinde</item>
+         <item>escalopes de dinde</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1  oignon</item>
+         <item>oignon</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>20</qty>
+            <unit>cl</unit>
          </amt>
-         <item>20 cl lait de coco</item>
+         <item>lait de coco</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>cuillère à soupe</unit>
          </amt>
-         <item>1 cuillère à soupe de  curry  indien</item>
+         <item>de curry indien</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>cuillère à café</unit>
          </amt>
-         <item>1 cuillère à café de  gingembre</item>
+         <item>de gingembre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>20</qty>
+            <unit>cl</unit>
          </amt>
-         <item>20 cl de bouillon de volaille</item>
+         <item>de bouillon de volaille</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>sel ,  poivre</item>
+         <item>sel, poivre</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>piment de cayenne</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1 tete d' ail ,
-                      huile</item>
+         <item>tete d'ail, huile</item>
       </ing>
    </ingredients>
    <directions>
       <step>Emincer la dinde, les  oignons  et l'ail. Les faire revenir dans l'huile. Ajouter le curry + le gingembre, le lait de coco + le bouillon. Laisser mijoter 25 mn. </step>
       <step>5 mn avant la fin saler, poivrer, pimenter à votre convenance.</step>
-      <step>
-                          Conseil vin :
-                        
-                          tavel
-                        </step>
    </directions>
 </recipeml>

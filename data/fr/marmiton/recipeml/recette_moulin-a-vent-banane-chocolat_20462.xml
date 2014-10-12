@@ -23,60 +23,57 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>4</qty>
          </amt>
-         <item>4 bananes</item>
+         <item>bananes</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>3</qty>
          </amt>
-         <item>3  oeufs , jaune et blans séparés</item>
+         <item>oeufs, jaune et blans séparés</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>150</qty>
             <unit>g</unit>
          </amt>
-         <item>150 g de chocolat noir</item>
+         <item>de chocolat noir</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>100</qty>
             <unit>g</unit>
          </amt>
-         <item>100 g de  sucre  en poudre</item>
+         <item>de sucre en poudre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>100</qty>
             <unit>g</unit>
          </amt>
-         <item>100 g de  beurre 
-                      (+20 g pour le moule) </item>
+         <item>de beurre(+20 g pour le moule)</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>60</qty>
             <unit>g</unit>
          </amt>
-         <item>60 g de poudre d'amandes</item>
+         <item>de poudre d'amandes</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>cuillère à soupe</unit>
          </amt>
-         <item>1 cuillère à soupe bombée de farine</item>
+         <item>bombée de farine</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>pincée</unit>
          </amt>
-         <item>1 pincée de  sel</item>
+         <item>de sel</item>
       </ing>
    </ingredients>
    <directions>
@@ -84,20 +81,15 @@
       <step>Cassez le chocolat en cubes, faites-le fondre avec un peu d'eau au bain-marie (ou au micro-ondes). </step>
       <step>Fouettez les jaunes d' oeufs  avec le  sucre  1 mn. </step>
       <step>2) Mélangez le chocolat fondu avec les jaunes d' oeufs . Incorporez :</step>
-      <step>- 100 g de  beurre  ramolli. </step>
-      <step>- Les blancs d' oeufs  légèrement battus à la fourchette (environ 15 s). </step>
-      <step>- La farine. </step>
-      <step>- La poudre
-                      d'amandes et</step>
-      <step>- La pincée de  sel . </step>
+      <step>- 100 g de  beurre  ramolli, </step>
+      <step>- Les blancs d' oeufs  légèrement battus à la fourchette (environ 15 s), </step>
+      <step>- La farine, </step>
+      <step>- La poudre d'amandes,</step>
+      <step>- La pincée de  sel. </step>
       <step>3) Pelez les bananes, coupez-les en 2 dans la longueur. </step>
       <step>Placez-les en hélice dans un moule à tarte beurré de 28 cm, côté bombé vers le haut et recouvrez de la pâte. </step>
       <step>4) Mettez au four et laissez cuire environ 20 mn ; le coeur du gâteau devra rester à peine cuit. </step>
       <step>Laissez refroidir et démoulez délicatement.</step>
-      <step>
-                          Remarques :
-                        
-                          Vous pouvez aussi recouvrir le moule de papier sulfurisé pour être sûr de bien démouler le gâteau. Ne pas prendre des bannes trop grandes pour faire une jolie hélice ou en recouper une extrémité en biseau.
-                        </step>
+      <step>Remarques :Vous pouvez aussi recouvrir le moule de papier sulfurisé pour être sûr de bien démouler le gâteau. Ne pas prendre des bannes trop grandes pour faire une jolie hélice ou en recouper une extrémité en biseau.</step>
    </directions>
 </recipeml>

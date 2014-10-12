@@ -23,45 +23,35 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>kg</unit>
          </amt>
-         <item>1 kg de belle de Fontenay</item>
+         <item>de belle de Fontenay</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>litre</unit>
          </amt>
-         <item>1 litre de crème liquide</item>
+         <item>de crème liquide</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>gousses</unit>
          </amt>
-         <item>2 gousses d' ail</item>
+         <item>d'ail</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>sel ,  poivre</item>
+         <item>sel, poivre</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Eplucher et couper les  pommes de terres  en rondelles. </step>
+      <step>Eplucher et couper les  pommes de terres  en rondelles. </step>
       <step>Presser l'ail. </step>
       <step>Disposer dans un plat à gratin en commençant par napper le fond de crème. Alterner une couche de  pommes  de terres, crème, ail, sel, poivre, jusqu'à épuisement des ingrédients. </step>
-      <step>Terminer
-                      en nappant de crème, sel, poivre. </step>
+      <step>Terminer en nappant de crème, sel, poivre. </step>
       <step>Mettre à four moyen (thermostat 4) pendant au moins une heure. </step>
       <step>Plus la température est basse et le temps de cuisson long, plus les pommes seront fondantes...</step>
-      <step>
-                          Conseil vin :
-                        
-                          Selon viande servie, Bourgogne ou Beaujolais type Morgon.
-                        </step>
    </directions>
 </recipeml>

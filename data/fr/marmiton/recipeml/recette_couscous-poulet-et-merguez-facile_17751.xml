@@ -23,109 +23,89 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>8</qty>
+            <unit>pilons</unit>
          </amt>
-         <item>8 pilons de poulet (fermier de préférence)</item>
+         <item>de poulet (fermier de préférence)</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>12</qty>
          </amt>
-         <item>12 merguez</item>
+         <item>merguez</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>huile d'olive</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>boîtes</unit>
          </amt>
-         <item>2 boîtes de concentré de  tomate</item>
+         <item>de concentré de tomate</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>3</qty>
+            <unit>cuillères à soupe</unit>
          </amt>
-         <item>3 cuillères à soupe d'épices à  couscous</item>
+         <item>d'épices à couscous</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>cuillère à café</unit>
          </amt>
-         <item>1 cuillère à café d'harissa</item>
+         <item>d'harissa</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>cubes</unit>
          </amt>
-         <item>2 cubes de bouillons
-                      de boeuf</item>
+         <item>de bouillons de boeuf</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>3</qty>
          </amt>
-         <item>3 belles  tomates</item>
+         <item>belles tomates</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>10</qty>
          </amt>
-         <item>10 petits  navets</item>
+         <item>petits navets</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>5</qty>
          </amt>
-         <item>5 belles  carottes</item>
+         <item>belles carottes</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2  courgettes</item>
+         <item>courgettes</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>400</qty>
             <unit>g</unit>
          </amt>
-         <item>400 g de pois chiches</item>
+         <item>de pois chiches</item>
       </ing>
    </ingredients>
    <directions>
       <step>Lavez et épluchez les carottes, les navets et les tomates et les couper en cubes. </step>
       <step>Dans un autocuiseur, versez 3 cuillères à soupe d'huile d'olive. Mettez à chauffer et faites-y dorer les pilons de poulet. Quand ils sont dorés, versez l'équivalent d'1 litre d'eau et ajouter les cubes de bouillon de boeuf, le concentré de tomate, les carottes, navets et tomates, les épices à couscous et l'harissa. </step>
-      <step>Fermez votre autocuiseur et compter 25 mn de cuisson
-                      une fois que celui-ci est monté en pression. </step>
+      <step>Fermez votre autocuiseur et compter 25 mn de cuisson une fois que celui-ci est monté en pression. </step>
       <step>En attendant, lavez et coupez les courgettes en cubes et égouttez les pois chiches. </step>
       <step>Une fois les 25 mn écoulées, évacuez la vapeur de votre autocuiseur, ouvrez et rajouter les courgettes et les pois chiches. </step>
       <step>Remettez au feu : comptez 10 mn de cuisson une fois votre autocuiseur sous pression. </step>
       <step>Faites cuire vos merguez sur un grill ou à la poêle, mais pas avec les légumes. </step>
-      <step>Servez accompagné
-                      d'une semoule fine.</step>
-      <step>
-                          Remarques :
-                        
-                          Ce plat est encore meilleur si vous le préparez la veille car tous les ingrédients s'imprègnent bien des épices. Le jour J, ce n'est pas la course, vous avez juste à réchauffer !!!
-                        
-                          Conseil vin :
-                        
-                          Vin blanc Rosé ou Gris
-                        </step>
+      <step>Servez accompagné d'une semoule fine.</step>
+      <step>Remarques :Ce plat est encore meilleur si vous le préparez la veille car tous les ingrédients s'imprègnent bien des épices. Le jour J, ce n'est pas la course, vous avez juste à réchauffer !!!Conseil vin :Vin blanc Rosé ou Gris</step>
    </directions>
 </recipeml>

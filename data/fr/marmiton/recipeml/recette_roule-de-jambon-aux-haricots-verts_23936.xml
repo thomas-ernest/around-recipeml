@@ -23,34 +23,27 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1 fine tranche de jambon</item>
+         <item>fine tranche de jambon</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>150</qty>
             <unit>g</unit>
          </amt>
-         <item>150 g de  haricots verts  cuits</item>
+         <item>de haricots verts cuits</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>sauce  tomate  et  gruyère  râpé à volonté</item>
+         <item>sauce tomate </item>
+      </ing>
+      <ing>
+         <item>gruyère  râpé à volonté</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Prendre les  haricots verts  cuits, les placer dans la tranche de jambon. Ajouter un peu de sauce  tomate  puis rouler la tranche de jambon.</step>
+      <step>Prendre les haricots verts cuits, les placer dans la tranche de jambon. Ajouter un peu de sauce  tomate  puis rouler la tranche de jambon.</step>
       <step>La mettre dans un plat allant au four, la tartiner de sauce  tomate  puis ajouter du  gruyère  râpé.</step>
       <step>Mettre à four chaud pendant une quinzaine de minutes pour faire réchauffer et gratiner.</step>
-      <step>
-                          Remarques :
-                        
-                          Ce plat est très appréciable pour un repas du soir. Rapide et délicieux.
-                        </step>
    </directions>
 </recipeml>

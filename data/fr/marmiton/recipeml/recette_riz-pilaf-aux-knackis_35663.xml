@@ -23,50 +23,41 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>10</qty>
          </amt>
-         <item>10 knackis</item>
+         <item>knackis</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2  oignons</item>
+         <item>oignons</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2  tomates  évidées et coupées en morceaux</item>
+         <item>tomates évidées et coupées en morceaux</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>verres</unit>
          </amt>
-         <item>2 verres de riz</item>
+         <item>de riz</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>cube</unit>
          </amt>
-         <item>1 cube de bouillon de volaille</item>
+         <item>de bouillon de volaille</item>
       </ing>
    </ingredients>
    <directions>
-      <step>Faire revenir à la poêle les  oignons  émincés, puis ajouter les saucisses coupées en rondelles. </step>
-      <step>Ajouter les  tomates  et le riz, attendre que le riz devienne translucide puis ajouter 4 verres d'eau et le cube de bouillon. </step>
-      <step>Laisser le riz
-                      absorber l'eau en remuant régulièrement,  goûter , et ajouter de l'eau petit à petit jusqu'à ce que le riz soit bien moelleux.... </step>
+      <step>Faire revenir à la poêle les oignons  émincés, puis ajouter les saucisses coupées en rondelles.</step>
+      <step>Ajouter les  tomates et le riz, attendre que le riz devienne translucide puis ajouter 4 verres d'eau et le cube de bouillon.</step>
+      <step>Laisser le riz absorber l'eau en remuant régulièrement, goûter et ajouter de l'eau petit à petit jusqu'à ce que le riz soit bien moelleux.... </step>
       <step>Poivrer selon les goûts : c'est prêt !</step>
-      <step>
-                          Remarques :
-                        
-                          Plat bon, rapide et très économique ! Je ne mets pas toujours de tomates, mais j'ajoute souvent un peu de piment pour relever un peu plus !
-                        </step>
    </directions>
 </recipeml>

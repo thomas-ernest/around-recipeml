@@ -23,51 +23,48 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>800</qty>
             <unit>g</unit>
          </amt>
-         <item>800 g de flageolets extra-fins en boîte</item>
+         <item>de flageolets extra-fins en boîte</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>125</qty>
             <unit>g</unit>
          </amt>
-         <item>125 g de lardons</item>
+         <item>de lardons</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1  poireau</item>
+         <item>poireau</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+						<range>
+								<q1>3</q1>
+								<q2>4</q2>
+						</range>
+						<unit>gousses</unit>
          </amt>
-         <item>3 à 4 gousses d' ail  selon grosseur</item>
+         <item>d'ail selon grosseur</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>20</qty>
+            <unit>cl</unit>
          </amt>
-         <item>20 cl de crème liquide</item>
+         <item>de crème liquide</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Faire revenir les lardons avec le  poireau  émincé dans une poêle.</step>
+      <step> Faire revenir les lardons avec le poireau émincé dans une poêle.</step>
       <step>Rincer et égoutter les flageolets, les ajouter aux lardons.</step>
-      <step>Verser la crème, ajouter du  poivre  et l' ail 
-                      pressé.</step>
+      <step>Verser la crème, ajouter du poivre et l'ail pressé.</step>
       <step>Laisser chauffer 5 à 10 minutes à couvert et découvrir pour les 3 dernières minutes de cuisson.</step>
-      <step>Et voilà, cet accompagnement accomode toutes viandes grillées, du jambon, des saucisses ou du  fromage  !</step>
-      <step>
-                          Remarques :
-                        
-                          Rapide, donne une touche de nouveauté aux flageolets !
-                        </step>
+      <step>Et voilà, cet accompagnement accomode toutes viandes grillées, du jambon, des saucisses ou du fromage  !</step>
+      <step>Remarques :Rapide, donne une touche de nouveauté aux flageolets !</step>
    </directions>
 </recipeml>

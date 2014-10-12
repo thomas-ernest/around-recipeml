@@ -23,126 +23,113 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>75</qty>
             <unit>g</unit>
          </amt>
-         <item>75 g de (à température ambiante)</item>
+         <item>de beurre(à température ambiante)</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>250</qty>
             <unit>g</unit>
          </amt>
-         <item>250 g de  sucre  en poudre</item>
+         <item>de sucre en poudre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>3</qty>
          </amt>
-         <item>3  oeufs</item>
+         <item>oeufs</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>300</qty>
             <unit>g</unit>
          </amt>
-         <item>300 g de farine</item>
+         <item>de farine</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>cuillères à café</unit>
          </amt>
-         <item>2 cuillères de
-                      levure chimique</item>
+         <item>de levure chimique</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1/2</qty>
+            <unit>cuillère à café</unit>
          </amt>
-         <item>1/2 cuillère à café de  sel</item>
+         <item>de sel</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1/2</qty>
+            <unit>cuillère à café</unit>
          </amt>
-         <item>1/2 cuillère à café de  cannelle  en poudre</item>
+         <item>de cannelle en poudre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>150</qty>
+            <unit>ml</unit>
          </amt>
-         <item>150 ml de yaourt brassé</item>
+         <item>de yaourt brassé</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>350</qty>
             <unit>g</unit>
          </amt>
-         <item>350 g de  carottes  finement râpées</item>
+         <item>de carottes finement râpées</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>100</qty>
             <unit>g</unit>
          </amt>
-         <item>100 g de noix (ou noisettes,
-                      amandes...) hachées</item>
+         <item>de noix (ou noisettes,amandes...) hachées</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>Pour le glaçage</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>25</qty>
             <unit>g</unit>
          </amt>
-         <item>25 g de beurre (à température ambiante) </item>
+         <item>de beurre (à température ambiante) </item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>75</qty>
             <unit>g</unit>
          </amt>
-         <item>75 g de sucre glace</item>
+         <item>de sucre glace</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1/2</qty>
+            <unit>cuillère à café</unit>
          </amt>
-         <item>1/2 cuillère à café de cannelle en poudre</item>
+         <item>de cannelle en poudre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>150</qty>
             <unit>g</unit>
          </amt>
-         <item>150 g de  fromage  à la crème (Mascarpone...) </item>
+         <item>de fromage à la crème (Mascarpone...) </item>
       </ing>
    </ingredients>
    <directions>
       <step>Préchauffer le four à 190°C / Th 5. </step>
-      <step>Dans un saladier, écraser le beurre avec une fourchette et ajouter le sucre. Bien malaxer jusqu'à obtenir un mélange homogène. Incorporer les oeufs un à un. Tamiser ensemble la farine,  le sel , la levure et la cannelle, et ajouter progressivement au mélange précédent, en alternant avec le yaourt. Incorporer les carottes et les
-                      noix. Beurrer et fariner un moule à manqué de 20 cm de diamètre. Y verser la pâte. </step>
+      <step>Dans un saladier, écraser le beurre avec une fourchette et ajouter le sucre. Bien malaxer jusqu'à obtenir un mélange homogène. Incorporer les oeufs un à un. Tamiser ensemble la farine,  le sel , la levure et la cannelle, et ajouter progressivement au mélange précédent, en alternant avec le yaourt. Incorporer les carottes et lesnoix. Beurrer et fariner un moule à manqué de 20 cm de diamètre. Y verser la pâte. </step>
       <step>Faire cuire au four pendant 1 heure (vérifier la cuisson en enfonçant un couteau dans le gâteau : si la pointe ressort avec un peu de pâte collée dessus, laisser cuire plus longtemps). </step>
       <step>Préparer le glaçage en mélangeant (à la main ou au batteur) le beurre, le sucre, le parfum et le fromage jusqu'à l'obtention d'une crème homogène. Garder au réfrigérateur jusqu'à l'utilisation. </step>
-      <step>Sortir
-                      le gâteau du four. Laisser refroidir 10 mn, puis démouler délicatement. </step>
+      <step>Sortir le gâteau du four. Laisser refroidir 10 mn, puis démouler délicatement. </step>
       <step>Laisser refroidir complètement. A l'aide d'une spatule, étaler le glaçage sur le gâteau. </step>
       <step>Mettre au frigo. Servir froid.</step>
-      <step>
-                          Remarques :
-                        
-                          J'ai vécu 1 an aux USA, j'ai enfin réussi à faire une recette qui ressemble beaucoup à une des spécialités américaines.
-                        </step>
+      <step>Remarques :J'ai vécu 1 an aux USA, j'ai enfin réussi à faire une recette qui ressemble beaucoup à une des spécialités américaines.</step>
    </directions>
 </recipeml>

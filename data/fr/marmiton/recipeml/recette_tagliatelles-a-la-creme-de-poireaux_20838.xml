@@ -23,44 +23,38 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>500</qty>
             <unit>g</unit>
          </amt>
-         <item>500 g de tagliatelles</item>
+         <item>de tagliatelles</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+						<range>
+								<q1>2</q1>
+								<q2>3</q2>
+						</range>
          </amt>
-         <item>2 ou 3 beaux  poireaux</item>
+         <item>beaux poireaux</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>150</qty>
             <unit>g</unit>
          </amt>
-         <item>150 g de lardons</item>
+         <item>de lardons</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>petit pot</unit>
          </amt>
-         <item>1 petit pot de crème fraîche</item>
+         <item>de crème fraîche</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>beurre ,  sel ,  poivre</item>
+         <item>beurre, sel, poivre</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>parmesan</item>
       </ing>
    </ingredients>
@@ -70,14 +64,5 @@
       <step>Attendre que les  poireaux  soient bien fondus et ajouter les lardons, faire dorer. Hors du feux, mettre la crème fraîche et remuer, poivrer et saler à votre goût. </step>
       <step>Egouter les tagliatelles, les mettre dans un plat et verser la sauce aux  poireaux  dessus. Ajouter du parmesan râpé. </step>
       <step>Servir aussitôt.</step>
-      <step>
-                          Remarques :
-                        
-                          Mettre un bon bol de parmesan fraîchement râpé sur la table. Vos convives en redemanderont!
-                        
-                          Conseil vin :
-                        
-                          Un Chablis bien frais
-                        </step>
    </directions>
 </recipeml>
