@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml
+  PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
    <head>
       <title>Emincés de dinde sauce champignons-crème</title>
@@ -35,11 +37,9 @@
          <item>crème fraiche liquide</item>
       </ing>
       <ing>
-         <amt>
          <item>jus de citron</item>
       </ing>
       <ing>
-         <amt>
          <item>persil (surgelé = plus facile)</item>
       </ing>
       <ing>
@@ -50,8 +50,7 @@
          <item>champignons de paris</item>
       </ing>
       <ing>
-         <amt>
-         <item>un peu de beurre</item>
+         <item>beurre</item>
       </ing>
       <ing>
          <amt>

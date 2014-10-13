@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml
+  PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
    <head>
       <title>Poêlé de cougettes riz et surimi</title>
@@ -36,10 +38,10 @@
       </ing>
       <ing>
          <amt>
-						<range>
-								<q1>8</q1>
-								<q2>10</q2>
-						</range>
+						      <range>
+								       <q1>8</q1>
+								       <q2>10</q2>
+						      </range>
          </amt>
          <item>bâtonnets de surimi</item>
       </ing>

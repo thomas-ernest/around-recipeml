@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml
+  PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
    <head>
       <title>Flageolets à la crème rapide</title>
@@ -43,11 +45,11 @@
       </ing>
       <ing>
          <amt>
-						<range>
-								<q1>3</q1>
-								<q2>4</q2>
-						</range>
-						<unit>gousses</unit>
+						      <range>
+								       <q1>3</q1>
+								       <q2>4</q2>
+						      </range>
+						      <unit>gousses</unit>
          </amt>
          <item>d'ail selon grosseur</item>
       </ing>

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml
+  PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
    <head>
       <title>Tarte aux pommes à l'Alsacienne</title>
@@ -22,11 +24,11 @@
    </head>
    <ingredients>
       <ing>
-				 <amt>
-						<range>
-								<q1>3</q1>
-								<q2>4</q2>
-						</range>
+				     <amt>
+						      <range>
+								       <q1>3</q1>
+								       <q2>4</q2>
+						      </range>
          </amt>
          <item>pommes (selon la grosseur)</item>
       </ing>

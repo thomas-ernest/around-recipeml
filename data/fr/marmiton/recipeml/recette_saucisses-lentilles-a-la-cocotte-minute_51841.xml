@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml
+  PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
    <head>
       <title>Saucisses lentilles à la cocotte minute</title>
@@ -55,10 +57,10 @@
       </ing>
       <ing>
          <amt>
-						<range>
-								<q1>1</q1>
-								<q2>2</q2>
-						</range>
+						      <range>
+								       <q1>1</q1>
+								       <q2>2</q2>
+						      </range>
             <unit>gousses</unit>
          </amt>
          <item>d'ail (selon le goût)</item>
