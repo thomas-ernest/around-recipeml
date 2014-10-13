@@ -2,136 +2,138 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Carrot Cake</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>8</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>60</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>60</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>75</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de beurre(à température ambiante)</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>250</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de sucre en poudre</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>3</qty>
-         </amt>
-         <item>oeufs</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>300</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de farine</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-            <unit>cuillères à café</unit>
-         </amt>
-         <item>de levure chimique</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1/2</qty>
-            <unit>cuillère à café</unit>
-         </amt>
-         <item>de sel</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1/2</qty>
-            <unit>cuillère à café</unit>
-         </amt>
-         <item>de cannelle en poudre</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>150</qty>
-            <unit>ml</unit>
-         </amt>
-         <item>de yaourt brassé</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>350</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de carottes finement râpées</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>100</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de noix (ou noisettes,amandes...) hachées</item>
-      </ing>
-      <ing>
-         <item>Pour le glaçage</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>25</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de beurre (à température ambiante) </item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>75</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de sucre glace</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1/2</qty>
-            <unit>cuillère à café</unit>
-         </amt>
-         <item>de cannelle en poudre</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>150</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de fromage à la crème (Mascarpone...) </item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Préchauffer le four à 190°C / Th 5. </step>
-      <step>Dans un saladier, écraser le beurre avec une fourchette et ajouter le sucre. Bien malaxer jusqu'à obtenir un mélange homogène. Incorporer les oeufs un à un. Tamiser ensemble la farine,  le sel , la levure et la cannelle, et ajouter progressivement au mélange précédent, en alternant avec le yaourt. Incorporer les carottes et lesnoix. Beurrer et fariner un moule à manqué de 20 cm de diamètre. Y verser la pâte. </step>
-      <step>Faire cuire au four pendant 1 heure (vérifier la cuisson en enfonçant un couteau dans le gâteau : si la pointe ressort avec un peu de pâte collée dessus, laisser cuire plus longtemps). </step>
-      <step>Préparer le glaçage en mélangeant (à la main ou au batteur) le beurre, le sucre, le parfum et le fromage jusqu'à l'obtention d'une crème homogène. Garder au réfrigérateur jusqu'à l'utilisation. </step>
-      <step>Sortir le gâteau du four. Laisser refroidir 10 mn, puis démouler délicatement. </step>
-      <step>Laisser refroidir complètement. A l'aide d'une spatule, étaler le glaçage sur le gâteau. </step>
-      <step>Mettre au frigo. Servir froid.</step>
-      <step>Remarques :J'ai vécu 1 an aux USA, j'ai enfin réussi à faire une recette qui ressemble beaucoup à une des spécialités américaines.</step>
-   </directions>
+   <recipe>
+      <head>
+         <title>Carrot Cake</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
+            <qty>8</qty>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>60</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>60</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>75</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de beurre(à température ambiante)</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>250</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de sucre en poudre</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>3</qty>
+            </amt>
+            <item>oeufs</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>300</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de farine</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+               <unit>cuillères à café</unit>
+            </amt>
+            <item>de levure chimique</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1/2</qty>
+               <unit>cuillère à café</unit>
+            </amt>
+            <item>de sel</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1/2</qty>
+               <unit>cuillère à café</unit>
+            </amt>
+            <item>de cannelle en poudre</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>150</qty>
+               <unit>ml</unit>
+            </amt>
+            <item>de yaourt brassé</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>350</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de carottes finement râpées</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>100</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de noix (ou noisettes,amandes...) hachées</item>
+         </ing>
+         <ing optional="no">
+            <item>Pour le glaçage</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>25</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de beurre (à température ambiante) </item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>75</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de sucre glace</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1/2</qty>
+               <unit>cuillère à café</unit>
+            </amt>
+            <item>de cannelle en poudre</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>150</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de fromage à la crème (Mascarpone...) </item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Préchauffer le four à 190°C / Th 5. </step>
+         <step type="cooking" optional="no">Dans un saladier, écraser le beurre avec une fourchette et ajouter le sucre. Bien malaxer jusqu'à obtenir un mélange homogène. Incorporer les oeufs un à un. Tamiser ensemble la farine,  le sel , la levure et la cannelle, et ajouter progressivement au mélange précédent, en alternant avec le yaourt. Incorporer les carottes et lesnoix. Beurrer et fariner un moule à manqué de 20 cm de diamètre. Y verser la pâte. </step>
+         <step type="cooking" optional="no">Faire cuire au four pendant 1 heure (vérifier la cuisson en enfonçant un couteau dans le gâteau : si la pointe ressort avec un peu de pâte collée dessus, laisser cuire plus longtemps). </step>
+         <step type="cooking" optional="no">Préparer le glaçage en mélangeant (à la main ou au batteur) le beurre, le sucre, le parfum et le fromage jusqu'à l'obtention d'une crème homogène. Garder au réfrigérateur jusqu'à l'utilisation. </step>
+         <step type="cooking" optional="no">Sortir le gâteau du four. Laisser refroidir 10 mn, puis démouler délicatement. </step>
+         <step type="cooking" optional="no">Laisser refroidir complètement. A l'aide d'une spatule, étaler le glaçage sur le gâteau. </step>
+         <step type="cooking" optional="no">Mettre au frigo. Servir froid.</step>
+         <step type="cooking" optional="no">Remarques :J'ai vécu 1 an aux USA, j'ai enfin réussi à faire une recette qui ressemble beaucoup à une des spécialités américaines.</step>
+      </directions>
+   </recipe>
 </recipeml>

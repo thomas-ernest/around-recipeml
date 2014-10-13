@@ -17,7 +17,7 @@
 
 	<xsl:template match="//xhtml:div[@class = 'm_content_recette_main']">
 		<recipeml version="0.5" xml:lang="fr">
-
+		<recipe>
 			<head>
 				<title><xsl:value-of select="../../xhtml:h1" /></title>
 
@@ -35,6 +35,7 @@
 			<directions>
 				<xsl:apply-templates select="./xhtml:div[@class = 'm_content_recette_todo']" mode="directions" />
 			</directions>
+		<recipe>
 		</recipeml>
 	</xsl:template>
 

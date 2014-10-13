@@ -2,81 +2,82 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Potage de petits pois</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>4</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>20</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>30</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>500</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de petits pois</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-         </amt>
-         <item>grosse pomme de terre</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-         </amt>
-         <item>petite laitue</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-         </amt>
-         <item>oignons</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>30</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de  beurre</item>
-      </ing>
-      <ing>
-         <item>crème fraîche</item>
-      </ing>
-      <ing>
-         <item>croûtons</item>
-      </ing>
-      <ing>
-         <item>lardons (facultatif)</item>
-      </ing>
-      <ing>
-         <item>sel,  poivre</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Pelez et émincez les oignons.</step>
-      <step>Epluchez et coupez la  pomme  de terre en dés, ciselez la laitue.</step>
-      <step>Faites suer les oignons dans le beurre dans une cocotte.</step>
-      <step>Ajoutez les petits pois, la laitue, couvrez et laissez cuire 5 minutes.</step>
-      <step>Versez 1,5 l d'eau, salez, poivrez et rajoutez la pomme de terre.</step>
-      <step>Couvrez et laissez cuire 30 min à feu moyen.</step>
-      <step>Mixez la soupe avec un peu de crème fraîche, servez-la garnie de lardons rissolés et de croûtons grillés.</step>
-			
-      <step>Remarques : Pour faire les croûtons vous-même : faites dorer dans 2 cuillères à soupe d'huile 5 tranches de pain de mie découpées en dés, à feu vif. Avec un peu de fromage râpé en plus votre plat est complet.</step>
-   </directions>
+   <recipe>
+      <head>
+         <title>Potage de petits pois</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
+            <qty>4</qty>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>20</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>30</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>500</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de petits pois</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+            </amt>
+            <item>grosse pomme de terre</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+            </amt>
+            <item>petite laitue</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+            </amt>
+            <item>oignons</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>30</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de  beurre</item>
+         </ing>
+         <ing optional="no">
+            <item>crème fraîche</item>
+         </ing>
+         <ing optional="no">
+            <item>croûtons</item>
+         </ing>
+         <ing optional="no">
+            <item>lardons (facultatif)</item>
+         </ing>
+         <ing optional="no">
+            <item>sel,  poivre</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Pelez et émincez les oignons.</step>
+         <step type="cooking" optional="no">Epluchez et coupez la  pomme  de terre en dés, ciselez la laitue.</step>
+         <step type="cooking" optional="no">Faites suer les oignons dans le beurre dans une cocotte.</step>
+         <step type="cooking" optional="no">Ajoutez les petits pois, la laitue, couvrez et laissez cuire 5 minutes.</step>
+         <step type="cooking" optional="no">Versez 1,5 l d'eau, salez, poivrez et rajoutez la pomme de terre.</step>
+         <step type="cooking" optional="no">Couvrez et laissez cuire 30 min à feu moyen.</step>
+         <step type="cooking" optional="no">Mixez la soupe avec un peu de crème fraîche, servez-la garnie de lardons rissolés et de croûtons grillés.</step>
+         <step type="cooking" optional="no">Remarques : Pour faire les croûtons vous-même : faites dorer dans 2 cuillères à soupe d'huile 5 tranches de pain de mie découpées en dés, à feu vif. Avec un peu de fromage râpé en plus votre plat est complet.</step>
+      </directions>
+   </recipe>
 </recipeml>

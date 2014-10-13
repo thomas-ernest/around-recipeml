@@ -2,112 +2,114 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Bouchées à la reine</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>6</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>20</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>40</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>environ 300</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de pointe de rumsteak de veau</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-            <unit>escalopes</unit>
-         </amt>
-         <item>de poulet</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>200</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de champignons (boîte) </item>
-      </ing>
-      <ing>
-         <item>petites quenelles de veau</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>45</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de beurre</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>3</qty>
-            <unit>cuillères à soupe rases </unit>
-         </amt>
-         <item>de farine</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>75</qty>
-            <unit>cl</unit>
-         </amt>
-         <item>de bouillon de volaille</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>3</qty>
-         </amt>
-         <item>jaunes d'oeufs</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>10</qty>
-            <unit>cl</unit>
-         </amt>
-         <item>de crème fraîche épaisse</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-            <unit>verre</unit>
-         </amt>
-         <item>de vin blanc</item>
-      </ing>
-      <ing>
-         <item>poivre, noix de muscade</item>
-      </ing>
-      <ing>
-         <amt>
+   <recipe>
+      <head>
+         <title>Bouchées à la reine</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
             <qty>6</qty>
-            <unit>croûtes</unit>
-         </amt>
-         <item>en pâte feuilletée</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Coupez les champignons en lamelles et les quenelles égouttées en petits tronçons. </step>
-      <step>Coupez la viande en petits dés et cuisez la rapidement (rose). Réservez. </step>
-      <step>Faites fondre le beurre dans un faitout, ajoutez la farine et faites cuire en remuant pendant 3 mn. </step>
-      <step>Mouillez ensuite ce roux blond avec le bouillon de volaille et portez à ébullition. </step>
-      <step>Ajoutez la viande, les champignons, le vin blanc, poivre et noix de muscade. Continuez de faire chauffer en remuant sans arrêt. </step>
-      <step>Incorporez les quenelles et remuez délicatement. </step>
-      <step>Délayez à part les jaunes d'oeufs avec la crème fraîche dans un bol, puis versez cette liaison dans le faitout en remuant. Faites chauffer sans bouillir pendant 5 mn. </step>
-      <step>Faites chauffer les croûtes précuites dans le four à 180°C. Lorsqu'elles sont bien chaudes et très sèches, les sortir et enlever les chapeaux. </step>
-      <step>Disposez les croûtes sur assiettes individuelles(accompagnées de riz ou pâtes). Les remplir de la garniture en sauce et posez les chapeaux dessus. Servez Aussitôt.</step>
-   </directions>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>20</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>40</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>environ 300</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de pointe de rumsteak de veau</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+               <unit>escalopes</unit>
+            </amt>
+            <item>de poulet</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>200</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de champignons (boîte) </item>
+         </ing>
+         <ing optional="no">
+            <item>petites quenelles de veau</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>45</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de beurre</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>3</qty>
+               <unit>cuillères à soupe rases </unit>
+            </amt>
+            <item>de farine</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>75</qty>
+               <unit>cl</unit>
+            </amt>
+            <item>de bouillon de volaille</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>3</qty>
+            </amt>
+            <item>jaunes d'oeufs</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>10</qty>
+               <unit>cl</unit>
+            </amt>
+            <item>de crème fraîche épaisse</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+               <unit>verre</unit>
+            </amt>
+            <item>de vin blanc</item>
+         </ing>
+         <ing optional="no">
+            <item>poivre, noix de muscade</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>6</qty>
+               <unit>croûtes</unit>
+            </amt>
+            <item>en pâte feuilletée</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Coupez les champignons en lamelles et les quenelles égouttées en petits tronçons. </step>
+         <step type="cooking" optional="no">Coupez la viande en petits dés et cuisez la rapidement (rose). Réservez. </step>
+         <step type="cooking" optional="no">Faites fondre le beurre dans un faitout, ajoutez la farine et faites cuire en remuant pendant 3 mn. </step>
+         <step type="cooking" optional="no">Mouillez ensuite ce roux blond avec le bouillon de volaille et portez à ébullition. </step>
+         <step type="cooking" optional="no">Ajoutez la viande, les champignons, le vin blanc, poivre et noix de muscade. Continuez de faire chauffer en remuant sans arrêt. </step>
+         <step type="cooking" optional="no">Incorporez les quenelles et remuez délicatement. </step>
+         <step type="cooking" optional="no">Délayez à part les jaunes d'oeufs avec la crème fraîche dans un bol, puis versez cette liaison dans le faitout en remuant. Faites chauffer sans bouillir pendant 5 mn. </step>
+         <step type="cooking" optional="no">Faites chauffer les croûtes précuites dans le four à 180°C. Lorsqu'elles sont bien chaudes et très sèches, les sortir et enlever les chapeaux. </step>
+         <step type="cooking" optional="no">Disposez les croûtes sur assiettes individuelles(accompagnées de riz ou pâtes). Les remplir de la garniture en sauce et posez les chapeaux dessus. Servez Aussitôt.</step>
+      </directions>
+   </recipe>
 </recipeml>

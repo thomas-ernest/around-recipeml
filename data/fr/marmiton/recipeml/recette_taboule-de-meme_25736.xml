@@ -2,75 +2,77 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Taboulé de mémé</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>4</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>20</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooling">
-         <time>
-            <qty>8</qty>
-            <timeunit>heures</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>200</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de semoule moyenne</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-         </amt>
-         <item>concombre</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>3</qty>
-         </amt>
-         <item>tomates moyennes</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-         </amt>
-         <item>poivron vert</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-         </amt>
-         <item>oignon</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-         </amt>
-         <item>citron</item>
-      </ing>
-      <ing>
-         <item>huile d'olive</item>
-      </ing>
-      <ing>
-         <item>sel et poivre</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Placez 200 g de semoule dans un saladier, râpez le concombre. </step>
-      <step>Mixez l'oignon et le poivron (pas en jus). Pelez les tomates et coupez-les en tous petits dés. </step>
-      <step>Mélangez le tout, ajoutez 5 cuillères d'huile d'olive et le jus du citron, salez et poivrez. </step>
-      <step>Mettez au réfrigérateur pendant 1 nuit.</step>
-   </directions>
+   <recipe>
+      <head>
+         <title>Taboulé de mémé</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
+            <qty>4</qty>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>20</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooling">
+            <time>
+               <qty>8</qty>
+               <timeunit>heures</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>200</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de semoule moyenne</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+            </amt>
+            <item>concombre</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>3</qty>
+            </amt>
+            <item>tomates moyennes</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+            </amt>
+            <item>poivron vert</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+            </amt>
+            <item>oignon</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+            </amt>
+            <item>citron</item>
+         </ing>
+         <ing optional="no">
+            <item>huile d'olive</item>
+         </ing>
+         <ing optional="no">
+            <item>sel et poivre</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Placez 200 g de semoule dans un saladier, râpez le concombre. </step>
+         <step type="cooking" optional="no">Mixez l'oignon et le poivron (pas en jus). Pelez les tomates et coupez-les en tous petits dés. </step>
+         <step type="cooking" optional="no">Mélangez le tout, ajoutez 5 cuillères d'huile d'olive et le jus du citron, salez et poivrez. </step>
+         <step type="cooking" optional="no">Mettez au réfrigérateur pendant 1 nuit.</step>
+      </directions>
+   </recipe>
 </recipeml>

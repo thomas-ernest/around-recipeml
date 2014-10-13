@@ -2,69 +2,71 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Tagliatelles à la crème de poireaux</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>4</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>25</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>15</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>500</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de tagliatelles</item>
-      </ing>
-      <ing>
-         <amt>
-						      <range>
-								       <q1>2</q1>
-								       <q2>3</q2>
-						      </range>
-         </amt>
-         <item>beaux poireaux</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>150</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de lardons</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-            <unit>petit pot</unit>
-         </amt>
-         <item>de crème fraîche</item>
-      </ing>
-      <ing>
-         <item>beurre, sel, poivre</item>
-      </ing>
-      <ing>
-         <item>parmesan</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Laver puis couper les  poireaux  en fines rondelles, les mettre à fondre environ 15 mn dans une poêle avec un bon morceau de  beurre  (remuer souvent). </step>
-      <step>Mettre les tagliatelles à cuire comme indiqué sur le paquet. </step>
-      <step>Attendre que les  poireaux  soient bien fondus et ajouter les lardons, faire dorer. Hors du feux, mettre la crème fraîche et remuer, poivrer et saler à votre goût. </step>
-      <step>Egouter les tagliatelles, les mettre dans un plat et verser la sauce aux  poireaux  dessus. Ajouter du parmesan râpé. </step>
-      <step>Servir aussitôt.</step>
-   </directions>
+   <recipe>
+      <head>
+         <title>Tagliatelles à la crème de poireaux</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
+            <qty>4</qty>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>25</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>15</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>500</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de tagliatelles</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <range>
+                  <q1>2</q1>
+                  <q2>3</q2>
+               </range>
+            </amt>
+            <item>beaux poireaux</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>150</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de lardons</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+               <unit>petit pot</unit>
+            </amt>
+            <item>de crème fraîche</item>
+         </ing>
+         <ing optional="no">
+            <item>beurre, sel, poivre</item>
+         </ing>
+         <ing optional="no">
+            <item>parmesan</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Laver puis couper les  poireaux  en fines rondelles, les mettre à fondre environ 15 mn dans une poêle avec un bon morceau de  beurre  (remuer souvent). </step>
+         <step type="cooking" optional="no">Mettre les tagliatelles à cuire comme indiqué sur le paquet. </step>
+         <step type="cooking" optional="no">Attendre que les  poireaux  soient bien fondus et ajouter les lardons, faire dorer. Hors du feux, mettre la crème fraîche et remuer, poivrer et saler à votre goût. </step>
+         <step type="cooking" optional="no">Egouter les tagliatelles, les mettre dans un plat et verser la sauce aux  poireaux  dessus. Ajouter du parmesan râpé. </step>
+         <step type="cooking" optional="no">Servir aussitôt.</step>
+      </directions>
+   </recipe>
 </recipeml>

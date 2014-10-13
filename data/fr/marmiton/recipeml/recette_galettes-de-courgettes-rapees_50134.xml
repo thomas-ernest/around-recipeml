@@ -2,75 +2,77 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Galettes de courgettes râpées</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>6</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>30</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>13</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>2</qty>
-         </amt>
-         <item>grosses courgettes</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-            <unit>gousse</unit>
-         </amt>
-         <item>d'ail</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-         </amt>
-         <item>oeufs</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-            <unit>tasse</unit>
-         </amt>
-         <item>de farine</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>cuillères à soupe</qty>
-            <unit>3</unit>
-         </amt>
-         <item>de fines herbes</item>
-      </ing>
-      <ing>
-         <item>sel, poivre</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Peler et râper les courgettes.</step>
-      <step>Les mettre dans une passoire, saupoudrer de sel et laisser dégorger pendant 1 h.</step>
-      <step>Puis, bien les rincer et les sécher dans un torchon en serrant très fort.</step>
-      <step>Ajouter la farine, les oeufs, les fines herbes, l'ail haché, le poivre et  le sel .</step>
-      <step>Bien mélanger.</step>
-      <step>Si la consistance est très liquide, ajouter un peu de farine.</step>
-      <step>Faire chauffer 4 cuillères à soupe d'huile d'olive dans une poêle.</step>
-      <step>Quand la poêle est bien chaude, y disposer des petits paquets (une cuillère à soupe) de la préparation.</step>
-      <step>Laisser dorer 3 minutes puis les retourner ensuite régulièrement jusqu'à ce que les galettes soient dorées.</step>
-      <step>Ajouter quelques cuillères d'eau dans la poêle si besoin.</step>
-      <step>Servir chaud.</step>
-   </directions>
+   <recipe>
+      <head>
+         <title>Galettes de courgettes râpées</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
+            <qty>6</qty>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>30</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>13</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+            </amt>
+            <item>grosses courgettes</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+               <unit>gousse</unit>
+            </amt>
+            <item>d'ail</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+            </amt>
+            <item>oeufs</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+               <unit>tasse</unit>
+            </amt>
+            <item>de farine</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>cuillères à soupe</qty>
+               <unit>3</unit>
+            </amt>
+            <item>de fines herbes</item>
+         </ing>
+         <ing optional="no">
+            <item>sel, poivre</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Peler et râper les courgettes.</step>
+         <step type="cooking" optional="no">Les mettre dans une passoire, saupoudrer de sel et laisser dégorger pendant 1 h.</step>
+         <step type="cooking" optional="no">Puis, bien les rincer et les sécher dans un torchon en serrant très fort.</step>
+         <step type="cooking" optional="no">Ajouter la farine, les oeufs, les fines herbes, l'ail haché, le poivre et  le sel .</step>
+         <step type="cooking" optional="no">Bien mélanger.</step>
+         <step type="cooking" optional="no">Si la consistance est très liquide, ajouter un peu de farine.</step>
+         <step type="cooking" optional="no">Faire chauffer 4 cuillères à soupe d'huile d'olive dans une poêle.</step>
+         <step type="cooking" optional="no">Quand la poêle est bien chaude, y disposer des petits paquets (une cuillère à soupe) de la préparation.</step>
+         <step type="cooking" optional="no">Laisser dorer 3 minutes puis les retourner ensuite régulièrement jusqu'à ce que les galettes soient dorées.</step>
+         <step type="cooking" optional="no">Ajouter quelques cuillères d'eau dans la poêle si besoin.</step>
+         <step type="cooking" optional="no">Servir chaud.</step>
+      </directions>
+   </recipe>
 </recipeml>

@@ -2,87 +2,89 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Cake salé au jambon et aux olives</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>6</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>20</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>45</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>150</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de farine</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>200</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de jambon</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>150</qty>
-            <unit>g</unit>
-         </amt>
-         <item>d'olives vertes dénoyautées</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>75</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de gruyère râpé</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>4</qty>
-         </amt>
-         <item>oeufs</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>10</qty>
-            <unit>cl</unit>
-         </amt>
-         <item>de lait</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-            <unit>sachet</unit>
-         </amt>
-         <item>de levure chimique</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-            <unit>cuillère à soupe</unit>
-         </amt>
-         <item>d'huile</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Couper les olives en roudelles. Couper le jambon en morceaux. </step>
-      <step>Verser les  oeufs  dans la farine et mélanger. Ajouter le lait et l'huile puis mélanger. Ajouter le jambon, les olives et le  gruyère  puis mélanger. Ajouter la levure et, pour ne pas changer, mélanger. :)</step>
-      <step>Mettre le tous dans un plat à cake au préalable beurré et placer dans un four chaud à thermostat 6 (180°C) pendant 45 min.</step>
-      <step>Remarques :A déguster tiède ou froid, à l'apéritif.</step>
-   </directions>
+   <recipe>
+      <head>
+         <title>Cake salé au jambon et aux olives</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
+            <qty>6</qty>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>20</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>45</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>150</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de farine</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>200</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de jambon</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>150</qty>
+               <unit>g</unit>
+            </amt>
+            <item>d'olives vertes dénoyautées</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>75</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de gruyère râpé</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>4</qty>
+            </amt>
+            <item>oeufs</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>10</qty>
+               <unit>cl</unit>
+            </amt>
+            <item>de lait</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+               <unit>sachet</unit>
+            </amt>
+            <item>de levure chimique</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+               <unit>cuillère à soupe</unit>
+            </amt>
+            <item>d'huile</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Couper les olives en roudelles. Couper le jambon en morceaux. </step>
+         <step type="cooking" optional="no">Verser les  oeufs  dans la farine et mélanger. Ajouter le lait et l'huile puis mélanger. Ajouter le jambon, les olives et le  gruyère  puis mélanger. Ajouter la levure et, pour ne pas changer, mélanger. :)</step>
+         <step type="cooking" optional="no">Mettre le tous dans un plat à cake au préalable beurré et placer dans un four chaud à thermostat 6 (180°C) pendant 45 min.</step>
+         <step type="cooking" optional="no">Remarques :A déguster tiède ou froid, à l'apéritif.</step>
+      </directions>
+   </recipe>
 </recipeml>

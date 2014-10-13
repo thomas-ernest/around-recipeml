@@ -2,94 +2,96 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Salade de pâtes à l'italienne</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>4</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>15</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>10</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>250</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de pâtes papillons</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-         </amt>
-         <item>melon</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>6</qty>
-         </amt>
-         <item>tomates cerises</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>12</qty>
-            <unit>feuilles</unit>
-         </amt>
-         <item>de  basilic</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>150</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de  mozzarella  ou de feta</item>
-      </ing>
-      <ing>
-         <amt>
+   <recipe>
+      <head>
+         <title>Salade de pâtes à l'italienne</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
             <qty>4</qty>
-            <unit>fines tranches</unit>
-         </amt>
-         <item>de jambon de Parme</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>12</qty>
-         </amt>
-         <item>olives noires</item>
-      </ing>
-      <ing>
-         <item>le jus d'un citron</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>6</qty>
-            <unit>cuillères à soupe</unit>
-         </amt>
-         <item>d'huile d'olive</item>
-      </ing>
-      <ing>
-         <item>sel, poivre</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Faire cuire les pâtes 'al dente'. L'assaisonnement finira de les cuire.</step>
-      <step>Couper le melon en deux et détailler la chair en billes à l'aide d'une cuillère parisienne.</step>
-      <step>Couper les  tomates  cerises en deux, la mozzarella en dés et le jambon en lanières.</step>
-      <step>Dans un saladier, mélanger le jus du citron et l'huile d'olive. Saler et poivrer. Ajouter 6 feuilles de basilic ciselées. </step>
-      <step>Égoutter les pâtes. Les passer rapidement sous l'eau froide puis les verser dans le saladier. Mélanger. Ajouter les billes de melon, les tomates cerises, la mozzarella, le jambon et les olives. </step>
-      <step>Parsemer du reste de basilic. </step>
-      <step>Servir froid, mais surtout pas trop!</step>
-   </directions>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>15</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>10</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>250</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de pâtes papillons</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+            </amt>
+            <item>melon</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>6</qty>
+            </amt>
+            <item>tomates cerises</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>12</qty>
+               <unit>feuilles</unit>
+            </amt>
+            <item>de  basilic</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>150</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de  mozzarella  ou de feta</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>4</qty>
+               <unit>fines tranches</unit>
+            </amt>
+            <item>de jambon de Parme</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>12</qty>
+            </amt>
+            <item>olives noires</item>
+         </ing>
+         <ing optional="no">
+            <item>le jus d'un citron</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>6</qty>
+               <unit>cuillères à soupe</unit>
+            </amt>
+            <item>d'huile d'olive</item>
+         </ing>
+         <ing optional="no">
+            <item>sel, poivre</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Faire cuire les pâtes 'al dente'. L'assaisonnement finira de les cuire.</step>
+         <step type="cooking" optional="no">Couper le melon en deux et détailler la chair en billes à l'aide d'une cuillère parisienne.</step>
+         <step type="cooking" optional="no">Couper les  tomates  cerises en deux, la mozzarella en dés et le jambon en lanières.</step>
+         <step type="cooking" optional="no">Dans un saladier, mélanger le jus du citron et l'huile d'olive. Saler et poivrer. Ajouter 6 feuilles de basilic ciselées. </step>
+         <step type="cooking" optional="no">Égoutter les pâtes. Les passer rapidement sous l'eau froide puis les verser dans le saladier. Mélanger. Ajouter les billes de melon, les tomates cerises, la mozzarella, le jambon et les olives. </step>
+         <step type="cooking" optional="no">Parsemer du reste de basilic. </step>
+         <step type="cooking" optional="no">Servir froid, mais surtout pas trop!</step>
+      </directions>
+   </recipe>
 </recipeml>

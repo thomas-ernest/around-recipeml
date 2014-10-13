@@ -2,82 +2,84 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Tarte bananes chocolat</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>8</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>10</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>20</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>1</qty>
-         </amt>
-         <item>pâte sablée</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>100</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de chocolat pâtissier</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>10</qty>
-            <unit>cl</unit>
-         </amt>
-         <item>de crème liquide</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>4</qty>
-         </amt>
-         <item>bananes épluchées et coupées en rondelles</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>50</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de sucre en poudre</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>3</qty>
-         </amt>
-         <item>oeufs</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>10</qty>
-            <unit>cl</unit>
-         </amt>
-         <item>de lait</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Préchauffez le four à 200°C (thermostat 6-7).</step>
-      <step>Etalez la  pâte sablée  dans un plat à tarte.</step>
-      <step>Faites fondre au micro-onde le chocolat pâtissier avec la crème liquide pendant 1min30.</step>
-      <step>Etalez-le sur la pâte.</step>
-      <step>Déposez les rondelles de bananes sur le chocolat. </step>
-      <step>Mélangez les  oeufs , le lait et le  sucre  en poudre ensemble, si vous avez un shaker, joignez-y ces ingrédients et agitez, c'est très efficace.</step>
-      <step>Il ne vous reste plus qu'à verser cette préparation sur les bananes.</step>
-      <step>Mettez au four pendant 20 min.</step>
-   </directions>
+   <recipe>
+      <head>
+         <title>Tarte bananes chocolat</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
+            <qty>8</qty>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>10</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>20</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+            </amt>
+            <item>pâte sablée</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>100</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de chocolat pâtissier</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>10</qty>
+               <unit>cl</unit>
+            </amt>
+            <item>de crème liquide</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>4</qty>
+            </amt>
+            <item>bananes épluchées et coupées en rondelles</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>50</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de sucre en poudre</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>3</qty>
+            </amt>
+            <item>oeufs</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>10</qty>
+               <unit>cl</unit>
+            </amt>
+            <item>de lait</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Préchauffez le four à 200°C (thermostat 6-7).</step>
+         <step type="cooking" optional="no">Etalez la  pâte sablée  dans un plat à tarte.</step>
+         <step type="cooking" optional="no">Faites fondre au micro-onde le chocolat pâtissier avec la crème liquide pendant 1min30.</step>
+         <step type="cooking" optional="no">Etalez-le sur la pâte.</step>
+         <step type="cooking" optional="no">Déposez les rondelles de bananes sur le chocolat. </step>
+         <step type="cooking" optional="no">Mélangez les  oeufs , le lait et le  sucre  en poudre ensemble, si vous avez un shaker, joignez-y ces ingrédients et agitez, c'est très efficace.</step>
+         <step type="cooking" optional="no">Il ne vous reste plus qu'à verser cette préparation sur les bananes.</step>
+         <step type="cooking" optional="no">Mettez au four pendant 20 min.</step>
+      </directions>
+   </recipe>
 </recipeml>

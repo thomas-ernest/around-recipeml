@@ -2,74 +2,76 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Emincés de dinde sauce champignons-crème</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>2</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>10</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>10</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
+   <recipe>
+      <head>
+         <title>Emincés de dinde sauce champignons-crème</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
             <qty>2</qty>
-         </amt>
-         <item>escalopes de dinde coupées très fines</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>25</qty>
-            <unit>cl</unit>
-         </amt>
-         <item>crème fraiche liquide</item>
-      </ing>
-      <ing>
-         <item>jus de citron</item>
-      </ing>
-      <ing>
-         <item>persil (surgelé = plus facile)</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>250</qty>
-            <unit>g</unit>
-         </amt>
-         <item>champignons de paris</item>
-      </ing>
-      <ing>
-         <item>beurre</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1/2</qty>
-            <unit>verre</unit>
-         </amt>
-         <item>de vin blanc sec (j'ai aussi tenté avec du muscat et c'est très bon aussi!)</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Sur une planche à découper, couper en lanières de +/- 2cm les escalopes afin d'en faire de petits émincés.</step>
-      <step>Faites cuire dans une grande poële antiadhésive un peu de beurre.</step>
-      <step>Laver puis couper les champignons en rondelles. </step>
-      <step>Mettez les dans un plat ou dans un bol.</step>
-      <step>Arrosez les de jus de citron.</step>
-      <step>Faites dorer les émincés de dinde dans la poële. Retournez les bien. Faites cuire pendant +- 5-6 min.</step>
-      <step>Ajouter les champigons, le vin, le persil et la crème. </step>
-      <step>Laissez cuire jusqu'à ce que la crème épaississe.</step>
-      <step>Servez avec de la  purée  de pdt ou du riz aux légumes.</step>
-      <step>Remarques :N'hésitez pas à mettre un tout petit peu de maïzena si la sauce avait du mal à épaissir.</step>
-   </directions>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>10</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>10</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+            </amt>
+            <item>escalopes de dinde coupées très fines</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>25</qty>
+               <unit>cl</unit>
+            </amt>
+            <item>crème fraiche liquide</item>
+         </ing>
+         <ing optional="no">
+            <item>jus de citron</item>
+         </ing>
+         <ing optional="no">
+            <item>persil (surgelé = plus facile)</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>250</qty>
+               <unit>g</unit>
+            </amt>
+            <item>champignons de paris</item>
+         </ing>
+         <ing optional="no">
+            <item>beurre</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1/2</qty>
+               <unit>verre</unit>
+            </amt>
+            <item>de vin blanc sec (j'ai aussi tenté avec du muscat et c'est très bon aussi!)</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Sur une planche à découper, couper en lanières de +/- 2cm les escalopes afin d'en faire de petits émincés.</step>
+         <step type="cooking" optional="no">Faites cuire dans une grande poële antiadhésive un peu de beurre.</step>
+         <step type="cooking" optional="no">Laver puis couper les champignons en rondelles. </step>
+         <step type="cooking" optional="no">Mettez les dans un plat ou dans un bol.</step>
+         <step type="cooking" optional="no">Arrosez les de jus de citron.</step>
+         <step type="cooking" optional="no">Faites dorer les émincés de dinde dans la poële. Retournez les bien. Faites cuire pendant +- 5-6 min.</step>
+         <step type="cooking" optional="no">Ajouter les champigons, le vin, le persil et la crème. </step>
+         <step type="cooking" optional="no">Laissez cuire jusqu'à ce que la crème épaississe.</step>
+         <step type="cooking" optional="no">Servez avec de la  purée  de pdt ou du riz aux légumes.</step>
+         <step type="cooking" optional="no">Remarques :N'hésitez pas à mettre un tout petit peu de maïzena si la sauce avait du mal à épaissir.</step>
+      </directions>
+   </recipe>
 </recipeml>

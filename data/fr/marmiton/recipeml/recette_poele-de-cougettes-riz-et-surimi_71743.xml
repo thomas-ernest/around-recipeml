@@ -2,70 +2,72 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Poêlé de cougettes riz et surimi</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>2</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>10</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>25</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
+   <recipe>
+      <head>
+         <title>Poêlé de cougettes riz et surimi</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
             <qty>2</qty>
-         </amt>
-         <item>belles courgettes</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-            <unit>verre</unit>
-         </amt>
-         <item>de riz </item>
-      </ing>
-      <ing>
-         <amt>
-						      <range>
-								       <q1>8</q1>
-								       <q2>10</q2>
-						      </range>
-         </amt>
-         <item>bâtonnets de surimi</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>3</qty>
-            <unit>cuillères à soupe</unit>
-         </amt>
-         <item>de crème fraîche semi-épaisse</item>
-      </ing>
-      <ing>
-         <item>sel , poivre</item>
-      </ing>
-      <ing>
-         <item>curry  en poudre (facultatif)</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Epluchez les courgettes une bande sur 2. Coupez-les en morceaux.</step>
-      <step>Faites chauffer une poêle avec un filet d'huile d'olive, ajoutez-y les courgettes.</step>
-      <step>Laissez dorer 5 min en remuant de temps à autre pour ne pas qu'elles attachent ; puis ajoutez le riz, mélangez le tout 2 petites minutes...</step>
-      <step>Ajoutez ensuite un verre d'eau et couvrez, laissez mijoter à feux moyen jusqu'à disparition complète de l'eau.</step>
-      <step>Une fois les courgettes cuites et le riz bien gonflé, ajoutez le surimi coupé en petites rondelles.</step>
-      <step>Salez, poivrez et saupoudrez de curry selon votre goût...</step>
-      <step>Enfin ajoutez la crème fraîche en toute fin de cuisson, laissez la poêle encore 2 minutes à feu doux le temps seulement que le surimi et la crème se réchauffent.</step>
-   </directions>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>10</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>25</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+            </amt>
+            <item>belles courgettes</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+               <unit>verre</unit>
+            </amt>
+            <item>de riz </item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <range>
+                  <q1>8</q1>
+                  <q2>10</q2>
+               </range>
+            </amt>
+            <item>bâtonnets de surimi</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>3</qty>
+               <unit>cuillères à soupe</unit>
+            </amt>
+            <item>de crème fraîche semi-épaisse</item>
+         </ing>
+         <ing optional="no">
+            <item>sel , poivre</item>
+         </ing>
+         <ing optional="no">
+            <item>curry  en poudre (facultatif)</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Epluchez les courgettes une bande sur 2. Coupez-les en morceaux.</step>
+         <step type="cooking" optional="no">Faites chauffer une poêle avec un filet d'huile d'olive, ajoutez-y les courgettes.</step>
+         <step type="cooking" optional="no">Laissez dorer 5 min en remuant de temps à autre pour ne pas qu'elles attachent ; puis ajoutez le riz, mélangez le tout 2 petites minutes...</step>
+         <step type="cooking" optional="no">Ajoutez ensuite un verre d'eau et couvrez, laissez mijoter à feux moyen jusqu'à disparition complète de l'eau.</step>
+         <step type="cooking" optional="no">Une fois les courgettes cuites et le riz bien gonflé, ajoutez le surimi coupé en petites rondelles.</step>
+         <step type="cooking" optional="no">Salez, poivrez et saupoudrez de curry selon votre goût...</step>
+         <step type="cooking" optional="no">Enfin ajoutez la crème fraîche en toute fin de cuisson, laissez la poêle encore 2 minutes à feu doux le temps seulement que le surimi et la crème se réchauffent.</step>
+      </directions>
+   </recipe>
 </recipeml>

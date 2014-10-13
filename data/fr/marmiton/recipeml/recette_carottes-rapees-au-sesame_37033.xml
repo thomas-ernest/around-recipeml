@@ -2,56 +2,58 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Carottes râpées au sésame</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>6</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>10</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>1</qty>
-            <unit>kg</unit>
-         </amt>
-         <item>de carottes</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-            <unit>cuillères à soupe</unit>
-         </amt>
-         <item>de graines de sésame</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-            <unit>cuillères à soupe</unit>
-         </amt>
-         <item>d'huile d'olive</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-            <unit>cuillères à soupe</unit>
-         </amt>
-         <item>de vinaigre balsamique</item>
-      </ing>
-      <ing>
-         <item>sel et poivre</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Râper les carottes.</step>
-      <step>Faire griller dans une poêle les graines de sésame jusqu'à ce qu'elles soient colorées, mais non brûlées (bien surveiller!).</step>
-      <step>Faire la sauce en mélangeant vinaigre, huile, sel et poivre. Assaisonner les carottes avec la vinaigrette, puis les saupoudrer des graines de sésame.</step>
-   </directions>
+   <recipe>
+      <head>
+         <title>Carottes râpées au sésame</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
+            <qty>6</qty>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>10</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+               <unit>kg</unit>
+            </amt>
+            <item>de carottes</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+               <unit>cuillères à soupe</unit>
+            </amt>
+            <item>de graines de sésame</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+               <unit>cuillères à soupe</unit>
+            </amt>
+            <item>d'huile d'olive</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+               <unit>cuillères à soupe</unit>
+            </amt>
+            <item>de vinaigre balsamique</item>
+         </ing>
+         <ing optional="no">
+            <item>sel et poivre</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Râper les carottes.</step>
+         <step type="cooking" optional="no">Faire griller dans une poêle les graines de sésame jusqu'à ce qu'elles soient colorées, mais non brûlées (bien surveiller!).</step>
+         <step type="cooking" optional="no">Faire la sauce en mélangeant vinaigre, huile, sel et poivre. Assaisonner les carottes avec la vinaigrette, puis les saupoudrer des graines de sésame.</step>
+      </directions>
+   </recipe>
 </recipeml>

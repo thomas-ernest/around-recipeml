@@ -2,73 +2,75 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>La vraie Tartiflette</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>4</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>15</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>60</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>1</qty>
-            <unit>kg</unit>
-         </amt>
-         <item>de pommes de terre</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>200</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de lardons fumés</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>200</qty>
-            <unit>g</unit>
-         </amt>
-         <item>d'oignons émincés</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-         </amt>
-         <item>reblochon bien fait (lorsqu'on appuie sur le côté du reblochon, le doigt doit s'enfoncer un peu) </item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-            <unit>cuillères à soupe</unit>
-         </amt>
-         <item>huile</item>
-      </ing>
-      <ing>
-         <item>ail, sel, poivre</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Eplucher les pommes de terre, les couper en dés, bien les rincer, et les essuyer dans un torchon propre. </step>
-      <step>Faire chauffer l'huile dans une poêle, pour y faire fondre les oignons; rajouter ensuite les pommes de terre. </step>
-      <step>Faire dorer tous les côtés des dés de pommes de terre, rajouter les lardons, et finir de cuire. </step>
-      <step>D'autre part, gratter la croûte du reblochon et le couper en deux (ou en quatre). Préparer un plat à gratin en frottant le fond et les bords avec de l'ail. </step>
-      <step>Préchauffer le four à 200°C (thermostat 6-7). </step>
-      <step>Dans le plat à gratin, verser une couche de pommes de terre aux lardons, disposer dessus la moitié du reblochon, puis de nouveau des pommes de terre. </step>
-      <step>Terminer avec le reste du reblochon (croûte vers les pommes de terre), et enfourner pendant environ 20 min. </step>
-      <step>Bien surveiller, pour éviter que le  fromage  ne rende trop de gras.</step>
-   </directions>
+   <recipe>
+      <head>
+         <title>La vraie Tartiflette</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
+            <qty>4</qty>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>15</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>60</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+               <unit>kg</unit>
+            </amt>
+            <item>de pommes de terre</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>200</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de lardons fumés</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>200</qty>
+               <unit>g</unit>
+            </amt>
+            <item>d'oignons émincés</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+            </amt>
+            <item>reblochon bien fait (lorsqu'on appuie sur le côté du reblochon, le doigt doit s'enfoncer un peu) </item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+               <unit>cuillères à soupe</unit>
+            </amt>
+            <item>huile</item>
+         </ing>
+         <ing optional="no">
+            <item>ail, sel, poivre</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Eplucher les pommes de terre, les couper en dés, bien les rincer, et les essuyer dans un torchon propre. </step>
+         <step type="cooking" optional="no">Faire chauffer l'huile dans une poêle, pour y faire fondre les oignons; rajouter ensuite les pommes de terre. </step>
+         <step type="cooking" optional="no">Faire dorer tous les côtés des dés de pommes de terre, rajouter les lardons, et finir de cuire. </step>
+         <step type="cooking" optional="no">D'autre part, gratter la croûte du reblochon et le couper en deux (ou en quatre). Préparer un plat à gratin en frottant le fond et les bords avec de l'ail. </step>
+         <step type="cooking" optional="no">Préchauffer le four à 200°C (thermostat 6-7). </step>
+         <step type="cooking" optional="no">Dans le plat à gratin, verser une couche de pommes de terre aux lardons, disposer dessus la moitié du reblochon, puis de nouveau des pommes de terre. </step>
+         <step type="cooking" optional="no">Terminer avec le reste du reblochon (croûte vers les pommes de terre), et enfourner pendant environ 20 min. </step>
+         <step type="cooking" optional="no">Bien surveiller, pour éviter que le  fromage  ne rende trop de gras.</step>
+      </directions>
+   </recipe>
 </recipeml>

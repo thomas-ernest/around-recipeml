@@ -2,100 +2,102 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Taboulé très frais</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>4</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>30</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooling">
-         <time>
-            <qty>2</qty>
-            <timeunit>heures</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>3</qty>
-            <unit>tasses</unit>
-         </amt>
-         <item>de semoule couscous grains fins</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-         </amt>
-         <item>citrons</item>
-      </ing>
-      <ing>
-         <amt>
+   <recipe>
+      <head>
+         <title>Taboulé très frais</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
             <qty>4</qty>
-         </amt>
-         <item>tomates</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-         </amt>
-         <item>poivron vert</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1/2</qty>
-         </amt>
-         <item>concombre</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-            <unit>cuillères à soupe</unit>
-         </amt>
-         <item>d'huile d'olive</item>
-      </ing>
-      <ing>
-         <amt>
-						      <range>
-								       <q1>5</q1>
-								       <q2>6</q2>
-						      </range>
-         </amt>
-         <item>feuilles de basilic frais</item>
-      </ing>
-      <ing>
-         <amt>
-						      <range>
-								       <q1>3</q1>
-								       <q2>4</q2>
-						      </range>
-         </amt>
-         <item>feuilles de menthe fraîche</item>
-      </ing>
-      <ing>
-         <item>sel, poivre</item>
-      </ing>
-      <ing>
-         <item>tranches de citron</item>
-      </ing>
-      <ing>
-         <item>feuilles de menthe</item>
-      </ing>
-      <ing>
-         <item>basilic pour le décor</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step> Verser les 3 tasses de semoule (crue) dans un saladier, ajouter le jus des 2 citrons avec un peu de pulpe, les 2 cuillères à soupe d'huile d'olive, le basilic et la menthe ciselés, sel et poivre. Mélanger bien et égrainer avec une fourchette pour éviter les grumeaux. </step>
-      <step>Couper les tomates en petits dés en prenant soin de garder le jus et incorporer les (dés de tomates + jus) au fur et à mesure à la semoule en mélangeant bien. Couper de la même façon le poivron et le 1/2 concombre et les ajouter à la préparation en remuant bien le tout. </step>
-      <step>Voilà, c'est tout, il ne reste plus qu'à placer le saladier au réfrigérateur minimum 2 heures. </step>
-      <step>A déguster très frais.</step>
-   </directions>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>30</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooling">
+            <time>
+               <qty>2</qty>
+               <timeunit>heures</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>3</qty>
+               <unit>tasses</unit>
+            </amt>
+            <item>de semoule couscous grains fins</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+            </amt>
+            <item>citrons</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>4</qty>
+            </amt>
+            <item>tomates</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+            </amt>
+            <item>poivron vert</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1/2</qty>
+            </amt>
+            <item>concombre</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+               <unit>cuillères à soupe</unit>
+            </amt>
+            <item>d'huile d'olive</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <range>
+                  <q1>5</q1>
+                  <q2>6</q2>
+               </range>
+            </amt>
+            <item>feuilles de basilic frais</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <range>
+                  <q1>3</q1>
+                  <q2>4</q2>
+               </range>
+            </amt>
+            <item>feuilles de menthe fraîche</item>
+         </ing>
+         <ing optional="no">
+            <item>sel, poivre</item>
+         </ing>
+         <ing optional="no">
+            <item>tranches de citron</item>
+         </ing>
+         <ing optional="no">
+            <item>feuilles de menthe</item>
+         </ing>
+         <ing optional="no">
+            <item>basilic pour le décor</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no"> Verser les 3 tasses de semoule (crue) dans un saladier, ajouter le jus des 2 citrons avec un peu de pulpe, les 2 cuillères à soupe d'huile d'olive, le basilic et la menthe ciselés, sel et poivre. Mélanger bien et égrainer avec une fourchette pour éviter les grumeaux. </step>
+         <step type="cooking" optional="no">Couper les tomates en petits dés en prenant soin de garder le jus et incorporer les (dés de tomates + jus) au fur et à mesure à la semoule en mélangeant bien. Couper de la même façon le poivron et le 1/2 concombre et les ajouter à la préparation en remuant bien le tout. </step>
+         <step type="cooking" optional="no">Voilà, c'est tout, il ne reste plus qu'à placer le saladier au réfrigérateur minimum 2 heures. </step>
+         <step type="cooking" optional="no">A déguster très frais.</step>
+      </directions>
+   </recipe>
 </recipeml>

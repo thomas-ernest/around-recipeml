@@ -2,93 +2,95 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Original American Cookies de Mike</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>15</qty>
-         <unit>pièces</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>5</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>10</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>250</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de farine</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>125</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de sucre de canne roux (ou cassonade)</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-            <unit>sachet</unit>
-         </amt>
-         <item>de sucre vanillé</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-            <unit>pincée</unit>
-         </amt>
-         <item>de sel</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1 1/2</qty>
-            <unit>sachet</unit>
-         </amt>
-         <item>de levure</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-         </amt>
-         <item>œuf</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>125</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de beurre</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-            <unit>cuillères</unit>
-         </amt>
-         <item>à café de miel</item>
-      </ing>
-      <ing>
-         <item>pépites de chocolat (à volonté)</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Mélangez la farine, les sucres, le sel et la levure dans un grand saladier.</step>
-      <step>Faites fondre le beurre, et ajoutez-y, l'œuf battu et les 2 cuillères de miel et incorporez le tout à la préparation.</step>
-      <step>Ajouter les pépites de chocolat (de préférence au lait, mais j'ai déjà goûté des cookies aux 3 chocolats et c'est exquis) et mélanger avec une cuillère en bois.</step>
-      <step>Préchauffez votre four à 220°C (thermostat 7-8) avec la grille au plus bas.</step>
-      <step>Façonnez des cookies d’environ 10 cm de diamètre et disposez-les sur une plaque. Ils doivent être assez espacés.</step>
-      <step>Enfournez-les 9 à 11 min, suivant si vous les souhaitez respectivement « extra-moelleux, moelleux ou crousti-moelleux »... Vous m’en direz des nouvelles!</step>
-      <step>Remarques :Ce sont les cookies typiques américains. [NDMike : Après réflexion, je les préfère avec seulement 100 g de sucre]</step>
-   </directions>
+   <recipe>
+      <head>
+         <title>Original American Cookies de Mike</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
+            <qty>15</qty>
+            <unit>pièces</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>5</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>10</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>250</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de farine</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>125</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de sucre de canne roux (ou cassonade)</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+               <unit>sachet</unit>
+            </amt>
+            <item>de sucre vanillé</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+               <unit>pincée</unit>
+            </amt>
+            <item>de sel</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1 1/2</qty>
+               <unit>sachet</unit>
+            </amt>
+            <item>de levure</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+            </amt>
+            <item>œuf</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>125</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de beurre</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+               <unit>cuillères</unit>
+            </amt>
+            <item>à café de miel</item>
+         </ing>
+         <ing optional="no">
+            <item>pépites de chocolat (à volonté)</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Mélangez la farine, les sucres, le sel et la levure dans un grand saladier.</step>
+         <step type="cooking" optional="no">Faites fondre le beurre, et ajoutez-y, l'œuf battu et les 2 cuillères de miel et incorporez le tout à la préparation.</step>
+         <step type="cooking" optional="no">Ajouter les pépites de chocolat (de préférence au lait, mais j'ai déjà goûté des cookies aux 3 chocolats et c'est exquis) et mélanger avec une cuillère en bois.</step>
+         <step type="cooking" optional="no">Préchauffez votre four à 220°C (thermostat 7-8) avec la grille au plus bas.</step>
+         <step type="cooking" optional="no">Façonnez des cookies d’environ 10 cm de diamètre et disposez-les sur une plaque. Ils doivent être assez espacés.</step>
+         <step type="cooking" optional="no">Enfournez-les 9 à 11 min, suivant si vous les souhaitez respectivement « extra-moelleux, moelleux ou crousti-moelleux »... Vous m’en direz des nouvelles!</step>
+         <step type="cooking" optional="no">Remarques :Ce sont les cookies typiques américains. [NDMike : Après réflexion, je les préfère avec seulement 100 g de sucre]</step>
+      </directions>
+   </recipe>
 </recipeml>

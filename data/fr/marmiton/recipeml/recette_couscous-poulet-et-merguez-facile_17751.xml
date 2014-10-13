@@ -2,112 +2,114 @@
 <!DOCTYPE recipeml
   PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <recipeml version="0.5" xml:lang="fr">
-   <head>
-      <title>Couscous poulet et merguez facile</title>
-      <source>http://www.marmiton.org/</source>
-      <yield>
-         <qty>6</qty>
-         <unit>personnes</unit>
-      </yield>
-      <preptime type="preparation">
-         <time>
-            <qty>30</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-      <preptime type="cooking">
-         <time>
-            <qty>35</qty>
-            <timeunit>minutes</timeunit>
-         </time>
-      </preptime>
-   </head>
-   <ingredients>
-      <ing>
-         <amt>
-            <qty>8</qty>
-            <unit>pilons</unit>
-         </amt>
-         <item>de poulet (fermier de préférence)</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>12</qty>
-         </amt>
-         <item>merguez</item>
-      </ing>
-      <ing>
-         <item>huile d'olive</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-            <unit>boîtes</unit>
-         </amt>
-         <item>de concentré de tomate</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>3</qty>
-            <unit>cuillères à soupe</unit>
-         </amt>
-         <item>d'épices à couscous</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>1</qty>
-            <unit>cuillère à café</unit>
-         </amt>
-         <item>d'harissa</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-            <unit>cubes</unit>
-         </amt>
-         <item>de bouillons de boeuf</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>3</qty>
-         </amt>
-         <item>belles tomates</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>10</qty>
-         </amt>
-         <item>petits navets</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>5</qty>
-         </amt>
-         <item>belles carottes</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>2</qty>
-         </amt>
-         <item>courgettes</item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>400</qty>
-            <unit>g</unit>
-         </amt>
-         <item>de pois chiches</item>
-      </ing>
-   </ingredients>
-   <directions>
-      <step>Lavez et épluchez les carottes, les navets et les tomates et les couper en cubes. </step>
-      <step>Dans un autocuiseur, versez 3 cuillères à soupe d'huile d'olive. Mettez à chauffer et faites-y dorer les pilons de poulet. Quand ils sont dorés, versez l'équivalent d'1 litre d'eau et ajouter les cubes de bouillon de boeuf, le concentré de tomate, les carottes, navets et tomates, les épices à couscous et l'harissa. </step>
-      <step>Fermez votre autocuiseur et compter 25 mn de cuisson une fois que celui-ci est monté en pression. </step>
-      <step>En attendant, lavez et coupez les courgettes en cubes et égouttez les pois chiches. </step>
-      <step>Une fois les 25 mn écoulées, évacuez la vapeur de votre autocuiseur, ouvrez et rajouter les courgettes et les pois chiches. </step>
-      <step>Remettez au feu : comptez 10 mn de cuisson une fois votre autocuiseur sous pression. </step>
-      <step>Faites cuire vos merguez sur un grill ou à la poêle, mais pas avec les légumes. </step>
-      <step>Servez accompagné d'une semoule fine.</step>
-      <step>Remarques :Ce plat est encore meilleur si vous le préparez la veille car tous les ingrédients s'imprègnent bien des épices. Le jour J, ce n'est pas la course, vous avez juste à réchauffer !!!Conseil vin :Vin blanc Rosé ou Gris</step>
-   </directions>
+   <recipe>
+      <head>
+         <title>Couscous poulet et merguez facile</title>
+         <source>http://www.marmiton.org/</source>
+         <yield>
+            <qty>6</qty>
+            <unit>personnes</unit>
+         </yield>
+         <preptime type="preparation">
+            <time>
+               <qty>30</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+         <preptime type="cooking">
+            <time>
+               <qty>35</qty>
+               <timeunit>minutes</timeunit>
+            </time>
+         </preptime>
+      </head>
+      <ingredients>
+         <ing optional="no">
+            <amt>
+               <qty>8</qty>
+               <unit>pilons</unit>
+            </amt>
+            <item>de poulet (fermier de préférence)</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>12</qty>
+            </amt>
+            <item>merguez</item>
+         </ing>
+         <ing optional="no">
+            <item>huile d'olive</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+               <unit>boîtes</unit>
+            </amt>
+            <item>de concentré de tomate</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>3</qty>
+               <unit>cuillères à soupe</unit>
+            </amt>
+            <item>d'épices à couscous</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>1</qty>
+               <unit>cuillère à café</unit>
+            </amt>
+            <item>d'harissa</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+               <unit>cubes</unit>
+            </amt>
+            <item>de bouillons de boeuf</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>3</qty>
+            </amt>
+            <item>belles tomates</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>10</qty>
+            </amt>
+            <item>petits navets</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>5</qty>
+            </amt>
+            <item>belles carottes</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>2</qty>
+            </amt>
+            <item>courgettes</item>
+         </ing>
+         <ing optional="no">
+            <amt>
+               <qty>400</qty>
+               <unit>g</unit>
+            </amt>
+            <item>de pois chiches</item>
+         </ing>
+      </ingredients>
+      <directions>
+         <step type="cooking" optional="no">Lavez et épluchez les carottes, les navets et les tomates et les couper en cubes. </step>
+         <step type="cooking" optional="no">Dans un autocuiseur, versez 3 cuillères à soupe d'huile d'olive. Mettez à chauffer et faites-y dorer les pilons de poulet. Quand ils sont dorés, versez l'équivalent d'1 litre d'eau et ajouter les cubes de bouillon de boeuf, le concentré de tomate, les carottes, navets et tomates, les épices à couscous et l'harissa. </step>
+         <step type="cooking" optional="no">Fermez votre autocuiseur et compter 25 mn de cuisson une fois que celui-ci est monté en pression. </step>
+         <step type="cooking" optional="no">En attendant, lavez et coupez les courgettes en cubes et égouttez les pois chiches. </step>
+         <step type="cooking" optional="no">Une fois les 25 mn écoulées, évacuez la vapeur de votre autocuiseur, ouvrez et rajouter les courgettes et les pois chiches. </step>
+         <step type="cooking" optional="no">Remettez au feu : comptez 10 mn de cuisson une fois votre autocuiseur sous pression. </step>
+         <step type="cooking" optional="no">Faites cuire vos merguez sur un grill ou à la poêle, mais pas avec les légumes. </step>
+         <step type="cooking" optional="no">Servez accompagné d'une semoule fine.</step>
+         <step type="cooking" optional="no">Remarques :Ce plat est encore meilleur si vous le préparez la veille car tous les ingrédients s'imprègnent bien des épices. Le jour J, ce n'est pas la course, vous avez juste à réchauffer !!!Conseil vin :Vin blanc Rosé ou Gris</step>
+      </directions>
+   </recipe>
 </recipeml>
