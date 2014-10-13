@@ -22,54 +22,52 @@
    </head>
    <ingredients>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+				 <amt>
+						<range>
+								<q1>3</q1>
+								<q2>4</q2>
+						</range>
          </amt>
-         <item>3 ou 4 (selon la grosseur)</item>
+         <item>pommes (selon la grosseur)</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1  pâte brisée</item>
+         <item>pâte brisée</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2  oeufs</item>
+         <item>oeufs</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>25</qty>
+            <unit>cl</unit>
          </amt>
-         <item>25 cl de crème fraîche</item>
+         <item>de crème fraîche</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>100</qty>
             <unit>g</unit>
          </amt>
-         <item>100 g
-                      de  sucre  en poudre</item>
+         <item>de  sucre  en poudre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>sachet</unit>
          </amt>
-         <item>1 sachet de  sucre  vanillé</item>
+         <item>de  sucre  vanillé</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Posez sur un fond de moule à tarte une  pâte brisée  que vous trouez avec une fourchette.</step>
+      <step>Posez sur un fond de moule à tarte une  pâte brisée  que vous trouez avec une fourchette.</step>
       <step>Pelez et coupez les  pommes  en fines tranches que vous disposer sur le fond de tarte.</step>
       <step>Dans un saladier, mélangez le  sucre , la crème fraîche, les  oeufs , le  sucre  vanillé; versez le tout sur les  pommes .</step>
-      <step>Enfournez
-                      au four préchauffé à 200°C (th 6-7), jusqu'à ce que la tarte prenne une belle couleur dorée.</step>
+      <step>Enfournez au four préchauffé à 200°C (th 6-7), jusqu'à ce que la tarte prenne une belle couleur dorée.</step>
    </directions>
 </recipeml>

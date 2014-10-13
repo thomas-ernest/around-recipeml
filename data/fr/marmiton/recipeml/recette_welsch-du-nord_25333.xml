@@ -23,76 +23,68 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>10</qty>
             <unit>g</unit>
          </amt>
-         <item>10 g de</item>
+         <item>de beurre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>25</qty>
+            <unit>cl</unit>
          </amt>
-         <item>25 cl de bière blonde ou ambrée</item>
+         <item>de bière blonde ou ambrée</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>800</qty>
             <unit>g</unit>
          </amt>
-         <item>800 g de cheddar</item>
+         <item>de cheddar</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>50</qty>
             <unit>g</unit>
          </amt>
-         <item>50 g de  gruyère  râpé</item>
+         <item>de  gruyère  râpé</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>tranches</unit>
          </amt>
-         <item>2 tranches de jambon blanc</item>
+         <item>de jambon blanc</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>pincées</unit>
          </amt>
-         <item>2 pincée de noix de  muscade</item>
+         <item>de noix de  muscade</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>4</qty>
          </amt>
-         <item>4 œufs</item>
+         <item>œufs</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>4</qty>
+            <unit>tranches</unit>
          </amt>
-         <item>4 tranches de  pain  de campagne</item>
+         <item>de  pain  de campagne</item>
       </ing>
    </ingredients>
    <directions>
       <step>Faire dorer le pain dans une poêle avec un peu de beurre. </step>
       <step>Mettre le cheddar en petits cubes dans une sauteuse, ajoutez la bière et la muscade et laissez fondre, puis, ajouter les  oeufs  battus hors du feu.</step>
       <step>Dans un plat à gratin, déposez le jambon sur le pain, et versez la préparation sur l'ensemble. </step>
-      <step>Mettre du gruyère râpé pour gratiner le plat.
-                      </step>
-      <step>Mettre au four 3 min environ en position gril.</step>
-      <step>
-                          Remarques :
-                        
-                          Possibilité de rajouter un oeuf dessus. A servir avec des frites et de la salade.
-                        
-                          Conseil vin :
-                        
-                          bière blonde ou ambrée
-                        </step>
+      <step>Mettre du gruyère râpé pour gratiner le plat.</step>
+      <step>Mettre au four 3 min environ en position grill.</step>
+      <step>Remarques : Possibilité de rajouter un oeuf dessus. A servir avec des frites et de la salade.</step>
+      <step>Conseil : bière blonde ou ambrée</step>
    </directions>
+
 </recipeml>

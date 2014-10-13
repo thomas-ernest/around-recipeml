@@ -23,80 +23,67 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
+            <unit>kg</unit>
          </amt>
-         <item>1 kg de</item>
+         <item>de carottes</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1  pomme de terre  moyenne</item>
+         <item>pomme de terre  moyenne</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1  oignon</item>
+         <item>oignon</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>75</qty>
+            <unit>cl</unit>
          </amt>
-         <item>3/4 l d'eau </item>
+         <item>d'eau</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>20</qty>
             <unit>g</unit>
          </amt>
-         <item>20 g de  beurre</item>
+         <item>de beurre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1/2</qty>
+            <unit>cuillère à café</unit>
          </amt>
-         <item>1/2 cuillère à café de  curry</item>
+         <item> de curry</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1/2</qty>
+            <unit>cuillère à café</unit>
          </amt>
-         <item>1/2 cuillère à café de  cumin</item>
+         <item>de cumin</item>
+      </ing>
+      <ing>
+         <item>sel de Guérande </item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>20</qty>
+            <unit>cl</unit>
          </amt>
-         <item>sel  de Guérande </item>
-      </ing>
-      <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>20 cl
-                      de crème liquide</item>
+         <item>de crème liquide</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Emincez l'oignon. Faites fondre le beurre dans une cocotte minute, puis ajoutez l'oignon. Faites dorer. </step>
+      <step>Emincez l'oignon. Faites fondre le beurre dans une cocotte minute, puis ajoutez l'oignon. Faites dorer.</step>
       <step>Ajoutez les carottes et la  pomme  de terre préalablement coupés en morceaux. Faites cuire ainsi 5 minutes.</step>
       <step>Ajoutez l'eau, ainsi que le curry et le cumin.</step>
       <step>Fermez la cocotte et faire cuire 20 minutes après la montée en pression.</step>
-      <step>Il ne reste plus qu'à
-                      mixer le tout en y ajoutant la crème liquide... et bien sûr qu'à se régaler!</step>
-      <step>
-                          Remarques :
-                        
-                          Une entrée simple et bon marché, qui sera très appréciée de vos convives.
-                        </step>
+      <step>Il ne reste plus qu'à mixer le tout en y ajoutant la crème liquide... et bien sûr qu'à se régaler!</step>
    </directions>
 </recipeml>

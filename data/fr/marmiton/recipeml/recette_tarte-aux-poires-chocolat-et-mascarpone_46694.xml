@@ -23,73 +23,69 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1</item>
+         <item>pâte sablée</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>250</qty>
             <unit>g</unit>
          </amt>
-         <item>250 g de mascarpone</item>
+         <item>de mascarpone</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2 œufs</item>
+         <item>oeufs</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>30</qty>
             <unit>g</unit>
          </amt>
-         <item>30 g de  sucre  (3 cuillères à soupe)</item>
+         <item>de  sucre  (3 cuillères à soupe)</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>5</qty>
+            <unit>cl</unit>
          </amt>
-         <item>5 cl de crème fraîche (1 cuillères à soupe)</item>
+         <item>de crème fraîche (1 cuillères à soupe)</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2  poires</item>
+         <item>poires</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>100</qty>
             <unit>g</unit>
          </amt>
-         <item>100 g de pépites de chocolat</item>
+         <item>de pépites de chocolat</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>10</qty>
             <unit>g</unit>
          </amt>
-         <item>10 g de chapelure</item>
+         <item>de chapelure</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>10</qty>
             <unit>g</unit>
          </amt>
-         <item>10 g de poudre d'amande</item>
+         <item>de poudre d'amande</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Préchauffez le four à 200°C (thermostat 6-7)</step>
-      <step>Mélangez le mascarpone avec le  sucre  les jaunes d’œufs et la crème fraîche, puis incorporez délicatement au mélange, les blancs d’œufs battus en neige.</step>
-      <step>Étalez la  pâte sablée 
-                      dans un moule à tarte beurré.</step>
+      <step>Préchauffez le four à 200°C (thermostat 6-7).</step>
+      <step>Mélangez le mascarpone avec le  sucre  les jaunes d’œufs et la crème fraîche, puis incorporez délicatement au mélange, les blancs d’oeufs battus en neige.</step>
+      <step>Étalez la  pâte sablée dans un moule à tarte beurré.</step>
       <step>Mettez la chapelure et la poudre d'amandes dans le fond de la pâte, puis déposez-y les  poires  coupées en tranches et parsemez de pépites de chocolat.</step>
       <step>Versez la préparation au mascarpone sur le tout et faites cuire environ 30 minutes.</step>
    </directions>

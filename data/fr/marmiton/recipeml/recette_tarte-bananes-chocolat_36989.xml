@@ -23,56 +23,53 @@
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1</item>
+         <item>pâte sablée</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>100</qty>
             <unit>g</unit>
          </amt>
-         <item>100 g de chocolat pâtissier</item>
+         <item>de chocolat pâtissier</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>10</qty>
+            <unit>cl</unit>
          </amt>
-         <item>10 cl de crème liquide</item>
+         <item>de crème liquide</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>4</qty>
          </amt>
-         <item>4 bananes épluchées et coupées en rondelles</item>
+         <item>bananes épluchées et coupées en rondelles</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
+            <qty>50</qty>
             <unit>g</unit>
          </amt>
-         <item>50 g de  sucre  en poudre</item>
+         <item>de sucre en poudre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>3</qty>
          </amt>
-         <item>3  oeufs</item>
+         <item>oeufs</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>10</qty>
+            <unit>cl</unit>
          </amt>
-         <item>10 cl de lait</item>
+         <item>de lait</item>
       </ing>
    </ingredients>
    <directions>
-      <step> Préchauffez le four à 200°C (thermostat 6-7).</step>
+      <step>Préchauffez le four à 200°C (thermostat 6-7).</step>
       <step>Etalez la  pâte sablée  dans un plat à tarte.</step>
       <step>Faites fondre au micro-onde le chocolat pâtissier avec la crème liquide pendant 1min30.</step>
       <step>Etalez-le sur la pâte.</step>
@@ -80,10 +77,5 @@
       <step>Mélangez les  oeufs , le lait et le  sucre  en poudre ensemble, si vous avez un shaker, joignez-y ces ingrédients et agitez, c'est très efficace.</step>
       <step>Il ne vous reste plus qu'à verser cette préparation sur les bananes.</step>
       <step>Mettez au four pendant 20 min.</step>
-      <step>
-                          Remarques :
-                        
-                          Cette tarte peut se déguster tiède et également froide. Régalez-vous!
-                        </step>
    </directions>
 </recipeml>
