@@ -13,104 +13,87 @@
             <timeunit>minutes</timeunit>
          </time>
       </preptime>
-      <preptime type="cooking">
+      <preptime type="cooling">
          <time>
-            <qty>0</qty>
-            <timeunit>minutes</timeunit>
+            <qty>2</qty>
+            <timeunit>heures</timeunit>
          </time>
       </preptime>
    </head>
    <ingredients>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>3</qty>
+            <unit>tasses</unit>
          </amt>
-         <item>3 tasses de semoule grains fins</item>
+         <item>de semoule couscous grains fins</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
          </amt>
-         <item>2 citrons</item>
+         <item>citrons</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>4</qty>
          </amt>
-         <item>4  tomates</item>
+         <item>tomates</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1</qty>
          </amt>
-         <item>1  poivron  vert</item>
+         <item>poivron vert</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>1/2</qty>
          </amt>
-         <item>1/2  concombre</item>
+         <item>concombre</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+            <qty>2</qty>
+            <unit>cuillères à soupe</unit>
          </amt>
-         <item>2 cuillères à soupe d'huile d'olive</item>
+         <item>d'huile d'olive</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+						<range>
+								<q1>5</q1>
+								<q2>6</q2>
+						</range>
          </amt>
-         <item>5 à 6 feuilles de  basilic  frais</item>
+         <item>feuilles de basilic frais</item>
       </ing>
       <ing>
          <amt>
-            <qty>0</qty>
-            <unit>g</unit>
+						<range>
+								<q1>3</q1>
+								<q2>4</q2>
+						</range>
          </amt>
-         <item>3 à 4 feuilles de  menthe  fraîche</item>
+         <item>feuilles de menthe fraîche</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
-         <item>sel ,  poivre</item>
+         <item>sel, poivre</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>tranches de citron</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>feuilles de menthe</item>
       </ing>
       <ing>
-         <amt>
-            <qty>0</qty>
-            <unit>g</unit>
-         </amt>
          <item>basilic pour le décor</item>
       </ing>
    </ingredients>
    <directions>
       <step> Verser les 3 tasses de semoule (crue) dans un saladier, ajouter le jus des 2 citrons avec un peu de pulpe, les 2 cuillères à soupe d'huile d'olive, le basilic et la menthe ciselés, sel et poivre. Mélanger bien et égrainer avec une fourchette pour éviter les grumeaux. </step>
-      <step>Couper les tomates en petits dés en prenant soin de garder le jus et incorporer les (dés de tomates + jus) au fur et à mesure à la semoule en mélangeant bien. Couper de la même façon le poivron et le 1/2
-                      concombre et les ajouter à la préparation en remuant bien le tout. </step>
-      <step>Voilà, c'est tout, il ne reste plus qu'à placer le saladier au réfrigérateur minimum 1 heure. </step>
+      <step>Couper les tomates en petits dés en prenant soin de garder le jus et incorporer les (dés de tomates + jus) au fur et à mesure à la semoule en mélangeant bien. Couper de la même façon le poivron et le 1/2 concombre et les ajouter à la préparation en remuant bien le tout. </step>
+      <step>Voilà, c'est tout, il ne reste plus qu'à placer le saladier au réfrigérateur minimum 2 heures. </step>
       <step>A déguster très frais.</step>
    </directions>
 </recipeml>
