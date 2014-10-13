@@ -114,7 +114,7 @@
 								<qty>0</qty>
 								<unit>g</unit>
 						</amt>
-						<item><xsl:value-of select="normalize-space(fn:replace(fn:string-join($content-line/(self::text() | self::node()[position() != 1]), ' '), '^\s*-\s+', ''))" /></item>
+						<item><xsl:value-of select="normalize-space(fn:replace(fn:string-join($content-line[position() != 1], ' '), '^\s*-\s+', ''))" /></item>
 					</xsl:when>
 					<xsl:otherwise>
 						<amt>
