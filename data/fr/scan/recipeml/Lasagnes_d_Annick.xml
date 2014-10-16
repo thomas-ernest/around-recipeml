@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recipeml version="0.5" xml:lang="pl">
+    <recipe>
+        <head>
+            <title>Lasagnes d'Annick</title>
+            <categories/>
+            <yield>
+								<qty>8</qty>
+								<unit>personnes</unit>
+						</yield>
+						<preptime type="preparation">
+							  <time>
+								    <qty>20</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+						<preptime type="cooking">
+							  <time>
+								    <qty>45</qty>
+								    <timeunit>minutes</timeunit>
+							  </time>
+						</preptime>
+        </head>
+				<equipment>
+					<tool>
+		        <brandname>
+							<product>grand plat profond</product>
+						</brandname>
+						<qty>1</qty>
+					</tool>
+				</equipment>
+        <ingredients>
+					<ing-div>
+						<title>Hachis</title>
+            <ing>
+                <amt>
+                    <qty>500</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>de viande rouge hachée</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>500</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>d'epinard hachés (congelés) sans crème</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>500</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>de sauce tomate (nature ou aromatisée à l'ail et aux ognions par exemple)</item>
+            </ing>
+					</ing-div>
+					<ing-div>
+						<title>Sauce béchamel</title>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>l</unit>
+                </amt>
+                <item>de lait</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>100</qty>
+                    <unit>g</unit>
+                </amt>
+                <item>de farine</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>1</qty>
+                    <unit>cube</unit>
+                </amt>
+                <item>de bouillon (pour viande rouge ou pot-au-feu par exemple)</item>
+            </ing>
+					</ing-div>
+					<ing-div>
+						<title>Lasagnes</title>
+            <ing>
+                <amt>
+                    <qty>12</qty>
+                </amt>
+                <item>lasagnes (plus ou moins en fonction de votre plat)</item>
+            </ing>
+            <ing>
+                <amt>
+                    <qty>3</qty>
+                    <unit>poignées</unit>
+                </amt>
+                <item>de fromage rapé</item>
+            </ing>
+					</ing-div>
+        </ingredients>
+        <directions>
+					<dir-div>
+						<title>Hachis</title>
+            <step>Décongeler les épinards hachés, jusqu'à ce qu'ils soient détachés, pas nécessairement chaud.</step>
+            <step>Ajouter la sauce tomate aux épinards jusqu'à l'obtention d'un mélange homogène.</step>
+            <step>Couper le feu, ajouter la viande hachée en petits morceaux et mélanger jusqu'à l'obtention d'un mélange homogène.</step>
+            <step>La viande ne doit pas être chauffée, sinon elle sera trop sèche à la fin.</step>
+					</dir-div>
+					<dir-div>
+						<title>Sauce béchamel</title>
+            <step>Verser le lait dans une casserole et ajouter le bouillon.</step>
+						<step>Ajouter et la farine puis mélanger bien, pour eviter les grumeaux.</step>
+            <step>Chauffer le tout et mélanger doucement en continu, jusqu'à obtenir la consistance de la béchamel.</step>
+					</dir-div>
+					<dir-div>
+						<title>Lasagnes</title>
+            <step>Verser la moitié de la sauce béchamel et couvrir d'une couche de lasagne.</step>
+            <step>Verser un tiers du hachis et couvrir d'une couche de lasagne.</step>
+            <step>Reitérer avec les deuxième et dernier tiers du hachis. Une couche de lasagne à chaque fois.</step>
+						<step>Verser la dernière moitié de la sauce béchamel et couvrir d'une couche de fromage rapé.</step>
+            <step>Enfourner pendant 45 minutes dans un four à 230°C jusqu'à ce que les lasagnes (les pates) soient molles et le dessus des lasages (le plat) doré.</step>
+					</dir-div>
+        </directions>
+    </recipe>
+</recipeml>
